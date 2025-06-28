@@ -1,5 +1,4 @@
-/*@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap");
-*/
+/*@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap");*/
 body {
   font-family: "Roboto Condensed", sans-serif;
   background: #f5f5f5;
@@ -23,47 +22,54 @@ h1 {
 }
 
 .cataloghi {
-  max-width: 900px;
+  max-width: 1000px;
   margin: 40px auto;
   padding: 0 20px;
 }
 
 .catalogo {
   background: #fff;
-  padding: 24px;
+  padding: 20px;
   margin-bottom: 24px;
-  border-radius: 10px;
+  border-radius: 12px;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.06);
   border: 1px solid #e0e0e0;
   transition: transform 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
 
 .catalogo:hover {
   transform: scale(1.01);
 }
 
-.catalogo h2 {
-  margin-top: 0;
-  font-size: 22px;
+.catalogo img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+  flex-shrink: 0;
+}
+
+.catalogo h2,
+.catalogo h3 {
+  margin: 0 0 8px;
+  font-size: 20px;
   color: #111;
 }
 
 .catalogo p {
-  margin-bottom: 16px;
-  line-height: 1.6;
+  margin: 0 0 12px;
+  line-height: 1.5;
   color: #444;
-}
-
-.catalogo img {
-  width: 100%;
-  border-radius: 8px;
-  margin-bottom: 16px;
-  border: 1px solid #ddd;
+  font-size: 15px;
 }
 
 .catalogo a {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 8px 16px;
   background-color: #000;
   color: white;
   text-decoration: none;
@@ -71,6 +77,7 @@ h1 {
   font-weight: bold;
   letter-spacing: 0.5px;
   text-transform: uppercase;
+  font-size: 13px;
 }
 
 .catalogo a:hover {
@@ -84,28 +91,45 @@ footer {
   font-size: 14px;
   color: #888;
 }
+
+/* CATEGORIE */
+
 .categoria-box {
-  background: #ffffff;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 20px;
+  background: linear-gradient(to right, #eeeeee, #fdfdfd);
+  border: 1px solid #dcdcdc;
+  border-radius: 14px;
+  padding: 24px;
   margin-bottom: 30px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease-in-out;
   cursor: pointer;
 }
 
+.categoria-box:hover {
+  background: #f0f0f0;
+  transform: translateY(-2px);
+}
+
 .categoria-titolo {
-  font-size: 24px;
+  font-size: 26px;
   margin: 0;
-  color: #111;
+  color: #000;
   text-transform: uppercase;
   letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.categoria-titolo::before {
+  content: "📁";
+  font-size: 24px;
 }
 
 .cataloghi-interni {
-  margin-top: 20px;
+  margin-top: 24px;
 }
 
 .cataloghi-interni .catalogo {
-  margin-top: 20px;
+  margin-top: 16px;
 }
