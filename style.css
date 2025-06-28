@@ -84,3 +84,28 @@ footer {
   font-size: 14px;
   color: #888;
 }
+.categoria-box {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  cursor: pointer;
+}
+
+.categoria-titolo {
+  font-size: 24px;
+  margin: 0;
+  color: #111;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.cataloghi-interni {
+  margin-top: 20px;
+}
+
+.cataloghi-interni .catalogo {
+  margin-top: 20px;
+}

@@ -1,104 +1,129 @@
 [
   {
-    "titolo": "Morini Alberghiero 1",
-    "descrizione": "Catalogo 1 della categoria Morini Alberghiero",
-    "link": "https://drive.google.com/uc?export=download&id=1UzEIqUDv5-0FxyJbqcssb-hTZzkLuQIQ",
-    "immagine": "img/default.jpg"
+    "categoria": "Morini Alberghiero",
+    "cataloghi": [
+      {
+        "titolo": "Morini Alberghiero 1",
+        "descrizione": "Catalogo 1 della categoria Morini Alberghiero",
+        "link": "https://drive.google.com/uc?export=download&id=1UzEIqUDv5-0FxyJbqcssb-hTZzkLuQIQ",
+        "immagine": "img/default.jpg"
+      }
+    ]
   },
   {
-    "titolo": "Abbigliamento 1",
-    "descrizione": "Catalogo 1 della categoria Abbigliamento",
-    "link": "https://drive.google.com/uc?export=download&id=1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn",
-    "immagine": "img/default.jpg"
+    "categoria": "Abbigliamento",
+    "cataloghi": [
+      {
+        "titolo": "Abbigliamento 1",
+        "descrizione": "Catalogo 1 della categoria Abbigliamento",
+        "link": "https://drive.google.com/uc?export=download&id=1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn",
+        "immagine": "img/default.jpg"
+      },
+      {
+        "titolo": "Abbigliamento 2",
+        "descrizione": "Catalogo 2 della categoria Abbigliamento",
+        "link": "https://drive.google.com/uc?export=download&id=1bVTkpB0p0yYq9_KF-HLjdEo-UJGRhMrS",
+        "immagine": "img/default.jpg"
+      },
+      {
+        "titolo": "Abbigliamento 3",
+        "descrizione": "Catalogo 3 della categoria Abbigliamento",
+        "link": "https://drive.google.com/uc?export=download&id=1HOtisVVjVJKCdVJCi-C5_DIOrWdIT3Ai",
+        "immagine": "img/default.jpg"
+      },
+      {
+        "titolo": "Abbigliamento 4",
+        "descrizione": "Catalogo 4 della categoria Abbigliamento",
+        "link": "https://drive.google.com/uc?export=download&id=1pTS6SnF6k4hhPHFZSISP05HOrnmWWN_D",
+        "immagine": "img/default.jpg"
+      },
+      {
+        "titolo": "Abbigliamento 5",
+        "descrizione": "Catalogo 5 della categoria Abbigliamento",
+        "link": "https://drive.google.com/uc?export=download&id=1FnjBaLeAg-slZv2kLoceo52qWTZ8pDcH",
+        "immagine": "img/default.jpg"
+      }
+    ]
   },
   {
-    "titolo": "Abbigliamento 2",
-    "descrizione": "Catalogo 2 della categoria Abbigliamento",
-    "link": "https://drive.google.com/uc?export=download&id=1bVTkpB0p0yYq9_KF-HLjdEo-UJGRhMrS",
-    "immagine": "img/default.jpg"
+    "categoria": "Ceramica",
+    "cataloghi": [
+      {
+        "titolo": "Ceramica 1",
+        "descrizione": "Catalogo 1 della categoria Ceramica",
+        "link": "https://drive.google.com/uc?export=download&id=1o4v6Cn3AH4Ps_jzvRXTVZ91LVhL23_qB",
+        "immagine": "img/default.jpg"
+      },
+      {
+        "titolo": "Ceramica 2",
+        "descrizione": "Catalogo 2 della categoria Ceramica",
+        "link": "https://drive.google.com/uc?export=download&id=1cU-8UfiRtLb3zaG4MW2zZjDVeclmbOe4",
+        "immagine": "img/default.jpg"
+      }
+    ]
   },
   {
-    "titolo": "Abbigliamento 3",
-    "descrizione": "Catalogo 3 della categoria Abbigliamento",
-    "link": "https://drive.google.com/uc?export=download&id=1HOtisVVjVJKCdVJCi-C5_DIOrWdIT3Ai",
-    "immagine": "img/default.jpg"
+    "categoria": "Malvolo",
+    "cataloghi": [
+      {
+        "titolo": "Malvolo 1",
+        "descrizione": "Catalogo 1 della categoria Malvolo",
+        "link": "https://drive.google.com/uc?export=download&id=183K8MwkM7wuxOvkViqVWaxD2_AiGzu6P",
+        "immagine": "img/default.jpg"
+      }
+    ]
   },
   {
-    "titolo": "Abbigliamento 4",
-    "descrizione": "Catalogo 4 della categoria Abbigliamento",
-    "link": "https://drive.google.com/uc?export=download&id=1pTS6SnF6k4hhPHFZSISP05HOrnmWWN_D",
-    "immagine": "img/default.jpg"
-  },
-  {
-    "titolo": "Abbigliamento 5",
-    "descrizione": "Catalogo 5 della categoria Abbigliamento",
-    "link": "https://drive.google.com/uc?export=download&id=1FnjBaLeAg-slZv2kLoceo52qWTZ8pDcH",
-    "immagine": "img/default.jpg"
-  },
-  {
-    "titolo": "Ceramica 1",
-    "descrizione": "Catalogo 1 della categoria Ceramica",
-    "link": "https://drive.google.com/uc?export=download&id=1o4v6Cn3AH4Ps_jzvRXTVZ91LVhL23_qB",
-    "immagine": "img/default.jpg"
-  },
-  {
-    "titolo": "Ceramica 2",
-    "descrizione": "Catalogo 2 della categoria Ceramica",
-    "link": "https://drive.google.com/uc?export=download&id=1cU-8UfiRtLb3zaG4MW2zZjDVeclmbOe4",
-    "immagine": "img/default.jpg"
-  },
-  {
-    "titolo": "Malvolo 1",
-    "descrizione": "Catalogo 1 della categoria Malvolo",
-    "link": "https://drive.google.com/uc?export=download&id=183K8MwkM7wuxOvkViqVWaxD2_AiGzu6P",
-    "immagine": "img/default.jpg"
-  },
-  {
-    "titolo": "Onilux Cristalli 1",
-    "descrizione": "Catalogo 1 della categoria Onilux Cristalli",
-    "link": "https://drive.google.com/uc?export=download&id=11gBTDfWmvG2wKKBFpswHMJjutmixijt3",
-    "immagine": "img/default.jpg"
-  },
-  {
-    "titolo": "Onilux Cristalli 2",
-    "descrizione": "Catalogo 2 della categoria Onilux Cristalli",
-    "link": "https://drive.google.com/uc?export=download&id=1M88vvzQnttPbdl43-F3nrASr9gJQJHLm",
-    "immagine": "img/default.jpg"
-  },
-  {
-    "titolo": "Onilux Cristalli 3",
-    "descrizione": "Catalogo 3 della categoria Onilux Cristalli",
-    "link": "https://drive.google.com/uc?export=download&id=1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5",
-    "immagine": "img/default.jpg"
-  },
-  {
-    "titolo": "Onilux Cristalli 4",
-    "descrizione": "Catalogo 4 della categoria Onilux Cristalli",
-    "link": "https://drive.google.com/uc?export=download&id=1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE",
-    "immagine": "img/default.jpg"
-  },
-  {
-    "titolo": "Onilux Cristalli 5",
-    "descrizione": "Catalogo 5 della categoria Onilux Cristalli",
-    "link": "https://drive.google.com/uc?export=download&id=1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs",
-    "immagine": "img/default.jpg"
-  },
-  {
-    "titolo": "Onilux Cristalli 6",
-    "descrizione": "Catalogo 6 della categoria Onilux Cristalli",
-    "link": "https://drive.google.com/uc?export=download&id=19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu",
-    "immagine": "img/default.jpg"
-  },
-  {
-    "titolo": "Onilux Cristalli 7",
-    "descrizione": "Catalogo 7 della categoria Onilux Cristalli",
-    "link": "https://drive.google.com/uc?export=download&id=1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6",
-    "immagine": "img/default.jpg"
-  },
-  {
-    "titolo": "Onilux Cristalli 8",
-    "descrizione": "Catalogo 8 della categoria Onilux Cristalli",
-    "link": "https://drive.google.com/uc?export=download&id=1IhKZv69mrlDok5qYHAhJcZikUCoFGt20",
-    "immagine": "img/default.jpg"
+    "categoria": "Onilux Cristalli",
+    "cataloghi": [
+      {
+        "titolo": "Onilux Cristalli 1",
+        "descrizione": "Catalogo 1 della categoria Onilux Cristalli",
+        "link": "https://drive.google.com/uc?export=download&id=11gBTDfWmvG2wKKBFpswHMJjutmixijt3",
+        "immagine": "img/default.jpg"
+      },
+      {
+        "titolo": "Onilux Cristalli 2",
+        "descrizione": "Catalogo 2 della categoria Onilux Cristalli",
+        "link": "https://drive.google.com/uc?export=download&id=1M88vvzQnttPbdl43-F3nrASr9gJQJHLm",
+        "immagine": "img/default.jpg"
+      },
+      {
+        "titolo": "Onilux Cristalli 3",
+        "descrizione": "Catalogo 3 della categoria Onilux Cristalli",
+        "link": "https://drive.google.com/uc?export=download&id=1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5",
+        "immagine": "img/default.jpg"
+      },
+      {
+        "titolo": "Onilux Cristalli 4",
+        "descrizione": "Catalogo 4 della categoria Onilux Cristalli",
+        "link": "https://drive.google.com/uc?export=download&id=1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE",
+        "immagine": "img/default.jpg"
+      },
+      {
+        "titolo": "Onilux Cristalli 5",
+        "descrizione": "Catalogo 5 della categoria Onilux Cristalli",
+        "link": "https://drive.google.com/uc?export=download&id=1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs",
+        "immagine": "img/default.jpg"
+      },
+      {
+        "titolo": "Onilux Cristalli 6",
+        "descrizione": "Catalogo 6 della categoria Onilux Cristalli",
+        "link": "https://drive.google.com/uc?export=download&id=19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu",
+        "immagine": "img/default.jpg"
+      },
+      {
+        "titolo": "Onilux Cristalli 7",
+        "descrizione": "Catalogo 7 della categoria Onilux Cristalli",
+        "link": "https://drive.google.com/uc?export=download&id=1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6",
+        "immagine": "img/default.jpg"
+      },
+      {
+        "titolo": "Onilux Cristalli 8",
+        "descrizione": "Catalogo 8 della categoria Onilux Cristalli",
+        "link": "https://drive.google.com/uc?export=download&id=1IhKZv69mrlDok5qYHAhJcZikUCoFGt20",
+        "immagine": "img/default.jpg"
+      }
+    ]
   }
 ]
