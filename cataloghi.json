@@ -1,0 +1,14 @@
+[
+  {
+    "titolo": "Catalogo Generale 2025",
+    "descrizione": "Scarica il catalogo completo dei prodotti aggiornato al 2025.",
+    "link": "https://drive.google.com/uc?export=download&id=ID_DEL_FILE_1",
+    "immagine": "img/catalogo-generale.jpg"
+  },
+  {
+    "titolo": "Catalogo Tecnico",
+    "descrizione": "Contiene specifiche tecniche dettagliate per installatori e rivenditori.",
+    "link": "https://drive.google.com/uc?export=download&id=ID_DEL_FILE_2",
+    "immagine": "img/catalogo-tecnico.jpg"
+  }
+]
