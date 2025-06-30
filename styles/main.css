@@ -34,9 +34,12 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.04);
 }
 
-.categoria-titolo::before {
-  content: "📁";
-  font-size: 24px;
+.categoria-titolo img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid var(--border-color);
 }
 
 .categoria-titolo::after {

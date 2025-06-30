@@ -8,10 +8,18 @@ fetch("cataloghi.json")
       const catBox = document.createElement("div");
       catBox.className = "categoria-box";
 
-      // Titolo cliccabile
+      // Intestazione categoria con immagine e titolo
       const title = document.createElement("h2");
-      title.textContent = categoria.categoria;
       title.className = "categoria-titolo";
+
+      const catImg = document.createElement("img");
+      catImg.src = categoria.immagine;
+      catImg.alt = categoria.categoria;
+      title.appendChild(catImg);
+
+      const titleText = document.createElement("span");
+      titleText.textContent = categoria.categoria;
+      title.appendChild(titleText);
 
       // Contenitore cataloghi interni
       const cataloghiDiv = document.createElement("div");
