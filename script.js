@@ -37,6 +37,7 @@ fetch("cataloghi.json")
       title.addEventListener("click", () => {
         aperta = !aperta;
         cataloghiDiv.classList.toggle("aperta", aperta);
+        catBox.classList.toggle("aperta", aperta);
       });
 
       catBox.appendChild(title);

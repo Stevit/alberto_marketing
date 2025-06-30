@@ -1,9 +1,43 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap");
 
+:root {
+  --body-bg: #f5f5f5;
+  --text-color: #1a1a1a;
+  --header-bg: #000;
+  --header-text: #fff;
+  --categoria-box-bg-start: #eeeeee;
+  --categoria-box-bg-end: #fdfdfd;
+  --categoria-title-bg: #fff;
+  --categoria-title-text: #000;
+  --catalogo-bg: #fff;
+  --catalogo-link-bg: #000;
+  --catalogo-link-hover-bg: #333;
+  --border-color: #ccc;
+  --footer-color: #888;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --body-bg: #121212;
+    --text-color: #e0e0e0;
+    --header-bg: #333;
+    --header-text: #fff;
+    --categoria-box-bg-start: #222;
+    --categoria-box-bg-end: #444;
+    --categoria-title-bg: #333;
+    --categoria-title-text: #fff;
+    --catalogo-bg: #222;
+    --catalogo-link-bg: #555;
+    --catalogo-link-hover-bg: #777;
+    --border-color: #555;
+    --footer-color: #aaa;
+  }
+}
+
 body {
   font-family: "Roboto Condensed", sans-serif;
-  background: #f5f5f5;
+  background: var(--body-bg);
   margin: 0;
   padding: 0;
-  color: #1a1a1a;
+  color: var(--text-color);
 }

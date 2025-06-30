@@ -1,6 +1,6 @@
 header {
-  background: #000;
-  color: #fff;
+  background: var(--header-bg);
+  color: var(--header-text);
   padding: 20px 30px;
   display: flex;
   align-items: center;
@@ -14,7 +14,7 @@ header img {
   width: 40px;
   object-fit: cover;
   border-radius: 50%;
-  border: 2px solid #fff;
+  border: 2px solid var(--header-text);
 }
 
 h1 {

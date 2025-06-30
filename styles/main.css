@@ -6,8 +6,8 @@
 
 /* CATEGORIE */
 .categoria-box {
-  background: linear-gradient(to right, #eeeeee, #fdfdfd);
-  border: 1px solid #dcdcdc;
+  background: linear-gradient(to right, var(--categoria-box-bg-start), var(--categoria-box-bg-end));
+  border: 1px solid var(--border-color);
   border-radius: 14px;
   margin-bottom: 30px;
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.05);
@@ -17,7 +17,7 @@
 .categoria-titolo {
   font-size: 26px;
   margin: 0;
-  color: #000;
+  color: var(--categoria-title-text);
   text-transform: uppercase;
   letter-spacing: 1px;
   display: flex;
@@ -25,18 +25,28 @@
   gap: 16px;
   padding: 24px;
   cursor: pointer;
-  background: #fff;
+  background: var(--categoria-title-bg);
   position: sticky;
   top: 0;
   z-index: 1;
   border-radius: 14px 14px 0 0;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid var(--border-color);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.04);
 }
 
 .categoria-titolo::before {
   content: "📁";
   font-size: 24px;
+}
+
+.categoria-titolo::after {
+  content: "\25BC";
+  margin-left: auto;
+  transition: transform 0.3s;
+}
+
+.categoria-box.aperta .categoria-titolo::after {
+  transform: rotate(180deg);
 }
 
 .cataloghi-interni {
@@ -59,12 +69,12 @@
 
 /* CATALOGO */
 .catalogo {
-  background: #fff;
+  background: var(--catalogo-bg);
   padding: 20px;
   margin-bottom: 24px;
   border-radius: 12px;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.06);
-  border: 1px solid #e0e0e0;
+  border: 1px solid var(--border-color);
   transition: transform 0.2s ease;
   display: flex;
   align-items: center;
@@ -80,7 +90,7 @@
   height: 120px;
   object-fit: cover;
   border-radius: 50%;
-  border: 2px solid #ccc;
+  border: 2px solid var(--border-color);
   flex-shrink: 0;
 }
 
@@ -88,20 +98,20 @@
 .catalogo h3 {
   margin: 0 0 8px;
   font-size: 20px;
-  color: #111;
+  color: var(--text-color);
 }
 
 .catalogo p {
   margin: 0 0 12px;
   line-height: 1.5;
-  color: #444;
+  color: var(--text-color);
   font-size: 15px;
 }
 
 .catalogo a {
   display: inline-block;
   padding: 8px 16px;
-  background-color: #000;
+  background-color: var(--catalogo-link-bg);
   color: white;
   text-decoration: none;
   border-radius: 4px;
@@ -112,5 +122,5 @@
 }
 
 .catalogo a:hover {
-  background-color: #333;
+  background-color: var(--catalogo-link-hover-bg);
 }
