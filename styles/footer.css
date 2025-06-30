@@ -3,5 +3,5 @@ footer {
   margin-top: 60px;
   padding: 20px;
   font-size: 14px;
-  color: #888;
+  color: var(--footer-color);
 }
