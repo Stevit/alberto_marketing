@@ -1,11 +1,61 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap");
 
+:root {
+  --background-color: #f5f5f5;
+  --text-color: #1a1a1a;
+  --header-bg: #000;
+  --header-text: #fff;
+  --category-box-bg-start: #eeeeee;
+  --category-box-bg-end: #fdfdfd;
+  --category-box-border: #dcdcdc;
+  --category-box-shadow: rgba(0, 0, 0, 0.05);
+  --category-title-bg: #fff;
+  --category-title-color: #000;
+  --category-title-border: #ccc;
+  --category-title-shadow: rgba(0, 0, 0, 0.04);
+  --catalogo-bg: #fff;
+  --catalogo-border: #e0e0e0;
+  --catalogo-shadow: rgba(0, 0, 0, 0.06);
+  --catalogo-title-color: #111;
+  --catalogo-text-color: #444;
+  --link-bg: #000;
+  --link-color: white;
+  --link-hover-bg: #333;
+  --footer-color: #888;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #1a1a1a;
+    --text-color: #f5f5f5;
+    --header-bg: #333;
+    --header-text: #fff;
+    --category-box-bg-start: #2a2a2a;
+    --category-box-bg-end: #3a3a3a;
+    --category-box-border: #444;
+    --category-box-shadow: rgba(0, 0, 0, 0.2);
+    --category-title-bg: #222;
+    --category-title-color: #eee;
+    --category-title-border: #444;
+    --category-title-shadow: rgba(0, 0, 0, 0.1);
+    --catalogo-bg: #222;
+    --catalogo-border: #444;
+    --catalogo-shadow: rgba(0, 0, 0, 0.1);
+    --catalogo-title-color: #eee;
+    --catalogo-text-color: #bbb;
+    --link-bg: #555;
+    --link-color: white;
+    --link-hover-bg: #777;
+    --footer-color: #aaa;
+  }
+}
+
 body {
   font-family: "Roboto Condensed", sans-serif;
-  background: #f5f5f5;
+  background: var(--background-color);
   margin: 0;
   padding: 0;
-  color: #1a1a1a;
+  color: var(--text-color);
 }
 
 header {

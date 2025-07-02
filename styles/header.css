@@ -1,26 +1,27 @@
 header {
-  background: #000;
-  color: #fff;
+  background: var(--header-bg);
+  color: var(--header-text);
   padding: 20px 30px;
   display: flex;
+  flex-direction: column; /* Stack title and subtitle vertically */
   align-items: center;
   justify-content: center;
-  gap: 16px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  gap: 8px; /* Reduced gap for stacked elements */
+  box-shadow: 0 2px 8px var(--category-box-shadow);
 }
 
-header img {
-  height: 40px;
-  width: 40px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 2px solid #fff;
-}
-
-h1 {
+header h1 {
   margin: 0;
-  font-size: 28px;
+  font-size: 32px; /* Slightly larger for prominence */
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 2px; /* More prominent letter spacing */
   font-weight: 700;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Subtle text shadow */
+}
+
+header p {
+  margin: 0;
+  font-size: 18px; /* Styled subtitle */
+  opacity: 0.8; /* Slightly faded */
+  font-weight: 400;
 }
