@@ -39,6 +39,13 @@ fetch("cataloghi.json")
         cataloghiDiv.classList.toggle("aperta", aperta);
       });
 
+      // Immagine della categoria
+      const catImage = document.createElement("img");
+      catImage.src = categoria.immagine;
+      catImage.alt = categoria.categoria;
+      catImage.className = "categoria-immagine";
+      title.prepend(catImage); // Prepend the image to the title
+
       catBox.appendChild(title);
       catBox.appendChild(cataloghiDiv);
       container.appendChild(catBox);

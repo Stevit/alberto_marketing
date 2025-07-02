@@ -34,9 +34,13 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.04);
 }
 
-.categoria-titolo::before {
-  content: "📁";
-  font-size: 24px;
+.categoria-immagine {
+  width: 40px; /* Adjust size as needed */
+  height: 40px; /* Adjust size as needed */
+  object-fit: cover;
+  border-radius: 8px; /* Slightly rounded corners for a "box" look */
+  margin-right: 10px; /* Space between image and title */
+  flex-shrink: 0; /* Prevent image from shrinking */
 }
 
 .cataloghi-interni {

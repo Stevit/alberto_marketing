@@ -5,129 +5,146 @@
     "cataloghi": [
       {
         "titolo": "Morini Alberghiero 1",
-        "descrizione": "Catalogo 1 della categoria Morini Alberghiero",
+        "descrizione": "Catalogo generale completo Morini Alberghiero.",
         "link": "https://drive.google.com/uc?export=download&id=1UzEIqUDv5-0FxyJbqcssb-hTZzkLuQIQ",
-        "immagine": "img/categorie/morinicategoria.jpg"
+        "immagine": "img/categorie/morinicategoria.jpg",
+        "fileName": "0-CATALOGO GENERALE COMPLETO.pdf"
       }
     ]
   },
   {
     "categoria": "Abbigliamento",
-    "immagine": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?fit=crop&w=800&q=80&auto=format",
+    "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
     "cataloghi": [
       {
         "titolo": "Abbigliamento 1",
-        "descrizione": "Catalogo 1 della categoria Abbigliamento",
+        "descrizione": "Catalogo di tovagliato per il 2025.",
         "link": "https://drive.google.com/uc?export=download&id=1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn",
-        "immagine": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
+        "fileName": "TOVAGLIATO 2025_250226_191435 (1).pdf"
       },
       {
         "titolo": "Abbigliamento 2",
-        "descrizione": "Catalogo 2 della categoria Abbigliamento",
+        "descrizione": "Brochure italiana per la stagione SS25.",
         "link": "https://drive.google.com/uc?export=download&id=1bVTkpB0p0yYq9_KF-HLjdEo-UJGRhMrS",
-        "immagine": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/categorie/morinicategoria.jpg",
+        "fileName": "SS25 Italian Brochure copy.pdf"
       },
       {
         "titolo": "Abbigliamento 3",
-        "descrizione": "Catalogo 3 della categoria Abbigliamento",
+        "descrizione": "Catalogo ONE SIZE per il 2025.",
         "link": "https://drive.google.com/uc?export=download&id=1HOtisVVjVJKCdVJCi-C5_DIOrWdIT3Ai",
-        "immagine": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
+        "fileName": "ONE SIZE 2025_250226_191057.pdf"
       },
       {
         "titolo": "Abbigliamento 4",
-        "descrizione": "Catalogo 4 della categoria Abbigliamento",
+        "descrizione": "Catalogo HORECA per il 2025.",
         "link": "https://drive.google.com/uc?export=download&id=1pTS6SnF6k4hhPHFZSISP05HOrnmWWN_D",
-        "immagine": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/categorie/morinicategoria.jpg",
+        "fileName": "HORECA 2025_250226_190757.pdf"
       },
       {
         "titolo": "Abbigliamento 5",
-        "descrizione": "Catalogo 5 della categoria Abbigliamento",
+        "descrizione": "Catalogo della linea di abbigliamento professionale CHEF LINE per l'anno 2025.",
         "link": "https://drive.google.com/uc?export=download&id=1FnjBaLeAg-slZv2kLoceo52qWTZ8pDcH",
-        "immagine": "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
+        "fileName": "CHEF LINE 2025_250226_191237.pdf"
       }
     ]
   },
   {
     "categoria": "Ceramica",
-    "immagine": "https://images.unsplash.com/photo-1617957741976-27b46d93d7c4?fit=crop&w=800&q=80&auto=format",
+    "immagine": "img/categorie/morinicategoria.jpg",
     "cataloghi": [
       {
         "titolo": "Ceramica 1",
-        "descrizione": "Catalogo 1 della categoria Ceramica",
+        "descrizione": "Catalogo natalizio globale per il 2025.",
         "link": "https://drive.google.com/uc?export=download&id=1o4v6Cn3AH4Ps_jzvRXTVZ91LVhL23_qB",
-        "immagine": "https://images.unsplash.com/photo-1617957741976-27b46d93d7c4?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/cataloghi/christmas2025.jpg",
+        "fileName": "GLOBAL-XMAS-2025-EU.PDF"
       },
       {
         "titolo": "Ceramica 2",
-        "descrizione": "Catalogo 2 della categoria Ceramica",
+        "descrizione": "Catalogo Portmeirion & Spode 2024.",
         "link": "https://drive.google.com/uc?export=download&id=1cU-8UfiRtLb3zaG4MW2zZjDVeclmbOe4",
-        "immagine": "https://images.unsplash.com/photo-1617957741976-27b46d93d7c4?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/cataloghi/ceramica.jpg",
+        "fileName": "catalogo-portmeirion-spode-2024-con-annotation-copertina-e-retro.pdf"
       }
     ]
   },
   {
     "categoria": "Malvolo",
-    "immagine": "https://images.unsplash.com/photo-1616627987285-cf1c9e8d1187?fit=crop&w=800&q=80&auto=format",
+    "immagine": "img/categorie/morinicategoria.jpg",
     "cataloghi": [
       {
         "titolo": "Malvolo 1",
-        "descrizione": "Catalogo 1 della categoria Malvolo",
+        "descrizione": "Catalogo Anthology per il 2025.",
         "link": "https://drive.google.com/uc?export=download&id=183K8MwkM7wuxOvkViqVWaxD2_AiGzu6P",
-        "immagine": "https://images.unsplash.com/photo-1616627987285-cf1c9e8d1187?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/categorie/morinicategoria.jpg",
+        "fileName": "Catalogo_Anthology_2025.pdf"
       }
     ]
   },
   {
     "categoria": "Onilux Cristalli",
-    "immagine": "https://images.unsplash.com/photo-1562531161-5ab0f3d46b0a?fit=crop&w=800&q=80&auto=format",
+    "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
     "cataloghi": [
       {
         "titolo": "Onilux Cristalli 1",
-        "descrizione": "Catalogo 1 della categoria Onilux Cristalli",
+        "descrizione": "Novità Onlylux per gennaio 2025.",
         "link": "https://drive.google.com/uc?export=download&id=11gBTDfWmvG2wKKBFpswHMJjutmixijt3",
-        "immagine": "https://images.unsplash.com/photo-1562531161-5ab0f3d46b0a?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
+        "fileName": "novita-onlylux-gennaio-2025-x-il-web.pdf"
       },
       {
         "titolo": "Onilux Cristalli 2",
-        "descrizione": "Catalogo 2 della categoria Onilux Cristalli",
+        "descrizione": "Novità Cristallo di Corte per gennaio 2025.",
         "link": "https://drive.google.com/uc?export=download&id=1M88vvzQnttPbdl43-F3nrASr9gJQJHLm",
-        "immagine": "https://images.unsplash.com/photo-1562531161-5ab0f3d46b0a?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/categorie/morinicategoria.jpg",
+        "fileName": "novita-cristallo-di-corte-gennaio-2025-x-il-web.pdf"
       },
       {
         "titolo": "Onilux Cristalli 3",
-        "descrizione": "Catalogo 3 della categoria Onilux Cristalli",
+        "descrizione": "Catalogo Pampa Bay 2024.",
         "link": "https://drive.google.com/uc?export=download&id=1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5",
-        "immagine": "https://images.unsplash.com/photo-1562531161-5ab0f3d46b0a?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/cataloghi/pampabay.jpg",
+        "fileName": "catalogo-pampa-bay-2024-con-annotation-con-copertina-e-retro.pdf"
       },
       {
         "titolo": "Onilux Cristalli 4",
-        "descrizione": "Catalogo 4 della categoria Onilux Cristalli",
+        "descrizione": "Catalogo Onlylux per il 2025.",
         "link": "https://drive.google.com/uc?export=download&id=1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE",
-        "immagine": "https://images.unsplash.com/photo-1562531161-5ab0f3d46b0a?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/cataloghi/onlylux.jpg",
+        "fileName": "catalogo-onlylux-2025-x-il-web.pdf"
       },
       {
         "titolo": "Onilux Cristalli 5",
-        "descrizione": "Catalogo 5 della categoria Onilux Cristalli",
+        "descrizione": "Catalogo Juliarte 2024.",
         "link": "https://drive.google.com/uc?export=download&id=1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs",
-        "immagine": "https://images.unsplash.com/photo-1562531161-5ab0f3d46b0a?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
+        "fileName": "catalogo-juliarte-2024-senza-annotation-con-copertina-e-retro.pdf"
       },
       {
         "titolo": "Onilux Cristalli 6",
-        "descrizione": "Catalogo 6 della categoria Onilux Cristalli",
+        "descrizione": "Catalogo generale Rogaska 2024.",
         "link": "https://drive.google.com/uc?export=download&id=19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu",
-        "immagine": "https://images.unsplash.com/photo-1562531161-5ab0f3d46b0a?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/cataloghi/rogaska.jpg",
+        "fileName": "catalogo-generale-rogaska-2024-con-annotation-con-copertina-e-retro.pdf"
       },
       {
         "titolo": "Onilux Cristalli 7",
-        "descrizione": "Catalogo 7 della categoria Onilux Cristalli",
+        "descrizione": "Catalogo Elephant Parade 2024 con design italiano.",
         "link": "https://drive.google.com/uc?export=download&id=1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6",
-        "immagine": "https://images.unsplash.com/photo-1562531161-5ab0f3d46b0a?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/cataloghi/elephant parade.jpg",
+        "fileName": "catalogo-elephant-parade-2024-con-italian-design-giugno_compressed.pdf"
       },
       {
         "titolo": "Onilux Cristalli 8",
-        "descrizione": "Catalogo 8 della categoria Onilux Cristalli",
+        "descrizione": "Catalogo Cristallo di Corte per il 2025.",
         "link": "https://drive.google.com/uc?export=download&id=1IhKZv69mrlDok5qYHAhJcZikUCoFGt20",
-        "immagine": "https://images.unsplash.com/photo-1562531161-5ab0f3d46b0a?fit=crop&w=800&q=80&auto=format"
+        "immagine": "img/cataloghi/castello di corte.jpg",
+        "fileName": "catalogo-cristallo-di-corte-2025-x-il-web.pdf"
       }
     ]
   }
