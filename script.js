@@ -23,7 +23,10 @@ fetch("cataloghi.json")
           <div>
             <h3>${cat.titolo}</h3>
             <p>${cat.descrizione}</p>
-            <a href="${cat.link}" target="_blank">Scarica PDF</a>
+            <div class="button-container">
+              <a href="${cat.linkScarica}" target="_blank" class="btn-download">Scarica PDF</a>
+              <a href="${cat.linkVisualizza}" target="_blank" class="btn-view">Visualizza Online</a>
+            </div>
           </div>
         `;
         cataloghiDiv.appendChild(div);

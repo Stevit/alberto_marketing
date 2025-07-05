@@ -108,10 +108,17 @@
   font-size: 15px;
 }
 
-.catalogo a {
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.btn-download,
+.btn-view {
   display: inline-block;
   padding: 8px 16px;
-  background-color: var(--link-bg);
   color: var(--link-color);
   text-decoration: none;
   border-radius: 4px;
@@ -119,8 +126,29 @@
   letter-spacing: 0.5px;
   text-transform: uppercase;
   font-size: 13px;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
 }
 
-.catalogo a:hover {
+.btn-download:hover,
+.btn-view:hover {
+  transform: translateY(-2px);
+}
+
+.btn-download {
+  background-color: var(--link-bg);
+}
+
+.btn-download:hover {
   background-color: var(--link-hover-bg);
+}
+
+.btn-view {
+  background-color: #28a745; /* Green for "View" */
+}
+
+.btn-view:hover {
+  background-color: #218838; /* Darker green on hover */
 }

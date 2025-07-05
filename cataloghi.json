@@ -1,150 +1,235 @@
 [
   {
-    "categoria": "Morini Alberghiero",
+    "categoria": "Morini Forniture Alberghiere",
     "immagine": "img/categorie/morinicategoria.jpg",
     "cataloghi": [
       {
-        "titolo": "Morini Alberghiero 1",
-        "descrizione": "Catalogo generale completo Morini Alberghiero.",
-        "link": "https://drive.google.com/uc?export=download&id=1UzEIqUDv5-0FxyJbqcssb-hTZzkLuQIQ",
+        "titolo": "Morini Forniture Alberghiere",
+        "descrizione": "Catalogo generale completo.",
+        "linkVisualizza": "https://drive.google.com/file/d/1UzEIqUDv5-0FxyJbqcssb-hTZzkLuQIQ/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1UzEIqUDv5-0FxyJbqcssb-hTZzkLuQIQ",
         "immagine": "img/categorie/morinicategoria.jpg",
         "fileName": "0-CATALOGO GENERALE COMPLETO.pdf"
       }
     ]
   },
   {
-    "categoria": "Abbigliamento",
-    "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
+    "categoria": "Abbigliamento e tessuti",
+    "immagine": "img/categorie/abbigliamentoetessuti.jpg",
     "cataloghi": [
       {
-        "titolo": "Abbigliamento 1",
-        "descrizione": "Catalogo di tovagliato per il 2025.",
-        "link": "https://drive.google.com/uc?export=download&id=1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn",
-        "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
+        "titolo": "Tovagliato",
+        "descrizione": "Catalogo del tovagliato per il 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn",
+        "immagine": "img/categorie/abbigliamentoetessuti.jpg",
         "fileName": "TOVAGLIATO 2025_250226_191435 (1).pdf"
       },
       {
-        "titolo": "Abbigliamento 2",
-        "descrizione": "Brochure italiana per la stagione SS25.",
-        "link": "https://drive.google.com/uc?export=download&id=1bVTkpB0p0yYq9_KF-HLjdEo-UJGRhMrS",
-        "immagine": "img/categorie/morinicategoria.jpg",
-        "fileName": "SS25 Italian Brochure copy.pdf"
-      },
-      {
-        "titolo": "Abbigliamento 3",
-        "descrizione": "Catalogo ONE SIZE per il 2025.",
-        "link": "https://drive.google.com/uc?export=download&id=1HOtisVVjVJKCdVJCi-C5_DIOrWdIT3Ai",
-        "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
+        "titolo": "Abbigliamento One Size",
+        "descrizione": "Catalogo One Size per il 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1HOtisVVjVJKCdVJCi-C5_DIOrWdIT3Ai/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1HOtisVVjVJKCdVJCi-C5_DIOrWdIT3Ai",
+        "immagine": "img/cataloghi/onesize.jpg",
         "fileName": "ONE SIZE 2025_250226_191057.pdf"
       },
       {
-        "titolo": "Abbigliamento 4",
+        "titolo": "Abbigliamento Horeca",
         "descrizione": "Catalogo HORECA per il 2025.",
-        "link": "https://drive.google.com/uc?export=download&id=1pTS6SnF6k4hhPHFZSISP05HOrnmWWN_D",
-        "immagine": "img/categorie/morinicategoria.jpg",
+        "linkVisualizza": "https://drive.google.com/file/d/1pTS6SnF6k4hhPHFZSISP05HOrnmWWN_D/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1pTS6SnF6k4hhPHFZSISP05HOrnmWWN_D",
+        "immagine": "img/cataloghi/horeca.jpg",
         "fileName": "HORECA 2025_250226_190757.pdf"
       },
       {
-        "titolo": "Abbigliamento 5",
+        "titolo": "Abbigliamento Chefline",
         "descrizione": "Catalogo della linea di abbigliamento professionale CHEF LINE per l'anno 2025.",
-        "link": "https://drive.google.com/uc?export=download&id=1FnjBaLeAg-slZv2kLoceo52qWTZ8pDcH",
-        "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
+        "linkVisualizza": "https://drive.google.com/file/d/1FnjBaLeAg-slZv2kLoceo52qWTZ8pDcH/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1FnjBaLeAg-slZv2kLoceo52qWTZ8pDcH",
+        "immagine": "img/cataloghi/chefline.jpg",
         "fileName": "CHEF LINE 2025_250226_191237.pdf"
       }
     ]
   },
   {
-    "categoria": "Ceramica",
-    "immagine": "img/categorie/morinicategoria.jpg",
+    "categoria": "Ceramiche",
+    "immagine": "img/categorie/ceramiche.jpg",
     "cataloghi": [
       {
-        "titolo": "Ceramica 1",
-        "descrizione": "Catalogo natalizio globale per il 2025.",
-        "link": "https://drive.google.com/uc?export=download&id=1o4v6Cn3AH4Ps_jzvRXTVZ91LVhL23_qB",
+        "titolo": "Natale Portmeirion 2025",
+        "descrizione": "Catalogo natalizio Portmeirion per il 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1o4v6Cn3AH4Ps_jzvRXTVZ91LVhL23_qB/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1o4v6Cn3AH4Ps_jzvRXTVZ91LVhL23_qB",
         "immagine": "img/cataloghi/christmas2025.jpg",
         "fileName": "GLOBAL-XMAS-2025-EU.PDF"
       },
       {
-        "titolo": "Ceramica 2",
-        "descrizione": "Catalogo Portmeirion & Spode 2024.",
-        "link": "https://drive.google.com/uc?export=download&id=1cU-8UfiRtLb3zaG4MW2zZjDVeclmbOe4",
+        "titolo": "Catalogo Portmeirion",
+        "descrizione": "Catalogo ceramiche Portmeirion.",
+        "linkVisualizza": "https://drive.google.com/file/d/1cU-8UfiRtLb3zaG4MW2zZjDVeclmbOe4/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1cU-8UfiRtLb3zaG4MW2zZjDVeclmbOe4",
         "immagine": "img/cataloghi/ceramica.jpg",
         "fileName": "catalogo-portmeirion-spode-2024-con-annotation-copertina-e-retro.pdf"
       }
     ]
   },
   {
-    "categoria": "Malvolo",
-    "immagine": "img/categorie/morinicategoria.jpg",
+    "categoria": "Food & Beverage",
+    "immagine": "img/categorie/food.jpg",
     "cataloghi": [
       {
-        "titolo": "Malvolo 1",
+        "titolo": "Mavolo alcolici e bevande",
         "descrizione": "Catalogo Anthology per il 2025.",
-        "link": "https://drive.google.com/uc?export=download&id=183K8MwkM7wuxOvkViqVWaxD2_AiGzu6P",
-        "immagine": "img/categorie/morinicategoria.jpg",
+        "linkVisualizza": "https://drive.google.com/file/d/183K8MwkM7wuxOvkViqVWaxD2_AiGzu6P/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=183K8MwkM7wuxOvkViqVWaxD2_AiGzu6P",
+        "immagine": "img/cataloghi/mavolo.jpg",
         "fileName": "Catalogo_Anthology_2025.pdf"
+      },
+      {
+        "titolo": "Passoladro Prodotti Bio",
+        "descrizione": "Catalogo di prodotti biologici.",
+        "linkVisualizza": "https://drive.google.com/file/d/12j4GEcODtXs7rkGEGPi2x-_qJaOXFcYv/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=12j4GEcODtXs7rkGEGPi2x-_qJaOXFcYv",
+        "immagine": "img/cataloghi/passoladro.jpg",
+        "fileName": "Passoladro-Prodotti-Bio.pdf"
+      },
+      {
+        "titolo": "Laboratorio di Cannavacciuolo",
+        "descrizione": "Catalogo del Laboratorio di Cannavacciuolo.",
+        "linkVisualizza": "https://drive.google.com/file/d/12yPDAfuCEJh9hyIV_S6vDfNIQJZQx1wq/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=12yPDAfuCEJh9hyIV_S6vDfNIQJZQx1wq",
+        "immagine": "img/cataloghi/cannavacciuolo.jpg",
+        "fileName": "Laboratorio-di-Cannavacciuolo.pdf"
+      },
+      {
+        "titolo": "Nio Cocktails",
+        "descrizione": "Catalogo di Nio Cocktails.",
+        "linkVisualizza": "https://drive.google.com/file/d/13SdxanbFjgwM8MIKPgRNcywIlNbEU86v/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=13SdxanbFjgwM8MIKPgRNcywIlNbEU86v",
+        "immagine": "img/cataloghi/nio.jpg",
+        "fileName": "Nio-Cocktails.pdf"
       }
     ]
   },
   {
-    "categoria": "Onilux Cristalli",
+    "categoria": "Onlilux Cristalli",
     "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
     "cataloghi": [
       {
         "titolo": "Onilux Cristalli 1",
         "descrizione": "Novità Onlylux per gennaio 2025.",
-        "link": "https://drive.google.com/uc?export=download&id=11gBTDfWmvG2wKKBFpswHMJjutmixijt3",
+        "linkVisualizza": "https://drive.google.com/file/d/11gBTDfWmvG2wKKBFpswHMJjutmixijt3/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=11gBTDfWmvG2wKKBFpswHMJjutmixijt3",
         "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
         "fileName": "novita-onlylux-gennaio-2025-x-il-web.pdf"
       },
       {
         "titolo": "Onilux Cristalli 2",
         "descrizione": "Novità Cristallo di Corte per gennaio 2025.",
-        "link": "https://drive.google.com/uc?export=download&id=1M88vvzQnttPbdl43-F3nrASr9gJQJHLm",
+        "linkVisualizza": "https://drive.google.com/file/d/1M88vvzQnttPbdl43-F3nrASr9gJQJHLm/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1M88vvzQnttPbdl43-F3nrASr9gJQJHLm",
         "immagine": "img/categorie/morinicategoria.jpg",
         "fileName": "novita-cristallo-di-corte-gennaio-2025-x-il-web.pdf"
       },
       {
         "titolo": "Onilux Cristalli 3",
         "descrizione": "Catalogo Pampa Bay 2024.",
-        "link": "https://drive.google.com/uc?export=download&id=1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5",
+        "linkVisualizza": "https://drive.google.com/file/d/1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5",
         "immagine": "img/cataloghi/pampabay.jpg",
         "fileName": "catalogo-pampa-bay-2024-con-annotation-con-copertina-e-retro.pdf"
       },
       {
         "titolo": "Onilux Cristalli 4",
         "descrizione": "Catalogo Onlylux per il 2025.",
-        "link": "https://drive.google.com/uc?export=download&id=1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE",
+        "linkVisualizza": "https://drive.google.com/file/d/1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE",
         "immagine": "img/cataloghi/onlylux.jpg",
         "fileName": "catalogo-onlylux-2025-x-il-web.pdf"
       },
       {
         "titolo": "Onilux Cristalli 5",
         "descrizione": "Catalogo Juliarte 2024.",
-        "link": "https://drive.google.com/uc?export=download&id=1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs",
+        "linkVisualizza": "https://drive.google.com/file/d/1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs",
         "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
         "fileName": "catalogo-juliarte-2024-senza-annotation-con-copertina-e-retro.pdf"
       },
       {
         "titolo": "Onilux Cristalli 6",
         "descrizione": "Catalogo generale Rogaska 2024.",
-        "link": "https://drive.google.com/uc?export=download&id=19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu",
+        "linkVisualizza": "https://drive.google.com/file/d/19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu",
         "immagine": "img/cataloghi/rogaska.jpg",
         "fileName": "catalogo-generale-rogaska-2024-con-annotation-con-copertina-e-retro.pdf"
       },
       {
         "titolo": "Onilux Cristalli 7",
         "descrizione": "Catalogo Elephant Parade 2024 con design italiano.",
-        "link": "https://drive.google.com/uc?export=download&id=1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6",
+        "linkVisualizza": "https://drive.google.com/file/d/1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6",
         "immagine": "img/cataloghi/elephant parade.jpg",
         "fileName": "catalogo-elephant-parade-2024-con-italian-design-giugno_compressed.pdf"
       },
       {
         "titolo": "Onilux Cristalli 8",
         "descrizione": "Catalogo Cristallo di Corte per il 2025.",
-        "link": "https://drive.google.com/uc?export=download&id=1IhKZv69mrlDok5qYHAhJcZikUCoFGt20",
+        "linkVisualizza": "https://drive.google.com/file/d/1IhKZv69mrlDok5qYHAhJcZikUCoFGt20/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1IhKZv69mrlDok5qYHAhJcZikUCoFGt20",
         "immagine": "img/cataloghi/castello di corte.jpg",
         "fileName": "catalogo-cristallo-di-corte-2025-x-il-web.pdf"
+      }
+    ]
+  },
+  {
+    "categoria": "Oggettistica e Decorazioni",
+    "immagine": "img/categorie/oggettisticaedecorazioni.jpg",
+    "cataloghi": [
+      {
+        "titolo": "L'arte della tavola",
+        "descrizione": "Catalogo di articoli per la tavola.",
+        "linkVisualizza": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1fE0T2NEp5y2sR5d2D_2y3j4k5l6m7n8o&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
+        "linkScarica": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1fE0T2NEp5y2sR5d2D_2y3j4k5l6m7n8o&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
+        "immagine": "img/categorie/morinicategoria.jpg",
+        "fileName": "L'arte-della-tavola.pdf"
+      },
+      {
+        "titolo": "Decorazioni per la casa",
+        "descrizione": "Catalogo di decorazioni per la casa.",
+        "linkVisualizza": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1aB2c3d4e5f6g7h8i9j0k1l2m3n4o5p6&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
+        "linkScarica": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1aB2c3d4e5f6g7h8i9j0k1l2m3n4o5p6&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
+        "immagine": "img/categorie/morinicategoria.jpg",
+        "fileName": "Decorazioni-per-la-casa.pdf"
+      },
+      {
+        "titolo": "Abbigliamento 2",
+        "descrizione": "Brochure italiana per la stagione SS25.",
+        "linkVisualizza": "https://drive.google.com/file/d/1bVTkpB0p0yYq9_KF-HLjdEo-UJGRhMrS/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1bVTkpB0p0yYq9_KF-HLjdEo-UJGRhMrS",
+        "immagine": "img/categorie/morinicategoria.jpg",
+        "fileName": "SS25 Italian Brochure copy.pdf"
+      }
+    ]
+  },
+  {
+    "categoria": "Detergenza e Sicurezza",
+    "immagine": "img/categorie/morinicategoria.jpg",
+    "cataloghi": [
+      {
+        "titolo": "Detergenti professionali",
+        "descrizione": "Catalogo di detergenti professionali.",
+        "linkVisualizza": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1qW2e3r4t5y6u7i8o9p0a1s2d3f4g5h6&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
+        "linkScarica": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1qW2e3r4t5y6u7i8o9p0a1s2d3f4g5h6&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
+        "immagine": "img/categorie/morinicategoria.jpg",
+        "fileName": "Detergenti-professionali.pdf"
+      },
+      {
+        "titolo": "Dispositivi di protezione individuale",
+        "descrizione": "Catalogo di dispositivi di protezione individuale.",
+        "linkVisualizza": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1zX2y3c4v5b6n7m8l9k0j1h2g3f4d5s6&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
+        "linkScarica": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1zX2y3c4v5b6n7m8l9k0j1h2g3f4d5s6&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
+        "immagine": "img/categorie/morinicategoria.jpg",
+        "fileName": "Dispositivi-di-protezione-individuale.pdf"
       }
     ]
   }
