@@ -18,17 +18,40 @@ fetch("cataloghi.json")
       categoria.cataloghi.forEach((cat) => {
         const div = document.createElement("div");
         div.className = "catalogo";
+        div.dataset.id = cat.titolo; // Unique ID for the catalog
+
+        const isDownloaded = localStorage.getItem(cat.titolo) === "true";
+
         div.innerHTML = `
           <img src="${cat.immagine}" alt="${cat.titolo}">
           <div>
             <h3>${cat.titolo}</h3>
             <p>${cat.descrizione}</p>
             <div class="button-container">
-              <a href="${cat.linkScarica}" target="_blank" class="btn-download">Scarica PDF</a>
-              <a href="${cat.linkVisualizza}" target="_blank" class="btn-view">Visualizza Online</a>
+              ${
+                isDownloaded
+                  ? `<a href="${cat.linkScarica}" target="_blank" class="btn-download again">Scarica di nuovo</a>
+                     <a href="${cat.linkVisualizza}" target="_blank" class="btn-view">Visualizza</a>`
+                  : `<a href="${cat.linkScarica}" target="_blank" class="btn-download">Scarica</a>`
+              }
             </div>
           </div>
         `;
+
+        const downloadButton = div.querySelector(".btn-download");
+        if (downloadButton) {
+          downloadButton.addEventListener("click", () => {
+            localStorage.setItem(cat.titolo, "true");
+            
+            // Update the button container immediately
+            const buttonContainer = div.querySelector(".button-container");
+            buttonContainer.innerHTML = `
+              <a href="${cat.linkScarica}" target="_blank" class="btn-download again">Scarica di nuovo</a>
+              <a href="${cat.linkVisualizza}" target="_blank" class="btn-view">Visualizza</a>
+            `;
+          });
+        }
+
         cataloghiDiv.appendChild(div);
         catalogItems.push(div);
       });
