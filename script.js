@@ -2,6 +2,8 @@ fetch("cataloghi.json")
   .then((res) => res.json())
   .then((data) => {
     const container = document.querySelector(".cataloghi");
+    const categoryImagePromises = [];
+    const catalogImagesToLoad = [];
 
     data.forEach((categoria) => {
       const catBox = document.createElement("div");
@@ -22,6 +24,7 @@ fetch("cataloghi.json")
 
         const isDownloaded = localStorage.getItem(cat.titolo) === "true";
 
+        // Mettiamo l'URL dell'immagine in data-src per caricarla dopo
         div.innerHTML = `
           <img data-src="${cat.immagine}" alt="${cat.titolo}" src="">
           <div>
@@ -37,13 +40,15 @@ fetch("cataloghi.json")
             </div>
           </div>
         `;
+        
+        // Aggiungiamo l'immagine alla lista di quelle da caricare dopo
+        catalogImagesToLoad.push(div.querySelector("img"));
 
         const downloadButton = div.querySelector(".btn-download");
         if (downloadButton) {
           downloadButton.addEventListener("click", () => {
             localStorage.setItem(cat.titolo, "true");
             
-            // Update the button container immediately
             const buttonContainer = div.querySelector(".button-container");
             buttonContainer.innerHTML = `
               <a href="${cat.linkScarica}" target="_blank" class="btn-download again">Scarica di nuovo</a>
@@ -56,19 +61,10 @@ fetch("cataloghi.json")
         catalogItems.push(div);
       });
 
-      let imagesLoaded = false;
       title.addEventListener("click", () => {
         const isOpening = !cataloghiDiv.classList.contains("aperta");
 
         if (isOpening) {
-          if (!imagesLoaded) {
-            const images = cataloghiDiv.querySelectorAll("img[data-src]");
-            images.forEach(img => {
-              img.src = img.dataset.src;
-            });
-            imagesLoaded = true;
-          }
-
           cataloghiDiv.classList.add("aperta");
           cataloghiDiv.style.maxHeight = cataloghiDiv.scrollHeight + "px";
           catalogItems.forEach((item, i) => {
@@ -82,23 +78,18 @@ fetch("cataloghi.json")
           });
 
         } else {
-          // → chiusura
-          // step 1: anima via gli item
           [...catalogItems].reverse().forEach((item, i) => {
             setTimeout(() => item.classList.remove("visible"), i * 50);
           });
-          // step 2: dopo che tutti gli item hanno iniziato a scomparire…
           const delay = catalogItems.length * 50 + 50;
           setTimeout(() => {
-            // imposti partenza, forzi reflow, togli classe, e imposti 0
             cataloghiDiv.style.maxHeight = cataloghiDiv.scrollHeight + "px";
             void cataloghiDiv.offsetHeight;
             cataloghiDiv.classList.remove("aperta");
             cataloghiDiv.style.maxHeight = "0";
-            // pulisci lo style al termine della transizione
             cataloghiDiv.addEventListener("transitionend", function closeEnd(e) {
               if (e.propertyName === "max-height") {
-                cataloghiDiv.style.maxHeight = ""; // Rimuovi lo stile inline
+                cataloghiDiv.style.maxHeight = "";
                 cataloghiDiv.removeEventListener("transitionend", closeEnd);
               }
             });
@@ -106,15 +97,41 @@ fetch("cataloghi.json")
         }
       });
 
+      // Carichiamo subito l'immagine della categoria
       const catImage = document.createElement("img");
-      catImage.src = categoria.immagine;
       catImage.alt = categoria.categoria;
       catImage.className = "categoria-immagine";
+      
+      // Creiamo una Promise per sapere quando ha finito di caricare
+      const imagePromise = new Promise((resolve, reject) => {
+        catImage.onload = resolve;
+        catImage.onerror = reject;
+      });
+      categoryImagePromises.push(imagePromise);
+      
+      catImage.src = categoria.immagine; // Avvia il download
       title.prepend(catImage);
 
       catBox.appendChild(title);
       catBox.appendChild(cataloghiDiv);
       container.appendChild(catBox);
     });
+
+    // Quando tutte le immagini delle categorie sono state caricate...
+    Promise.all(categoryImagePromises)
+      .then(() => {
+        console.log("Immagini delle categorie caricate. Inizio caricamento immagini cataloghi in background.");
+        // ...inizia a caricare le immagini dei cataloghi una alla volta
+        catalogImagesToLoad.forEach((img, index) => {
+          setTimeout(() => {
+            if (img.dataset.src) {
+              img.src = img.dataset.src;
+            }
+          }, index * 100); // Aggiungo un piccolo ritardo per non sovraccaricare il browser
+        });
+      })
+      .catch((error) => {
+        console.error("Errore nel caricamento di un'immagine di categoria.", error);
+      });
   })
   .catch((err) => console.error("Errore caricamento cataloghi:", err));
