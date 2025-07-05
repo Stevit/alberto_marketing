@@ -161,69 +161,94 @@
   },
   {
     "categoria": "Oggettistica e Decorazioni",
-    "immagine": "img/categorie/oggettisticaedecorazioni.jpg",
+    "immagine": "img/categorie/oggettistica.jpg",
     "cataloghi": [
       {
-        "titolo": "L'arte della tavola",
-        "descrizione": "Catalogo di articoli per la tavola.",
-        "linkVisualizza": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1fE0T2NEp5y2sR5d2D_2y3j4k5l6m7n8o&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
-        "linkScarica": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1fE0T2NEp5y2sR5d2D_2y3j4k5l6m7n8o&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
-        "immagine": "img/categorie/morinicategoria.jpg",
-        "fileName": "L'arte-della-tavola.pdf"
-      },
-      {
-        "titolo": "Decorazioni per la casa",
-        "descrizione": "Catalogo di decorazioni per la casa.",
-        "linkVisualizza": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1aB2c3d4e5f6g7h8i9j0k1l2m3n4o5p6&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
-        "linkScarica": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1aB2c3d4e5f6g7h8i9j0k1l2m3n4o5p6&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
-        "immagine": "img/categorie/morinicategoria.jpg",
-        "fileName": "Decorazioni-per-la-casa.pdf"
-      },
-      {
-        "titolo": "Abbigliamento 2",
-        "descrizione": "Brochure italiana per la stagione SS25.",
+        "titolo": "Bombs Cosmetics",
+        "descrizione": "Catalogo Bombs Cosmetics 2025",
         "linkVisualizza": "https://drive.google.com/file/d/1bVTkpB0p0yYq9_KF-HLjdEo-UJGRhMrS/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1bVTkpB0p0yYq9_KF-HLjdEo-UJGRhMrS",
-        "immagine": "img/categorie/morinicategoria.jpg",
+        "immagine": "img/cataloghi/bombs.jpg",
         "fileName": "SS25 Italian Brochure copy.pdf"
       },
       {
-        "titolo": "Onilux Cristalli 5",
-        "descrizione": "Catalogo Juliarte 2024.",
+        "titolo": "Juliarte Design",
+        "descrizione": "Catalogo Juliarte design",
         "linkVisualizza": "https://drive.google.com/file/d/1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs",
-        "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
+        "immagine": "img/cataloghi/juliarte.jpg",
         "fileName": "catalogo-juliarte-2024-senza-annotation-con-copertina-e-retro.pdf"
       },
       {
-        "titolo": "Onilux Cristalli 7",
-        "descrizione": "Catalogo Elephant Parade 2024 con design italiano.",
+        "titolo": "Elephant Parade Design",
+        "descrizione": "Catalogo Elephant Parade italian design.",
         "linkVisualizza": "https://drive.google.com/file/d/1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6",
         "immagine": "img/cataloghi/elephant parade.jpg",
         "fileName": "catalogo-elephant-parade-2024-con-italian-design-giugno_compressed.pdf"
+      },
+      {
+        "titolo": "Candele e Profumatori Acqua ai Fiori di Spello",
+        "descrizione": "Catalogo Candele e Profumatori Acqua ai Fiori di Spello.",
+        "linkVisualizza": "https://drive.google.com/file/d/13SdxanbFjgwM8MIKPgRNcywIlNbEU86v/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=13SdxanbFjgwM8MIKPgRNcywIlNbEU86v",
+        "immagine": "img/cataloghi/acqua.jpg",
+        "fileName": "Candele-e-Profumatori-Acqua-ai-Fiori-di-Spello.pdf"
+      },
+      {
+        "titolo": "Doing Goods Lampade",
+        "descrizione": "Catalogo Doing Goods Lampade.",
+        "linkVisualizza": "https://drive.google.com/file/d/133JMp85NORHp7JErUX7CCKJFuDcKjhgi/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=133JMp85NORHp7JErUX7CCKJFuDcKjhgi",
+        "immagine": "img/cataloghi/doinglam.jpg",
+        "fileName": "Doing-Goods-Lampade.pdf"
+      },
+      {
+        "titolo": "Doing Goods Decorazioni",
+        "descrizione": "Catalogo Doing Goods Decorazioni.",
+        "linkVisualizza": "https://drive.google.com/file/d/13PYgIkb7TZRNf60UpOHho6kFzG59WdrR/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=13PYgIkb7TZRNf60UpOHho6kFzG59WdrR",
+        "immagine": "img/cataloghi/doingdec.jpg",
+        "fileName": "Doing-Goods-Decorazioni.pdf"
       }
     ]
   },
   {
-    "categoria": "Detergenza e Sicurezza",
-    "immagine": "img/categorie/morinicategoria.jpg",
+    "categoria": "cataloghi brhema",
+    "immagine": "img/categorie/brhema.jpg",
     "cataloghi": [
       {
-        "titolo": "Detergenti professionali",
-        "descrizione": "Catalogo di detergenti professionali.",
-        "linkVisualizza": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1qW2e3r4t5y6u7i8o9p0a1s2d3f4g5h6&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
-        "linkScarica": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1qW2e3r4t5y6u7i8o9p0a1s2d3f4g5h6&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
-        "immagine": "img/categorie/morinicategoria.jpg",
-        "fileName": "Detergenti-professionali.pdf"
+        "titolo": "Brhema Igiene",
+        "descrizione": "Catalogo Brhema Igiene 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1_5Pn6bLWRVXy7fihwfl4xhfaP2N-1bK5/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1_5Pn6bLWRVXy7fihwfl4xhfaP2N-1bK5",
+        "immagine": "img/cataloghi/igiene.jpg",
+        "fileName": "Brhema-Igiene-2025.pdf"
+      },
+
+      {
+        "titolo": "Brhema Industria",
+        "descrizione": "Catalogo Brhema Industria 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6",
+        "immagine": "img/cataloghi/industria.jpg",
+        "fileName": "Brhema-Industria-2025.pdf"
       },
       {
-        "titolo": "Dispositivi di protezione individuale",
-        "descrizione": "Catalogo di dispositivi di protezione individuale.",
-        "linkVisualizza": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1zX2y3c4v5b6n7m8l9k0j1h2g3f4d5s6&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
-        "linkScarica": "https://www.google.com/url?q=https://drive.google.com/uc?export%3Ddownload%26id%3D1zX2y3c4v5b6n7m8l9k0j1h2g3f4d5s6&sa=D&source=docs&ust=1720189200000000&usg=AOvVaw0Q4Z1Y1Z1Y1Z1Y1Z1Y1Z1Y",
-        "immagine": "img/categorie/morinicategoria.jpg",
-        "fileName": "Dispositivi-di-protezione-individuale.pdf"
+        "titolo": "Brhema Office",
+        "descrizione": "Catalogo Brhema Office 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1_0-j99N-pPbh7sV3inToic8rbZs5VZME/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1_0-j99N-pPbh7sV3inToic8rbZs5VZME",
+        "immagine": "img/cataloghi/office.jpg",
+        "fileName": "Brhema-Office-2025.pdf"
+      },
+      {
+        "titolo": "Brhema Sicurezza",
+        "descrizione": "Catalogo Brhema Sicurezza 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1ZtVyPxCzkpk2BNAx07NH25nnPtZtp_sT/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1ZtVyPxCzkpk2BNAx07NH25nnPtZtp_sT",
+        "immagine": "img/cataloghi/sicurezza.jpg",
+        "fileName": "Brhema-Sicurezza-2025.pdf"
       }
     ]
   }
