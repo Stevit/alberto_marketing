@@ -23,7 +23,7 @@ fetch("cataloghi.json")
         const isDownloaded = localStorage.getItem(cat.titolo) === "true";
 
         div.innerHTML = `
-          <img src="${cat.immagine}" alt="${cat.titolo}">
+          <img data-src="${cat.immagine}" alt="${cat.titolo}" src="">
           <div>
             <h3>${cat.titolo}</h3>
             <p>${cat.descrizione}</p>
@@ -56,11 +56,19 @@ fetch("cataloghi.json")
         catalogItems.push(div);
       });
 
+      let imagesLoaded = false;
       title.addEventListener("click", () => {
         const isOpening = !cataloghiDiv.classList.contains("aperta");
 
         if (isOpening) {
-          // → apertura (uguale a prima)
+          if (!imagesLoaded) {
+            const images = cataloghiDiv.querySelectorAll("img[data-src]");
+            images.forEach(img => {
+              img.src = img.dataset.src;
+            });
+            imagesLoaded = true;
+          }
+
           cataloghiDiv.classList.add("aperta");
           cataloghiDiv.style.maxHeight = cataloghiDiv.scrollHeight + "px";
           catalogItems.forEach((item, i) => {
