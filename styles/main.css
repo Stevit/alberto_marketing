@@ -130,6 +130,7 @@
   border: none;
   cursor: pointer;
   transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
+  flex: 1;
 }
 
 .btn-download:hover,
