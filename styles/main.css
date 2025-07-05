@@ -110,7 +110,7 @@
 
 .button-container {
   display: flex;
-  flex-wrap: wrap;
+  justify-content: flex-start; /* Allinea i pulsanti a sinistra */
   gap: 10px;
   margin-top: 12px;
 }
@@ -130,8 +130,8 @@
   border: none;
   cursor: pointer;
   transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
-  flex: 1;
   white-space: nowrap;
+  min-width: 140px; /* Imposta una larghezza minima fissa */
 }
 
 .btn-download:hover,
