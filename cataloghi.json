@@ -1,6 +1,6 @@
 [
   {
-    "categoria": "Morini Forniture Alberghiere",
+    "categoria": "Forniture Alberghi e ristoranti",
     "immagine": "img/categorie/morinicategoria.jpg",
     "cataloghi": [
       {
@@ -10,6 +10,54 @@
         "linkScarica": "https://drive.google.com/uc?export=download&id=1UzEIqUDv5-0FxyJbqcssb-hTZzkLuQIQ",
         "immagine": "img/categorie/morinicategoria.jpg",
         "fileName": "0-CATALOGO GENERALE COMPLETO.pdf"
+      },
+      {
+        "titolo": "Novità Onlylux vasi e bicchieri",
+        "descrizione": "Novità Onlylux 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/11gBTDfWmvG2wKKBFpswHMJjutmixijt3/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=11gBTDfWmvG2wKKBFpswHMJjutmixijt3",
+        "immagine": "img/cataloghi/novitaonlylux.jpg",
+        "fileName": "novita-onlylux-gennaio-2025-x-il-web.pdf"
+      },
+      {
+        "titolo": "Novità Onlylux Cristalli di Corte",
+        "descrizione": "Novità Cristalli di Corte 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1M88vvzQnttPbdl43-F3nrASr9gJQJHLm/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1M88vvzQnttPbdl43-F3nrASr9gJQJHLm",
+        "immagine": "img/cataloghi/corte.jpg",
+        "fileName": "novita-cristallo-di-corte-gennaio-2025-x-il-web.pdf"
+      },
+      {
+        "titolo": "Pampa Bay Ceramiche",
+        "descrizione": "Catalogo Pampa Bay.",
+        "linkVisualizza": "https://drive.google.com/file/d/1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5",
+        "immagine": "img/cataloghi/pampabay.jpg",
+        "fileName": "catalogo-pampa-bay-2024-con-annotation-con-copertina-e-retro.pdf"
+      },
+      {
+        "titolo": "Onlylux vasi e bicchieri",
+        "descrizione": "Catalogo completo Onlylux 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE",
+        "immagine": "img/cataloghi/onlylux.jpg",
+        "fileName": "catalogo-onlylux-2025-x-il-web.pdf"
+      },
+      {
+        "titolo": "Rogaska cristalli",
+        "descrizione": "Catalogo generale Rogaska.",
+        "linkVisualizza": "https://drive.google.com/file/d/19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu",
+        "immagine": "img/cataloghi/rogaska.jpg",
+        "fileName": "catalogo-generale-rogaska-2024-con-annotation-con-copertina-e-retro.pdf"
+      },
+      {
+        "titolo": "Onlylux Cristalli di Corte",
+        "descrizione": "Catalogo completo Cristalli di Corte 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1IhKZv69mrlDok5qYHAhJcZikUCoFGt20/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1IhKZv69mrlDok5qYHAhJcZikUCoFGt20",
+        "immagine": "img/cataloghi/castello di corte.jpg",
+        "fileName": "catalogo-cristallo-di-corte-2025-x-il-web.pdf"
       }
     ]
   },
@@ -112,76 +160,6 @@
     ]
   },
   {
-    "categoria": "Onlilux Cristalli",
-    "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
-    "cataloghi": [
-      {
-        "titolo": "Onilux Cristalli 1",
-        "descrizione": "Novità Onlylux per gennaio 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/11gBTDfWmvG2wKKBFpswHMJjutmixijt3/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=11gBTDfWmvG2wKKBFpswHMJjutmixijt3",
-        "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
-        "fileName": "novita-onlylux-gennaio-2025-x-il-web.pdf"
-      },
-      {
-        "titolo": "Onilux Cristalli 2",
-        "descrizione": "Novità Cristallo di Corte per gennaio 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1M88vvzQnttPbdl43-F3nrASr9gJQJHLm/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1M88vvzQnttPbdl43-F3nrASr9gJQJHLm",
-        "immagine": "img/categorie/morinicategoria.jpg",
-        "fileName": "novita-cristallo-di-corte-gennaio-2025-x-il-web.pdf"
-      },
-      {
-        "titolo": "Onilux Cristalli 3",
-        "descrizione": "Catalogo Pampa Bay 2024.",
-        "linkVisualizza": "https://drive.google.com/file/d/1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5",
-        "immagine": "img/cataloghi/pampabay.jpg",
-        "fileName": "catalogo-pampa-bay-2024-con-annotation-con-copertina-e-retro.pdf"
-      },
-      {
-        "titolo": "Onilux Cristalli 4",
-        "descrizione": "Catalogo Onlylux per il 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE",
-        "immagine": "img/cataloghi/onlylux.jpg",
-        "fileName": "catalogo-onlylux-2025-x-il-web.pdf"
-      },
-      {
-        "titolo": "Onilux Cristalli 5",
-        "descrizione": "Catalogo Juliarte 2024.",
-        "linkVisualizza": "https://drive.google.com/file/d/1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs",
-        "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
-        "fileName": "catalogo-juliarte-2024-senza-annotation-con-copertina-e-retro.pdf"
-      },
-      {
-        "titolo": "Onilux Cristalli 6",
-        "descrizione": "Catalogo generale Rogaska 2024.",
-        "linkVisualizza": "https://drive.google.com/file/d/19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu",
-        "immagine": "img/cataloghi/rogaska.jpg",
-        "fileName": "catalogo-generale-rogaska-2024-con-annotation-con-copertina-e-retro.pdf"
-      },
-      {
-        "titolo": "Onilux Cristalli 7",
-        "descrizione": "Catalogo Elephant Parade 2024 con design italiano.",
-        "linkVisualizza": "https://drive.google.com/file/d/1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6",
-        "immagine": "img/cataloghi/elephant parade.jpg",
-        "fileName": "catalogo-elephant-parade-2024-con-italian-design-giugno_compressed.pdf"
-      },
-      {
-        "titolo": "Onilux Cristalli 8",
-        "descrizione": "Catalogo Cristallo di Corte per il 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1IhKZv69mrlDok5qYHAhJcZikUCoFGt20/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1IhKZv69mrlDok5qYHAhJcZikUCoFGt20",
-        "immagine": "img/cataloghi/castello di corte.jpg",
-        "fileName": "catalogo-cristallo-di-corte-2025-x-il-web.pdf"
-      }
-    ]
-  },
-  {
     "categoria": "Oggettistica e Decorazioni",
     "immagine": "img/categorie/oggettisticaedecorazioni.jpg",
     "cataloghi": [
@@ -208,6 +186,22 @@
         "linkScarica": "https://drive.google.com/uc?export=download&id=1bVTkpB0p0yYq9_KF-HLjdEo-UJGRhMrS",
         "immagine": "img/categorie/morinicategoria.jpg",
         "fileName": "SS25 Italian Brochure copy.pdf"
+      },
+      {
+        "titolo": "Onilux Cristalli 5",
+        "descrizione": "Catalogo Juliarte 2024.",
+        "linkVisualizza": "https://drive.google.com/file/d/1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs",
+        "immagine": "img/categorie/Immagine WhatsApp 2025-06-28 ore 19.12.03_2370b3f6.jpg",
+        "fileName": "catalogo-juliarte-2024-senza-annotation-con-copertina-e-retro.pdf"
+      },
+      {
+        "titolo": "Onilux Cristalli 7",
+        "descrizione": "Catalogo Elephant Parade 2024 con design italiano.",
+        "linkVisualizza": "https://drive.google.com/file/d/1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6",
+        "immagine": "img/cataloghi/elephant parade.jpg",
+        "fileName": "catalogo-elephant-parade-2024-con-italian-design-giugno_compressed.pdf"
       }
     ]
   },
