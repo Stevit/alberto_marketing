@@ -119,6 +119,13 @@
         "linkVisualizza": "https://drive.google.com/file/d/1Wp27psr_ZrplMpZXmRaAyTNjJDsGXDPa/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1Wp27psr_ZrplMpZXmRaAyTNjJDsGXDPa",
         "immagine": "img/cataloghi/excelsa.jpg"
+      },
+      {
+        "titolo": "Excelsa Tendenze 2025",
+        "descrizione": "Catalogo Excelsa Tendenze per il 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1o9MjCHSi7HpGYyE06aKX1wbbyD16H7ML/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1o9MjCHSi7HpGYyE06aKX1wbbyD16H7ML",
+        "immagine": "img/cataloghi/excelsatendenze.jpg"
       }
     ]
   },
