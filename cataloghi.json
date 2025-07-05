@@ -58,6 +58,14 @@
         "linkScarica": "https://drive.google.com/uc?export=download&id=1IhKZv69mrlDok5qYHAhJcZikUCoFGt20",
         "immagine": "img/cataloghi/castello di corte.jpg",
         "fileName": "catalogo-cristallo-di-corte-2025-x-il-web.pdf"
+      },
+      {
+        "titolo": "Piatti Cottage",
+        "descrizione": "Catalogo piatti linea Cottage 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot",
+        "immagine": "img/cataloghi/cottage.jpg",
+        "fileName": "catalogo-onlylux-piatti-cottage-2025.pdf"
       }
     ]
   },
