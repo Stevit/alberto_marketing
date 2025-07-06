@@ -72,7 +72,7 @@ fetch("cataloghi.json")
           });
           cataloghiDiv.addEventListener("transitionend", function openEnd(e) {
             if (e.propertyName === "max-height") {
-              cataloghiDiv.style.maxHeight = null;
+              cataloghiDiv.style.maxHeight = "none"; // Usa 'none' per consentire l'espansione
               cataloghiDiv.removeEventListener("transitionend", openEnd);
             }
           });
