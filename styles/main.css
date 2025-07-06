@@ -154,3 +154,29 @@
 .btn-view:hover {
   background-color: #218838; /* Darker green on hover */
 }
+
+/* Media Query per la responsività */
+@media (max-width: 768px) {
+  .catalogo {
+    flex-direction: column;
+    align-items: flex-start; /* Allinea gli elementi a sinistra */
+  }
+
+  .catalogo img {
+    width: 80px; /* Riduci la dimensione dell'immagine su mobile */
+    height: 80px;
+    margin-bottom: 15px; /* Aggiungi spazio sotto l'immagine */
+  }
+
+  .button-container {
+    flex-direction: column; /* Impila i pulsanti verticalmente */
+    width: 100%; /* Occupa tutta la larghezza */
+  }
+
+  .btn-download,
+  .btn-view {
+    min-width: unset; /* Rimuovi la larghezza minima */
+    width: 100%; /* Occupa tutta la larghezza */
+    white-space: normal; /* Permetti al testo di andare a capo */
+  }
+}
