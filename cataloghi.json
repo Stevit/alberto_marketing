@@ -58,6 +58,34 @@
         "linkVisualizza": "https://drive.google.com/file/d/19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu",
         "immagine": "img/cataloghi/rogaska.jpg"
+      },
+      {
+        "titolo": "Ecolab Macchine da Cucina",
+        "descrizione": "Catalogo Ecolab per macchine da cucina.",
+        "linkVisualizza": "https://drive.google.com/file/d/1Jze5jGbqcI3GNisEEjz5UrNZ-OD_cQ22/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1Jze5jGbqcI3GNisEEjz5UrNZ-OD_cQ22",
+        "immagine": "img/cataloghi/ecolab.jpg"
+      },
+      {
+        "titolo": "Metalcarrelli",
+        "descrizione": "Catalogo Metalcarrelli 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1r3N6LivfFAv7SBdQhuF5aiIxResqu-2I/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1r3N6LivfFAv7SBdQhuF5aiIxResqu-2I",
+        "immagine": "img/cataloghi/metalcarrelli.jpg"
+      },
+      {
+        "titolo": "Tabletech Stoviglie",
+        "descrizione": "Catalogo Tabletech Stoviglie 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1rZjJAFBJj_nRq6gxdOIy0DegvGvyjiOt/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1rZjJAFBJj_nRq6gxdOIy0DegvGvyjiOt",
+        "immagine": "img/cataloghi/tabletech.jpg"
+      },
+      {
+        "titolo": "Machieraldo Casalinghi",
+        "descrizione": "Catalogo Machieraldo Casalinghi 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1ek0ldMAGJPvujnOqakgWW-CxSY86Fpjo/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1ek0ldMAGJPvujnOqakgWW-CxSY86Fpjo",
+        "immagine": "img/cataloghi/machieraldo.jpg"
       }
     ]
   },
@@ -92,6 +120,13 @@
         "linkVisualizza": "https://drive.google.com/file/d/1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn",
         "immagine": "img/categorie/abbigliamentoetessuti.jpg"
+      },
+      {
+        "titolo": "Abbigliamento da lavoro Global Trading",
+        "descrizione": "Catalogo abbigliamento da lavoro Global Trading 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1Qk9wL7nbc8551K6DAIQk0XZn0zJgNkNo/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1Qk9wL7nbc8551K6DAIQk0XZn0zJgNkNo",
+        "immagine": "img/cataloghi/globaltrading.jpg"
       }
     ]
   },
@@ -167,6 +202,13 @@
         "linkVisualizza": "https://drive.google.com/file/d/12j4GEcODtXs7rkGEGPi2x-_qJaOXFcYv/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=12j4GEcODtXs7rkGEGPi2x-_qJaOXFcYv",
         "immagine": "img/cataloghi/passoladro.jpg"
+      },
+      {
+        "titolo": "Tisane Bio",
+        "descrizione": "Catalogo di tisane biologiche.",
+        "linkVisualizza": "https://drive.google.com/file/d/1kwuwRuNuHG7O2L3ClZgRb3_eU1n3NKuN/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1kwuwRuNuHG7O2L3ClZgRb3_eU1n3NKuN",
+        "immagine": "img/cataloghi/tisane.jpg"
       }
     ]
   },
@@ -215,6 +257,13 @@
         "linkVisualizza": "https://drive.google.com/file/d/1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs",
         "immagine": "img/cataloghi/juliarte.jpg"
+      },
+      {
+        "titolo": "Nature Candle",
+        "descrizione": "Catalogo Nature Candle.",
+        "linkVisualizza": "https://drive.google.com/file/d/1DTaBx0flirsEvHxzRklz8QkN8biIt0q5/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1DTaBx0flirsEvHxzRklz8QkN8biIt0q5",
+        "immagine": "img/cataloghi/naturecandle.jpg"
       }
     ]
   },
