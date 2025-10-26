@@ -217,20 +217,6 @@
     "immagine": "img/categorie/oggettistica.jpg",
     "cataloghi": [
       {
-        "titolo": "Bombs Cosmetics",
-        "descrizione": "Catalogo Bombs Cosmetics 2025",
-        "linkVisualizza": "https://drive.google.com/file/d/1bVTkpB0p0yYq9_KF-HLjdEo-UJGRhMrS/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1bVTkpB0p0yYq9_KF-HLjdEo-UJGRhMrS",
-        "immagine": "img/cataloghi/bombs.jpg"
-      },
-      {
-        "titolo": "Candele e Profumatori Acqua ai Fiori di Spello",
-        "descrizione": "Catalogo Candele e Profumatori Acqua ai Fiori di Spello.",
-        "linkVisualizza": "https://drive.google.com/file/d/13SdxanbFjgwM8MIKPgRNcywIlNbEU86v/view?usp=drivesdk",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=13SdxanbFjgwM8MIKPgRNcywIlNbEU86v",
-        "immagine": "img/cataloghi/acqua.jpg"
-      },
-      {
         "titolo": "Doing Goods Decorazioni",
         "descrizione": "Catalogo Doing Goods Decorazioni.",
         "linkVisualizza": "https://drive.google.com/file/d/13PYgIkb7TZRNf60UpOHho6kFzG59WdrR/view?usp=drivesdk",
