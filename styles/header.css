@@ -8,37 +8,6 @@ header {
   justify-content: center;
   gap: 8px; /* Reduced gap for stacked elements */
   box-shadow: 0 2px 8px var(--category-box-shadow);
-  position: relative;
-}
-
-/* Back button in search page */
-.back-button {
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  background: var(--link-bg);
-  color: var(--link-color);
-  border: none;
-  padding: 8px 12px;
-  border-radius: 6px;
-  cursor: pointer;
-  font-size: 14px;
-  font-weight: 600;
-  transition: background-color 120ms ease, transform 80ms ease;
-}
-
-.back-button:hover {
-  background: var(--link-hover-bg);
-  transform: translateY(-2px);
-}
-
-.back-button:active {
-  transform: translateY(0);
-}
-
-.back-button:focus {
-  outline: 3px solid var(--link-bg);
-  outline-offset: 2px;
 }
 
 header h1 {

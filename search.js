@@ -4,14 +4,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const urlParams = new URLSearchParams(window.location.search);
   const query = urlParams.get("query");
 
-  // Gestisci il bottone indietro
-  const backButton = document.getElementById("back-button");
-  if (backButton) {
-    backButton.addEventListener("click", () => {
-      window.location.href = "index.html";
-    });
-  }
-
   // Mantieni il termine di ricerca nella casella di input (se presente)
   const searchInputElement = document.querySelector(".search-input");
   if (searchInputElement) {
