@@ -27,10 +27,26 @@
     <header>
       <h1>Le mie selezioni</h1>
       <p>Scarica qui i cataloghi.</p>
-      <form action="search.html" method="GET" class="search-form">
-        <input type="text" name="query" placeholder="Cerca cataloghi..." class="search-input">
-        <button type="submit" class="search-button">🔍</button>
-      </form>
+      <div role="search" class="search-form">
+        <input
+          type="text"
+          id="search-input-home"
+          placeholder="Cerca cataloghi..."
+          class="search-input"
+          autocomplete="off"
+          spellcheck="false"
+          autocorrect="off"
+          autocapitalize="off"
+        />
+        <button
+          type="button"
+          class="search-button"
+          id="search-button-home"
+          aria-label="Invia ricerca"
+        >
+          🔍
+        </button>
+      </div>
     </header>
 
     <section class="cataloghi">

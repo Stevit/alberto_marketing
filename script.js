@@ -1,3 +1,31 @@
+// Gestisci il click del bottone di ricerca nella home page (no form submission)
+document.addEventListener("DOMContentLoaded", () => {
+  const searchButtonHome = document.getElementById("search-button-home");
+  const searchInputHome = document.getElementById("search-input-home");
+  if (searchButtonHome && searchInputHome) {
+    searchButtonHome.addEventListener("click", (e) => {
+      e.preventDefault();
+      const inputValue = searchInputHome.value.trim();
+      if (inputValue) {
+        window.location.href = `search.html?query=${encodeURIComponent(
+          inputValue
+        )}`;
+      }
+    });
+    // Permetti il submit anche con Enter
+    searchInputHome.addEventListener("keypress", (e) => {
+      if (e.key === "Enter") {
+        const inputValue = searchInputHome.value.trim();
+        if (inputValue) {
+          window.location.href = `search.html?query=${encodeURIComponent(
+            inputValue
+          )}`;
+        }
+      }
+    });
+  }
+});
+
 fetch("cataloghi.json")
   .then((res) => res.json())
   .then((data) => {
@@ -15,7 +43,7 @@ fetch("cataloghi.json")
 
       const cataloghiDiv = document.createElement("div");
       cataloghiDiv.className = "cataloghi-interni";
-      
+
       const catalogItems = [];
       categoria.cataloghi.forEach((cat) => {
         const div = document.createElement("div");
@@ -40,7 +68,7 @@ fetch("cataloghi.json")
             </div>
           </div>
         `;
-        
+
         // Aggiungiamo l'immagine alla lista di quelle da caricare dopo
         catalogImagesToLoad.push(div.querySelector("img"));
 
@@ -48,7 +76,7 @@ fetch("cataloghi.json")
         if (downloadButton) {
           downloadButton.addEventListener("click", () => {
             localStorage.setItem(cat.titolo, "true");
-            
+
             const buttonContainer = div.querySelector(".button-container");
             buttonContainer.innerHTML = `
               <a href="${cat.linkScarica}" target="_blank" class="btn-download again">Scarica di nuovo</a>
@@ -76,7 +104,6 @@ fetch("cataloghi.json")
               cataloghiDiv.removeEventListener("transitionend", openEnd);
             }
           });
-
         } else {
           [...catalogItems].reverse().forEach((item, i) => {
             setTimeout(() => item.classList.remove("visible"), i * 50);
@@ -87,12 +114,15 @@ fetch("cataloghi.json")
             void cataloghiDiv.offsetHeight;
             cataloghiDiv.classList.remove("aperta");
             cataloghiDiv.style.maxHeight = "0";
-            cataloghiDiv.addEventListener("transitionend", function closeEnd(e) {
-              if (e.propertyName === "max-height") {
-                cataloghiDiv.style.maxHeight = "";
-                cataloghiDiv.removeEventListener("transitionend", closeEnd);
+            cataloghiDiv.addEventListener(
+              "transitionend",
+              function closeEnd(e) {
+                if (e.propertyName === "max-height") {
+                  cataloghiDiv.style.maxHeight = "";
+                  cataloghiDiv.removeEventListener("transitionend", closeEnd);
+                }
               }
-            });
+            );
           }, delay);
         }
       });
@@ -101,14 +131,14 @@ fetch("cataloghi.json")
       const catImage = document.createElement("img");
       catImage.alt = categoria.categoria;
       catImage.className = "categoria-immagine";
-      
+
       // Creiamo una Promise per sapere quando ha finito di caricare
       const imagePromise = new Promise((resolve, reject) => {
         catImage.onload = resolve;
         catImage.onerror = reject;
       });
       categoryImagePromises.push(imagePromise);
-      
+
       catImage.src = categoria.immagine; // Avvia il download
       title.prepend(catImage);
 
@@ -120,7 +150,9 @@ fetch("cataloghi.json")
     // Quando tutte le immagini delle categorie sono state caricate...
     Promise.all(categoryImagePromises)
       .then(() => {
-        console.log("Immagini delle categorie caricate. Inizio caricamento immagini cataloghi in background.");
+        console.log(
+          "Immagini delle categorie caricate. Inizio caricamento immagini cataloghi in background."
+        );
         // ...inizia a caricare le immagini dei cataloghi una alla volta
         catalogImagesToLoad.forEach((img, index) => {
           setTimeout(() => {
@@ -131,7 +163,10 @@ fetch("cataloghi.json")
         });
       })
       .catch((error) => {
-        console.error("Errore nel caricamento di un'immagine di categoria.", error);
+        console.error(
+          "Errore nel caricamento di un'immagine di categoria.",
+          error
+        );
       });
   })
   .catch((err) => console.error("Errore caricamento cataloghi:", err));

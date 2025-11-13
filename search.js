@@ -10,6 +10,31 @@ document.addEventListener("DOMContentLoaded", () => {
     searchInputElement.value = query ? query : "";
   }
 
+  // Gestisci il click del bottone di ricerca (no form submission)
+  const searchButton = document.getElementById("search-button-submit");
+  if (searchButton) {
+    searchButton.addEventListener("click", (e) => {
+      e.preventDefault();
+      const inputValue = searchInputElement.value.trim();
+      if (inputValue) {
+        window.location.href = `search.html?query=${encodeURIComponent(
+          inputValue
+        )}`;
+      }
+    });
+    // Permetti il submit anche con Enter
+    searchInputElement.addEventListener("keypress", (e) => {
+      if (e.key === "Enter") {
+        const inputValue = searchInputElement.value.trim();
+        if (inputValue) {
+          window.location.href = `search.html?query=${encodeURIComponent(
+            inputValue
+          )}`;
+        }
+      }
+    });
+  }
+
   if (!searchResultsContainer || !searchResultsTitle) {
     console.error("Elementi per i risultati della ricerca non trovati.");
     return;

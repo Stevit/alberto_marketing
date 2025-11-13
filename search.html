@@ -14,18 +14,10 @@
     <header>
       <h1>Le mie selezioni</h1>
       <p>Scarica qui i cataloghi.</p>
-      <form
-        role="search"
-        action="search.html"
-        method="GET"
-        class="search-form"
-        autocomplete="off"
-        novalidate
-      >
+      <div role="search" class="search-form">
         <input
           id="search-input"
           type="text"
-          name="query"
           placeholder="Cerca cataloghi..."
           class="search-input"
           aria-label="Cerca cataloghi"
@@ -34,10 +26,15 @@
           autocorrect="off"
           autocapitalize="off"
         />
-        <button type="submit" class="search-button" aria-label="Invia ricerca">
+        <button
+          type="button"
+          class="search-button"
+          id="search-button-submit"
+          aria-label="Invia ricerca"
+        >
           🔍
         </button>
-      </form>
+      </div>
     </header>
 
     <main>
