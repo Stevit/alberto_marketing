@@ -6,7 +6,11 @@
 
 /* CATEGORIE */
 .categoria-box {
-  background: linear-gradient(to right, var(--category-box-bg-start), var(--category-box-bg-end));
+  background: linear-gradient(
+    to right,
+    var(--category-box-bg-start),
+    var(--category-box-bg-end)
+  );
   border: 1px solid var(--category-box-border);
   border-radius: 14px;
   margin-bottom: 30px;
@@ -65,7 +69,6 @@
   opacity: 1;
   transform: scale(1);
 }
-
 
 /* CATALOGO */
 .catalogo {
@@ -180,5 +183,110 @@
     min-width: unset; /* Rimuovi la larghezza minima */
     /* Rimuoviamo la larghezza fissa per un aspetto migliore */
     white-space: normal; /* Permetti al testo di andare a capo */
+  }
+}
+
+/* Styles specifici per la pagina di ricerca (search.js) */
+.cataloghi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+  align-items: start;
+}
+
+.categoria-container {
+  width: 100%;
+}
+
+.catalogo-card {
+  background: var(--catalogo-bg);
+  border: 1px solid var(--catalogo-border);
+  box-shadow: 0 6px 12px var(--catalogo-shadow);
+  border-radius: 12px;
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  text-align: center;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.catalogo-card:hover {
+  transform: translateY(-6px);
+}
+
+.catalogo-immagine {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 2px solid var(--catalogo-border);
+  flex-shrink: 0;
+}
+
+.catalogo-info {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.catalogo-info h3 {
+  margin: 0;
+  font-size: 18px;
+  color: var(--catalogo-title-color);
+}
+
+.catalogo-info p {
+  margin: 0;
+  font-size: 14px;
+  color: var(--catalogo-text-color);
+}
+
+.catalogo-links {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+  align-items: center;
+}
+
+.btn-visualizza,
+.btn-scarica {
+  display: inline-block;
+  padding: 8px 12px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 13px;
+  color: var(--link-color);
+  background: var(--link-bg);
+  transition: background-color 0.15s ease, transform 0.12s ease;
+}
+
+.btn-scarica {
+  background: transparent;
+  color: var(--text-color);
+  border: 1px solid var(--catalogo-border);
+}
+
+.btn-visualizza:hover,
+.btn-scarica:hover {
+  transform: translateY(-2px);
+}
+
+@media (max-width: 600px) {
+  .cataloghi-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .catalogo-immagine {
+    width: 120px;
+    height: 120px;
+  }
+
+  .btn-visualizza,
+  .btn-scarica {
+    padding: 10px 14px;
+    font-size: 14px;
   }
 }

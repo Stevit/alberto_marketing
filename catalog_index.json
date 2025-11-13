@@ -1,0 +1,346 @@
+[
+  {
+    "id": "morini-forniture-alberghiere",
+    "categoria": "Forniture Alberghi e ristoranti",
+    "titolo": "Morini Forniture Alberghiere",
+    "linkVisualizza": "https://drive.google.com/file/d/1PRvqslHiYH0WzuUb_7F6NJpFI0l9TMlc/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1PRvqslHiYH0WzuUb_7F6NJpFI0l9TMlc",
+    "immagine": "img/categorie/morinicategoria.jpg",
+    "items": [
+      "Set Posate Professionali 24pz",
+      "Tovaglia Rettangolare 160x320cm",
+      "Tovaglioli Carta 100pz"
+    ]
+  },
+  {
+    "id": "novita-onlylux-cristalli-di-corte",
+    "categoria": "Forniture Alberghi e ristoranti",
+    "titolo": "Novità Onlylux Cristalli di Corte",
+    "linkVisualizza": "https://drive.google.com/file/d/1M88vvzQnttPbdl43-F3nrASr9gJQJHLm/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1M88vvzQnttPbdl43-F3nrASr9gJQJHLm",
+    "immagine": "img/cataloghi/corte.jpg",
+    "items": [
+      "Bicchiere Cristallo 280ml",
+      "Calice Vino Rosso 350ml",
+      "Flute Champagne 180ml"
+    ]
+  },
+  {
+    "id": "novita-onlylux-vasi-e-bicchieri",
+    "categoria": "Forniture Alberghi e ristoranti",
+    "titolo": "Novità Onlylux vasi e bicchieri",
+    "linkVisualizza": "https://drive.google.com/file/d/11gBTDfWmvG2wKKBFpswHMJjutmixijt3/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=11gBTDfWmvG2wKKBFpswHMJjutmixijt3",
+    "immagine": "img/cataloghi/novitaonlylux.jpg",
+    "items": [
+      "Vaso Decorativo Ambra 25cm",
+      "Bicchiere Tumbler 300ml",
+      "Vaso Fiori 20cm"
+    ]
+  },
+  {
+    "id": "onlylux-cristalli-di-corte",
+    "categoria": "Forniture Alberghi e ristoranti",
+    "titolo": "Onlylux Cristalli di Corte",
+    "linkVisualizza": "https://drive.google.com/file/d/1IhKZv69mrlDok5qYHAhJcZikUCoFGt20/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1IhKZv69mrlDok5qYHAhJcZikUCoFGt20",
+    "immagine": "img/cataloghi/castello di corte.jpg",
+    "items": [
+      "Set 6 Calici Cristallo",
+      "Coppa Dessert 150ml",
+      "Bicchiere Acqua 250ml"
+    ]
+  },
+  {
+    "id": "onlylux-vasi-e-bicchieri",
+    "categoria": "Forniture Alberghi e ristoranti",
+    "titolo": "Onlylux vasi e bicchieri",
+    "linkVisualizza": "https://drive.google.com/file/d/1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE",
+    "immagine": "img/cataloghi/onlylux.jpg",
+    "items": [
+      "Bicchiere Vetro Soffiato 320ml",
+      "Vaso Minimal 30cm",
+      "Bicchiere Acqua Classico 250ml"
+    ]
+  },
+  {
+    "id": "pampa-bay-ceramiche",
+    "categoria": "Forniture Alberghi e ristoranti",
+    "titolo": "Pampa Bay Ceramiche",
+    "linkVisualizza": "https://drive.google.com/file/d/1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5",
+    "immagine": "img/cataloghi/pampabay.jpg",
+    "items": ["Piatto Fondo 22cm", "Set 4 Piatti Dessert", "Piatto Piano 28cm"]
+  },
+  {
+    "id": "piatti-cottage",
+    "categoria": "Forniture Alberghi e ristoranti",
+    "titolo": "Piatti Cottage",
+    "linkVisualizza": "https://drive.google.com/file/d/1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot",
+    "immagine": "img/cataloghi/cottage.jpg",
+    "items": []
+  },
+  {
+    "id": "rogaska-cristalli",
+    "categoria": "Forniture Alberghi e ristoranti",
+    "titolo": "Rogaska cristalli",
+    "linkVisualizza": "https://drive.google.com/file/d/19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu",
+    "immagine": "img/cataloghi/rogaska.jpg",
+    "items": []
+  },
+  {
+    "id": "ecolab-macchine-da-cucina",
+    "categoria": "Forniture Alberghi e ristoranti",
+    "titolo": "Ecolab Macchine da Cucina",
+    "linkVisualizza": "https://drive.google.com/file/d/1Jze5jGbqcI3GNisEEjz5UrNZ-OD_cQ22/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1Jze5jGbqcI3GNisEEjz5UrNZ-OD_cQ22",
+    "immagine": "img/cataloghi/ecolab.jpg",
+    "items": []
+  },
+  {
+    "id": "metalcarrelli",
+    "categoria": "Forniture Alberghi e ristoranti",
+    "titolo": "Metalcarrelli",
+    "linkVisualizza": "https://drive.google.com/file/d/1r3N6LivfFAv7SBdQhuF5aiIxResqu-2I/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1r3N6LivfFAv7SBdQhuF5aiIxResqu-2I",
+    "immagine": "img/cataloghi/metalcarrelli.jpg",
+    "items": []
+  },
+  {
+    "id": "tabletech-stoviglie",
+    "categoria": "Forniture Alberghi e ristoranti",
+    "titolo": "Tabletech Stoviglie",
+    "linkVisualizza": "https://drive.google.com/file/d/1rZjJAFBJj_nRq6gxdOIy0DegvGvyjiOt/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1rZjJAFBJj_nRq6gxdOIy0DegvGvyjiOt",
+    "immagine": "img/cataloghi/tabletech.jpg",
+    "items": []
+  },
+  {
+    "id": "machieraldo-casalinghi",
+    "categoria": "Forniture Alberghi e ristoranti",
+    "titolo": "Machieraldo Casalinghi",
+    "linkVisualizza": "https://drive.google.com/file/d/1ek0ldMAGJPvujnOqakgWW-CxSY86Fpjo/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1ek0ldMAGJPvujnOqakgWW-CxSY86Fpjo",
+    "immagine": "img/cataloghi/machieraldo.jpg",
+    "items": []
+  },
+  {
+    "id": "abbigliamento-chefline",
+    "categoria": "Abbigliamento e tessuti",
+    "titolo": "Abbigliamento Chefline",
+    "linkVisualizza": "https://drive.google.com/file/d/1FnjBaLeAg-slZv2kLoceo52qWTZ8pDcH/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1FnjBaLeAg-slZv2kLoceo52qWTZ8pDcH",
+    "immagine": "img/cataloghi/chefline.jpg",
+    "items": []
+  },
+  {
+    "id": "abbigliamento-horeca",
+    "categoria": "Abbigliamento e tessuti",
+    "titolo": "Abbigliamento Horeca",
+    "linkVisualizza": "https://drive.google.com/file/d/1pTS6SnF6k4hhPHFZSISP05HOrnmWWN_D/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1pTS6SnF6k4hhPHFZSISP05HOrnmWWN_D",
+    "immagine": "img/cataloghi/horeca.jpg",
+    "items": []
+  },
+  {
+    "id": "abbigliamento-one-size",
+    "categoria": "Abbigliamento e tessuti",
+    "titolo": "Abbigliamento One Size",
+    "linkVisualizza": "https://drive.google.com/file/d/1HOtisVVjVJKCdVJCi-C5_DIOrWdIT3Ai/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1HOtisVVjVJKCdVJCi-C5_DIOrWdIT3Ai",
+    "immagine": "img/cataloghi/onesize.jpg",
+    "items": []
+  },
+  {
+    "id": "tovagliato",
+    "categoria": "Abbigliamento e tessuti",
+    "titolo": "Tovagliato",
+    "linkVisualizza": "https://drive.google.com/file/d/1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn",
+    "immagine": "img/categorie/abbigliamentoetessuti.jpg",
+    "items": []
+  },
+  {
+    "id": "abbigliamento-global-trading",
+    "categoria": "Abbigliamento e tessuti",
+    "titolo": "Abbigliamento da lavoro Global Trading",
+    "linkVisualizza": "https://drive.google.com/file/d/1Qk9wL7nbc8551K6DAIQk0XZn0zJgNkNo/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1Qk9wL7nbc8551K6DAIQk0XZn0zJgNkNo",
+    "immagine": "img/cataloghi/globaltrading.jpg",
+    "items": []
+  },
+  {
+    "id": "catalogo-excelsa-natale-2025",
+    "categoria": "Ceramiche",
+    "titolo": "Catalogo Excelsa Natale 2025",
+    "linkVisualizza": "https://drive.google.com/file/d/1Wp27psr_ZrplMpZXmRaAyTNjJDsGXDPa/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1Wp27psr_ZrplMpZXmRaAyTNjJDsGXDPa",
+    "immagine": "img/cataloghi/excelsa.jpg",
+    "items": []
+  },
+  {
+    "id": "catalogo-portmeirion",
+    "categoria": "Ceramiche",
+    "titolo": "Catalogo Portmeirion",
+    "linkVisualizza": "https://drive.google.com/file/d/1cU-8UfiRtLb3zaG4MW2zZjDVeclmbOe4/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1cU-8UfiRtLb3zaG4MW2zZjDVeclmbOe4",
+    "immagine": "img/cataloghi/ceramica.jpg",
+    "items": []
+  },
+  {
+    "id": "excelsa-tendenze-2025",
+    "categoria": "Ceramiche",
+    "titolo": "Excelsa Tendenze 2025",
+    "linkVisualizza": "https://drive.google.com/file/d/1o9MjCHSi7HpGYyE06aKX1wbbyD16H7ML/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1o9MjCHSi7HpGYyE06aKX1wbbyD16H7ML",
+    "immagine": "img/cataloghi/excelsatendenze.jpg",
+    "items": []
+  },
+  {
+    "id": "natale-portmeirion-2025",
+    "categoria": "Ceramiche",
+    "titolo": "Natale Portmeirion 2025",
+    "linkVisualizza": "https://drive.google.com/file/d/1o4v6Cn3AH4Ps_jzvRXTVZ91LVhL23_qB/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1o4v6Cn3AH4Ps_jzvRXTVZ91LVhL23_qB",
+    "immagine": "img/cataloghi/christmas2025.jpg",
+    "items": []
+  },
+  {
+    "id": "excelsa-catalogo-tecnico",
+    "categoria": "Ceramiche",
+    "titolo": "Excelsa Catalogo Tecnico",
+    "linkVisualizza": "https://drive.google.com/file/d/144yQxrPreHVLZ-xJ1BShlpzcwtOi7AbY/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=144yQxrPreHVLZ-xJ1BShlpzcwtOi7AbY",
+    "immagine": "img/cataloghi/excelsatecnico.jpg",
+    "items": []
+  },
+  {
+    "id": "laboratorio-di-cannavacciuolo",
+    "categoria": "Food & Beverage",
+    "titolo": "Laboratorio di Cannavacciuolo",
+    "linkVisualizza": "https://drive.google.com/file/d/12yPDAfuCEJh9hyIV_S6vDfNIQJZQx1wq/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=12yPDAfuCEJh9hyIV_S6vDfNIQJZQx1wq",
+    "immagine": "img/cataloghi/cannavacciuolo.jpg",
+    "items": []
+  },
+  {
+    "id": "mavolo-alcolici-e-bevande",
+    "categoria": "Food & Beverage",
+    "titolo": "Mavolo alcolici e bevande",
+    "linkVisualizza": "https://drive.google.com/file/d/183K8MwkM7wuxOvkViqVWaxD2_AiGzu6P/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=183K8MwkM7wuxOvkViqVWaxD2_AiGzu6P",
+    "immagine": "img/cataloghi/mavolo.jpg",
+    "items": []
+  },
+  {
+    "id": "nio-cocktails",
+    "categoria": "Food & Beverage",
+    "titolo": "Nio Cocktails",
+    "linkVisualizza": "https://drive.google.com/file/d/13SdxanbFjgwM8MIKPgRNcywIlNbEU86v/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=13SdxanbFjgwM8MIKPgRNcywIlNbEU86v",
+    "immagine": "img/cataloghi/nio.jpg",
+    "items": []
+  },
+  {
+    "id": "passoladro-prodotti-bio",
+    "categoria": "Food & Beverage",
+    "titolo": "Passoladro Prodotti Bio",
+    "linkVisualizza": "https://drive.google.com/file/d/12j4GEcODtXs7rkGEGPi2x-_qJaOXFcYv/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=12j4GEcODtXs7rkGEGPi2x-_qJaOXFcYv",
+    "immagine": "img/cataloghi/passoladro.jpg",
+    "items": []
+  },
+  {
+    "id": "tisane-bio",
+    "categoria": "Food & Beverage",
+    "titolo": "Tisane Bio",
+    "linkVisualizza": "https://drive.google.com/file/d/1kwuwRuNuHG7O2L3ClZgRb3_eU1n3NKuN/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1kwuwRuNuHG7O2L3ClZgRb3_eU1n3NKuN",
+    "immagine": "img/cataloghi/tisane.jpg",
+    "items": []
+  },
+  {
+    "id": "doing-goods-decorazioni",
+    "categoria": "Oggettistica e Decorazioni",
+    "titolo": "Doing Goods Decorazioni",
+    "linkVisualizza": "https://drive.google.com/file/d/13PYgIkb7TZRNf60UpOHho6kFzG59WdrR/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=13PYgIkb7TZRNf60UpOHho6kFzG59WdrR",
+    "immagine": "img/cataloghi/doingdec.jpg",
+    "items": []
+  },
+  {
+    "id": "doing-goods-lampade",
+    "categoria": "Oggettistica e Decorazioni",
+    "titolo": "Doing Goods Lampade",
+    "linkVisualizza": "https://drive.google.com/file/d/133JMp85NORHp7JErUX7CCKJFuDcKjhgi/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=133JMp85NORHp7JErUX7CCKJFuDcKjhgi",
+    "immagine": "img/cataloghi/doinglam.jpg",
+    "items": []
+  },
+  {
+    "id": "elephant-parade-design",
+    "categoria": "Oggettistica e Decorazioni",
+    "titolo": "Elephant Parade Design",
+    "linkVisualizza": "https://drive.google.com/file/d/1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6",
+    "immagine": "img/cataloghi/elephant parade.jpg",
+    "items": []
+  },
+  {
+    "id": "juliarte-design",
+    "categoria": "Oggettistica e Decorazioni",
+    "titolo": "Juliarte Design",
+    "linkVisualizza": "https://drive.google.com/file/d/1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs/view?usp=sharing",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs",
+    "immagine": "img/cataloghi/juliarte.jpg",
+    "items": []
+  },
+  {
+    "id": "nature-candle",
+    "categoria": "Oggettistica e Decorazioni",
+    "titolo": "Nature Candle",
+    "linkVisualizza": "https://drive.google.com/file/d/1DTaBx0flirsEvHxzRklz8QkN8biIt0q5/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1DTaBx0flirsEvHxzRklz8QkN8biIt0q5",
+    "immagine": "img/cataloghi/naturecandle.jpg",
+    "items": []
+  },
+  {
+    "id": "brhema-igiene",
+    "categoria": "cataloghi brhema",
+    "titolo": "Brhema Igiene",
+    "linkVisualizza": "https://drive.google.com/file/d/1_5Pn6bLWRVXy7fihwfl4xhfaP2N-1bK5/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1_5Pn6bLWRVXy7fihwfl4xhfaP2N-1bK5",
+    "immagine": "img/cataloghi/igiene.jpg",
+    "items": []
+  },
+  {
+    "id": "brhema-industria",
+    "categoria": "cataloghi brhema",
+    "titolo": "Brhema Industria",
+    "linkVisualizza": "https://drive.google.com/file/d/1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6",
+    "immagine": "img/cataloghi/industria.jpg",
+    "items": []
+  },
+  {
+    "id": "brhema-office",
+    "categoria": "cataloghi brhema",
+    "titolo": "Brhema Office",
+    "linkVisualizza": "https://drive.google.com/file/d/1_0-j99N-pPbh7sV3inToic8rbZs5VZME/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1_0-j99N-pPbh7sV3inToic8rbZs5VZME",
+    "immagine": "img/cataloghi/office.jpg",
+    "items": []
+  },
+  {
+    "id": "brhema-sicurezza",
+    "categoria": "cataloghi brhema",
+    "titolo": "Brhema Sicurezza",
+    "linkVisualizza": "https://drive.google.com/file/d/1ZtVyPxCzkpk2BNAx07NH25nnPtZtp_sT/view?usp=drivesdk",
+    "linkScarica": "https://drive.google.com/uc?export=download&id=1ZtVyPxCzkpk2BNAx07NH25nnPtZtp_sT",
+    "immagine": "img/cataloghi/sicurezza.jpg",
+    "items": []
+  }
+]
