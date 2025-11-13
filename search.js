@@ -265,18 +265,38 @@ document.addEventListener("DOMContentLoaded", () => {
       const catalogoEl = document.createElement("div");
       catalogoEl.className = "catalogo";
 
+      // Controlla se il catalogo è già stato scaricato
+      const isDownloaded = localStorage.getItem(catalogo.titolo) === "true";
+
       // Usa la struttura usata nella pagina principale: immagine + contenuto
       catalogoEl.innerHTML = `
         <img src="${catalogo.immagine}" alt="${catalogo.titolo}" loading="lazy" decoding="async" width="120" height="120">
-                <div>
-                    <h3>${catalogo.titolo}</h3>
-                    <p>${catalogo.descrizione}</p>
-                    <div class="button-container">
-                        <a href="${catalogo.linkVisualizza}" target="_blank" class="btn-view">Visualizza</a>
-                        <a href="${catalogo.linkScarica}" download class="btn-download">Scarica</a>
-                    </div>
-                </div>
-            `;
+        <div>
+          <h3>${catalogo.titolo}</h3>
+          <p>${catalogo.descrizione}</p>
+          <div class="button-container">
+            ${
+              isDownloaded
+                ? `<a href="${catalogo.linkScarica}" target="_blank" class="btn-download again">Scarica di nuovo</a>
+                   <a href="${catalogo.linkVisualizza}" target="_blank" class="btn-view">Visualizza</a>`
+                : `<a href="${catalogo.linkScarica}" target="_blank" class="btn-download">Scarica</a>`
+            }
+          </div>
+        </div>
+      `;
+
+      const downloadButton = catalogoEl.querySelector(".btn-download");
+      if (downloadButton) {
+        downloadButton.addEventListener("click", () => {
+          localStorage.setItem(catalogo.titolo, "true");
+
+          const buttonContainer = catalogoEl.querySelector(".button-container");
+          buttonContainer.innerHTML = `
+            <a href="${catalogo.linkScarica}" target="_blank" class="btn-download again">Scarica di nuovo</a>
+            <a href="${catalogo.linkVisualizza}" target="_blank" class="btn-view">Visualizza</a>
+          `;
+        });
+      }
 
       cataloghiWrapper.appendChild(catalogoEl);
     });
