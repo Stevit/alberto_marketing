@@ -39,9 +39,15 @@ document.addEventListener("DOMContentLoaded", () => {
   if (searchInputElement) {
     searchInputElement.addEventListener("input", (e) => {
       const inputValue = e.target.value.trim();
-      
+
       if (inputValue === "") {
-        // Se l'input è vuoto, mostra i cataloghi della home
+        // Se l'input è vuoto e la pagina conteneva una query, torniamo alla home
+        if (query && query.trim() !== "") {
+          window.location.href = "index.html";
+          return;
+        }
+
+        // Altrimenti (pagina search senza query iniziale), mostra i cataloghi della home nella pagina di ricerca
         searchResultsTitle.textContent = "Cataloghi disponibili";
         loadAndDisplayAllCatalogs();
       }
