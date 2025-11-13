@@ -44,13 +44,14 @@ header p {
 }
 
 .search-input {
-  background: transparent;
+  background: var(--search-input-bg);
+  color: var(--search-input-text);
   border: none;
   padding: 10px 16px;
   font-size: 16px;
   outline: none;
-  color: var(--text-color);
   flex-grow: 1;
+  border-radius: 999px;
 }
 
 .search-input::placeholder {
