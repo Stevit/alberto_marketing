@@ -270,7 +270,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
       // Usa la struttura usata nella pagina principale: immagine + contenuto
       catalogoEl.innerHTML = `
-        <img src="${catalogo.immagine}" alt="${catalogo.titolo}" loading="lazy" decoding="async" width="120" height="120">
+        <img src="${catalogo.immagine}" alt="${
+        catalogo.titolo
+      }" loading="lazy" decoding="async" width="120" height="120">
         <div>
           <h3>${catalogo.titolo}</h3>
           <p>${catalogo.descrizione}</p>
