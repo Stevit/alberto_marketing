@@ -4,6 +4,15 @@
   padding: 0 20px;
 }
 
+/* Centra il titolo dei risultati di ricerca */
+#search-results-title {
+  text-align: center;
+  margin: 24px 0;
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
 /* CATEGORIE */
 .categoria-box {
   background: linear-gradient(
