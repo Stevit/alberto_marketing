@@ -35,19 +35,55 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  // Monitora i cambiamenti dell'input in tempo reale
+  if (searchInputElement) {
+    searchInputElement.addEventListener("input", (e) => {
+      const inputValue = e.target.value.trim();
+      
+      if (inputValue === "") {
+        // Se l'input è vuoto, mostra i cataloghi della home
+        searchResultsTitle.textContent = "Cataloghi disponibili";
+        loadAndDisplayAllCatalogs();
+      }
+      // Altrimenti, mantieni i risultati della ricerca precedente
+      // L'utente può cliccare sul bottone di ricerca per nuovi risultati
+    });
+  }
+
   if (!searchResultsContainer || !searchResultsTitle) {
     console.error("Elementi per i risultati della ricerca non trovati.");
     return;
   }
 
   if (!query || query.trim() === "") {
-    searchResultsTitle.textContent = "Nessuna ricerca effettuata";
-    searchResultsContainer.innerHTML =
-      '<p style="text-align: center;">Inserisci un termine di ricerca per trovare i cataloghi.</p>';
+    searchResultsTitle.textContent = "Cataloghi disponibili";
+    loadAndDisplayAllCatalogs();
     return;
   }
 
   searchResultsTitle.textContent = `Risultati per: "${query}"`;
+
+  // Funzione per caricare e visualizzare tutti i cataloghi (quando l'input è vuoto)
+  function loadAndDisplayAllCatalogs() {
+    fetch("cataloghi.json")
+      .then((r) => r.json())
+      .then((cataloghiData) => {
+        // Estrai tutti i cataloghi da tutte le categorie
+        const allCatalogs = [];
+        cataloghiData.forEach((category) => {
+          category.cataloghi.forEach((catalogo) => {
+            allCatalogs.push(catalogo);
+          });
+        });
+
+        displayResults(allCatalogs);
+      })
+      .catch((error) => {
+        console.error("Errore nel caricamento dei cataloghi:", error);
+        searchResultsContainer.innerHTML =
+          '<p style="text-align: center;">Si è verificato un errore durante il caricamento dei cataloghi.</p>';
+      });
+  }
 
   // Carica sia cataloghi.json che catalog_index.json
   Promise.all([
