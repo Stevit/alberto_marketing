@@ -129,6 +129,13 @@
     "immagine": "img/categorie/food.jpg",
     "cataloghi": [
       {
+        "titolo": "Valgarda Breakfast",
+        "descrizione": "Attrezzature e soluzione per la colazione",
+        "linkVisualizza": "https://drive.google.com/file/d/12yPDAfuCEJh9hyIV_S6vDfNIQJZQx1wq/view?usp=sharing",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=12yPDAfuCEJh9hyIV_S6vDfNIQJZQx1wq",
+        "immagine": "img/cataloghi/valgarda.jpg"
+      },
+      {
         "titolo": "Laboratorio di Cannavacciuolo",
         "descrizione": "Catalogo del Laboratorio di Cannavacciuolo.",
         "linkVisualizza": "https://drive.google.com/file/d/12yPDAfuCEJh9hyIV_S6vDfNIQJZQx1wq/view?usp=sharing",
@@ -223,6 +230,33 @@
         "linkVisualizza": "https://drive.google.com/file/d/1ZtVyPxCzkpk2BNAx07NH25nnPtZtp_sT/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1ZtVyPxCzkpk2BNAx07NH25nnPtZtp_sT",
         "immagine": "img/cataloghi/sicurezza.jpg"
+      }
+    ]
+  },
+  {
+    "categoria": "attrezzature fitness e arredamento",
+    "immagine": "img/categorie/arredamento.jpg",
+    "cataloghi": [
+      {
+        "titolo": "Water Rower",
+        "descrizione": "Catalogo attrezzature fitness di design.",
+        "linkVisualizza": "https://drive.google.com/file/d/1_5Pn6bLWRVXy7fihwfl4xhfaP2N-1bK5/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1_5Pn6bLWRVXy7fihwfl4xhfaP2N-1bK5",
+        "immagine": "img/cataloghi/waterrower.jpg"
+      },
+      {
+        "titolo": "Bolla da esterno",
+        "descrizione": "Struttura trasparente da esterno.",
+        "linkVisualizza": "https://drive.google.com/file/d/1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6",
+        "immagine": "img/cataloghi/bolla.jpg"
+      },
+      {
+        "titolo": "Solaris arredamento per esterni",
+        "descrizione": "Arredamenti e strutture per esterni.",
+        "linkVisualizza": "https://drive.google.com/file/d/1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6/view?usp=drivesdk",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6",
+        "immagine": "img/cataloghi/solaris.jpg"
       }
     ]
   }
