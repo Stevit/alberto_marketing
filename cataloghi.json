@@ -10,9 +10,18 @@
         "linkScarica": "https://drive.google.com/uc?export=download&id=1PRvqslHiYH0WzuUb_7F6NJpFI0l9TMlc",
         "immagine": "img/categorie/morinicategoria.jpg",
         "items": [
-          "Set Posate Professionali 24pz",
-          "Tovaglia Rettangolare 160x320cm",
-          "Tovaglioli Carta 100pz"
+          "piatti",
+          "bicchieri",
+          "posate",
+          "porcellane",
+          "buffet",
+          "taglieri",
+          "coppette",
+          "piastre referigerate",
+          "distributori",
+          "vasssoi",
+          "tazzine",
+          "bar"
         ]
       },
       {
@@ -44,42 +53,68 @@
         "descrizione": "Catalogo piatti linea Cottage 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot",
-        "immagine": "img/cataloghi/cottage.jpg"
+        "immagine": "img/cataloghi/cottage.jpg",
+        "items": [
+          "Piatto Piano 26cm",
+          "Piatto Fondo 20cm",
+          "Set 6 Piatti Dessert"
+        ]
       },
       {
         "titolo": "Rogaska cristalli",
         "descrizione": "Catalogo generale Rogaska.",
         "linkVisualizza": "https://drive.google.com/file/d/19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=19Fi1_Cwk2lvgDIyOAkylRSBeq8ht61Wu",
-        "immagine": "img/cataloghi/rogaska.jpg"
+        "immagine": "img/cataloghi/rogaska.jpg",
+        "items": [
+          "Calice Vino 360ml",
+          "Bicchiere Champagne 150ml",
+          "Caraffa Cristallo 1L"
+        ]
       },
       {
         "titolo": "Ecolab Macchine da Cucina",
         "descrizione": "Catalogo Ecolab per macchine da cucina.",
         "linkVisualizza": "https://drive.google.com/file/d/1Jze5jGbqcI3GNisEEjz5UrNZ-OD_cQ22/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1Jze5jGbqcI3GNisEEjz5UrNZ-OD_cQ22",
-        "immagine": "img/cataloghi/ecolab.jpg"
+        "immagine": "img/cataloghi/ecolab.jpg",
+        "items": [
+          "Dosatori detergente",
+          "Programmi lavaggio per lavastoviglie",
+          "Unità di dosaggio automatico"
+        ]
       },
       {
         "titolo": "Metalcarrelli",
         "descrizione": "Catalogo Metalcarrelli 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1r3N6LivfFAv7SBdQhuF5aiIxResqu-2I/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1r3N6LivfFAv7SBdQhuF5aiIxResqu-2I",
-        "immagine": "img/cataloghi/metalcarrelli.jpg"
+        "immagine": "img/cataloghi/metalcarrelli.jpg",
+        "items": [
+          "Carrello servizio 3 ripiani",
+          "Carrello portavivande",
+          "Accessori per montaggio"
+        ]
       },
       {
         "titolo": "Tabletech Stoviglie",
         "descrizione": "Catalogo Tabletech Stoviglie 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1rZjJAFBJj_nRq6gxdOIy0DegvGvyjiOt/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1rZjJAFBJj_nRq6gxdOIy0DegvGvyjiOt",
-        "immagine": "img/cataloghi/tabletech.jpg"
+        "immagine": "img/cataloghi/tabletech.jpg",
+        "items": ["Set piatti piani", "Ciotole porcellana", "Piatti fondi 20cm"]
       },
       {
         "titolo": "Machieraldo Casalinghi",
         "descrizione": "Catalogo Machieraldo Casalinghi 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1ek0ldMAGJPvujnOqakgWW-CxSY86Fpjo/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1ek0ldMAGJPvujnOqakgWW-CxSY86Fpjo",
-        "immagine": "img/cataloghi/machieraldo.jpg"
+        "immagine": "img/cataloghi/machieraldo.jpg",
+        "items": [
+          "Set coltelli cucina",
+          "Pentole antiaderenti",
+          "Utensili da cucina (mestoli, spatole)"
+        ]
       }
     ]
   },
@@ -92,35 +127,60 @@
         "descrizione": "Catalogo della linea di abbigliamento professionale CHEF LINE per l'anno 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1FnjBaLeAg-slZv2kLoceo52qWTZ8pDcH/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1FnjBaLeAg-slZv2kLoceo52qWTZ8pDcH",
-        "immagine": "img/cataloghi/chefline.jpg"
+        "immagine": "img/cataloghi/chefline.jpg",
+        "items": [
+          "Giacca Chef a doppio petto",
+          "Pantaloni da cucina elasticizzati",
+          "Grembiule professionale regolabile"
+        ]
       },
       {
         "titolo": "Abbigliamento Horeca",
         "descrizione": "Catalogo HORECA per il 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1pTS6SnF6k4hhPHFZSISP05HOrnmWWN_D/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1pTS6SnF6k4hhPHFZSISP05HOrnmWWN_D",
-        "immagine": "img/cataloghi/horeca.jpg"
+        "immagine": "img/cataloghi/horeca.jpg",
+        "items": [
+          "Grembiuli da servizio",
+          "Cappelli da cuoco",
+          "Divise per sala e bar"
+        ]
       },
       {
         "titolo": "Abbigliamento One Size",
         "descrizione": "Catalogo One Size per il 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1HOtisVVjVJKCdVJCi-C5_DIOrWdIT3Ai/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1HOtisVVjVJKCdVJCi-C5_DIOrWdIT3Ai",
-        "immagine": "img/cataloghi/onesize.jpg"
+        "immagine": "img/cataloghi/onesize.jpg",
+        "items": [
+          "Casacca unisex taglia unica",
+          "Camicie funzionali",
+          "Cintura regolabile"
+        ]
       },
       {
         "titolo": "Tovagliato",
         "descrizione": "Catalogo del tovagliato per il 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn",
-        "immagine": "img/categorie/abbigliamentoetessuti.jpg"
+        "immagine": "img/categorie/abbigliamentoetessuti.jpg",
+        "items": [
+          "Tovaglia rettangolare 150x250cm",
+          "Runner 40x140cm",
+          "Tovaglioli in lino 50x50cm"
+        ]
       },
       {
         "titolo": "Abbigliamento da lavoro Global Trading",
         "descrizione": "Catalogo abbigliamento da lavoro Global Trading 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1Qk9wL7nbc8551K6DAIQk0XZn0zJgNkNo/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1Qk9wL7nbc8551K6DAIQk0XZn0zJgNkNo",
-        "immagine": "img/cataloghi/globaltrading.jpg"
+        "immagine": "img/cataloghi/globaltrading.jpg",
+        "items": [
+          "Tute da lavoro resistenti",
+          "Giacche alta visibilità",
+          "Scarpe antinfortunistiche"
+        ]
       }
     ]
   },
@@ -133,42 +193,72 @@
         "descrizione": "Attrezzature e soluzione per la colazione",
         "linkVisualizza": "https://drive.google.com/file/d/13utvWv08yiQOtTb-5e6WR2WUqpTUcxM0/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=13utvWv08yiQOtTb-5e6WR2WUqpTUcxM0",
-        "immagine": "img/cataloghi/valgarda.jpg"
+        "immagine": "img/cataloghi/valgarda.jpg",
+        "items": [
+          "Macchina per caffè professionale",
+          "Tostapane a nastro",
+          "Vassoi colazione in acciaio"
+        ]
       },
       {
         "titolo": "Laboratorio di Cannavacciuolo",
         "descrizione": "Catalogo del Laboratorio di Cannavacciuolo.",
         "linkVisualizza": "https://drive.google.com/file/d/12yPDAfuCEJh9hyIV_S6vDfNIQJZQx1wq/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=12yPDAfuCEJh9hyIV_S6vDfNIQJZQx1wq",
-        "immagine": "img/cataloghi/cannavacciuolo.jpg"
+        "immagine": "img/cataloghi/cannavacciuolo.jpg",
+        "items": [
+          "Ricettari professionali",
+          "Attrezzature pasticceria",
+          "Stampi e utensili alimentari"
+        ]
       },
       {
         "titolo": "Mavolo alcolici e bevande",
         "descrizione": "Catalogo Anthology per il 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/183K8MwkM7wuxOvkViqVWaxD2_AiGzu6P/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=183K8MwkM7wuxOvkViqVWaxD2_AiGzu6P",
-        "immagine": "img/cataloghi/mavolo.jpg"
+        "immagine": "img/cataloghi/mavolo.jpg",
+        "items": [
+          "Selezione vini e spumanti",
+          "Syrup e sciroppi per cocktail",
+          "Bottiglie in edizione speciale"
+        ]
       },
       {
         "titolo": "Nio Cocktails",
         "descrizione": "Catalogo di Nio Cocktails.",
         "linkVisualizza": "https://drive.google.com/file/d/13SdxanbFjgwM8MIKPgRNcywIlNbEU86v/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=13SdxanbFjgwM8MIKPgRNcywIlNbEU86v",
-        "immagine": "img/cataloghi/nio.jpg"
+        "immagine": "img/cataloghi/nio.jpg",
+        "items": [
+          "Ricette cocktail signature",
+          "Bicchieri speciali per mixology",
+          "Dosi e garnish consigliati"
+        ]
       },
       {
         "titolo": "Passoladro Prodotti Bio",
         "descrizione": "Catalogo di prodotti biologici.",
         "linkVisualizza": "https://drive.google.com/file/d/12j4GEcODtXs7rkGEGPi2x-_qJaOXFcYv/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=12j4GEcODtXs7rkGEGPi2x-_qJaOXFcYv",
-        "immagine": "img/cataloghi/passoladro.jpg"
+        "immagine": "img/cataloghi/passoladro.jpg",
+        "items": [
+          "Conserve biologiche",
+          "Succhi e bevande bio",
+          "Snack integrali"
+        ]
       },
       {
         "titolo": "Tisane Bio",
         "descrizione": "Catalogo di tisane biologiche.",
         "linkVisualizza": "https://drive.google.com/file/d/1kwuwRuNuHG7O2L3ClZgRb3_eU1n3NKuN/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1kwuwRuNuHG7O2L3ClZgRb3_eU1n3NKuN",
-        "immagine": "img/cataloghi/tisane.jpg"
+        "immagine": "img/cataloghi/tisane.jpg",
+        "items": [
+          "Infusi depurativi",
+          "Tisane digestione",
+          "Bustine aromatizzate 20pz"
+        ]
       }
     ]
   },
@@ -181,21 +271,36 @@
         "descrizione": "Catalogo Elephant Parade italian design.",
         "linkVisualizza": "https://drive.google.com/file/d/1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6",
-        "immagine": "img/cataloghi/elephant parade.jpg"
+        "immagine": "img/cataloghi/elephant parade.jpg",
+        "items": [
+          "Statue da collezione",
+          "Gadget artistici",
+          "Certificati di autenticità"
+        ]
       },
       {
         "titolo": "Juliarte Design",
         "descrizione": "Catalogo Juliarte design",
         "linkVisualizza": "https://drive.google.com/file/d/1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs",
-        "immagine": "img/cataloghi/juliarte.jpg"
+        "immagine": "img/cataloghi/juliarte.jpg",
+        "items": [
+          "Vasi decorativi",
+          "Stampe artistiche",
+          "Sculture in ceramica"
+        ]
       },
       {
         "titolo": "Nature Candle",
         "descrizione": "Catalogo Nature Candle.",
         "linkVisualizza": "https://drive.google.com/file/d/1DTaBx0flirsEvHxzRklz8QkN8biIt0q5/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1DTaBx0flirsEvHxzRklz8QkN8biIt0q5",
-        "immagine": "img/cataloghi/naturecandle.jpg"
+        "immagine": "img/cataloghi/naturecandle.jpg",
+        "items": [
+          "Candele profumate in vari formati",
+          "Portacandele in vetro",
+          "Set regalo seasonal"
+        ]
       }
     ]
   },
@@ -208,28 +313,48 @@
         "descrizione": "Catalogo Brhema Igiene 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1_5Pn6bLWRVXy7fihwfl4xhfaP2N-1bK5/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1_5Pn6bLWRVXy7fihwfl4xhfaP2N-1bK5",
-        "immagine": "img/cataloghi/igiene.jpg"
+        "immagine": "img/cataloghi/igiene.jpg",
+        "items": [
+          "Detergenti concentrati",
+          "Guanti monouso",
+          "Salviette disinfettanti"
+        ]
       },
       {
         "titolo": "Brhema Industria",
         "descrizione": "Catalogo Brhema Industria 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6",
-        "immagine": "img/cataloghi/industria.jpg"
+        "immagine": "img/cataloghi/industria.jpg",
+        "items": [
+          "Lubrificanti industriali",
+          "Ricambi meccanici",
+          "Attrezzature per pulizia industriale"
+        ]
       },
       {
         "titolo": "Brhema Office",
         "descrizione": "Catalogo Brhema Office 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1_0-j99N-pPbh7sV3inToic8rbZs5VZME/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1_0-j99N-pPbh7sV3inToic8rbZs5VZME",
-        "immagine": "img/cataloghi/office.jpg"
+        "immagine": "img/cataloghi/office.jpg",
+        "items": [
+          "Carta per ufficio A4",
+          "Cartucce toner",
+          "Prodotti per cancelleria"
+        ]
       },
       {
         "titolo": "Brhema Sicurezza",
         "descrizione": "Catalogo Brhema Sicurezza 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1ZtVyPxCzkpk2BNAx07NH25nnPtZtp_sT/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1ZtVyPxCzkpk2BNAx07NH25nnPtZtp_sT",
-        "immagine": "img/cataloghi/sicurezza.jpg"
+        "immagine": "img/cataloghi/sicurezza.jpg",
+        "items": [
+          "Estintori e accessori",
+          "Segnaletica di sicurezza",
+          "Caschi e DPI"
+        ]
       }
     ]
   },
@@ -242,21 +367,32 @@
         "descrizione": "Catalogo attrezzature fitness di design.",
         "linkVisualizza": "https://drive.google.com/file/d/1_xna06zDq1ntndYhTHVtOq-lIq_RSJTM/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1_xna06zDq1ntndYhTHVtOq-lIq_RSJTM",
-        "immagine": "img/cataloghi/waterrower.jpg"
+        "immagine": "img/cataloghi/waterrower.jpg",
+        "items": ["Remi ergonomici", "Monitor performance", "Panca regolabile"]
       },
       {
         "titolo": "Bolla da esterno",
         "descrizione": "Struttura trasparente da esterno.",
         "linkVisualizza": "https://drive.google.com/file/d/1TQVpkcbTGH_agCS593xryrc42uboXBJ4/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1TQVpkcbTGH_agCS593xryrc42uboXBJ4",
-        "immagine": "img/cataloghi/bolla.jpg"
+        "immagine": "img/cataloghi/bolla.jpg",
+        "items": [
+          "Cupola trasparente 3m",
+          "Sistema di ventilazione",
+          "Kit ancoraggio e copertura"
+        ]
       },
       {
         "titolo": "Solaris arredamento per esterni",
         "descrizione": "Arredamenti e strutture per esterni.",
         "linkVisualizza": "https://drive.google.com/file/d/1tdOakJrQ-1gYSqSVyP-C0pkOFU0wlsuI/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1tdOakJrQ-1gYSqSVyP-C0pkOFU0wlsuI",
-        "immagine": "img/cataloghi/solaris.jpg"
+        "immagine": "img/cataloghi/solaris.jpg",
+        "items": [
+          "Gazebo pieghevole",
+          "Tavoli esterni resistenti",
+          "Sedie impilabili per esterni"
+        ]
       }
     ]
   }
