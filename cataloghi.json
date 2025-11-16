@@ -8,42 +8,36 @@
         "descrizione": "Catalogo generale completo.",
         "linkVisualizza": "https://drive.google.com/file/d/1PRvqslHiYH0WzuUb_7F6NJpFI0l9TMlc/view?usp=drivesdk",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1PRvqslHiYH0WzuUb_7F6NJpFI0l9TMlc",
-        "immagine": "img/categorie/morinicategoria.jpg"
-      },
-      {
-        "titolo": "Novità Onlylux Cristalli di Corte",
-        "descrizione": "Novità Cristalli di Corte 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1M88vvzQnttPbdl43-F3nrASr9gJQJHLm/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1M88vvzQnttPbdl43-F3nrASr9gJQJHLm",
-        "immagine": "img/cataloghi/corte.jpg"
-      },
-      {
-        "titolo": "Novità Onlylux vasi e bicchieri",
-        "descrizione": "Novità Onlylux 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/11gBTDfWmvG2wKKBFpswHMJjutmixijt3/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=11gBTDfWmvG2wKKBFpswHMJjutmixijt3",
-        "immagine": "img/cataloghi/novitaonlylux.jpg"
-      },
-      {
-        "titolo": "Onlylux Cristalli di Corte",
-        "descrizione": "Catalogo completo Cristalli di Corte 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1IhKZv69mrlDok5qYHAhJcZikUCoFGt20/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1IhKZv69mrlDok5qYHAhJcZikUCoFGt20",
-        "immagine": "img/cataloghi/castello di corte.jpg"
+        "immagine": "img/categorie/morinicategoria.jpg",
+        "items": [
+          "Set Posate Professionali 24pz",
+          "Tovaglia Rettangolare 160x320cm",
+          "Tovaglioli Carta 100pz"
+        ]
       },
       {
         "titolo": "Onlylux vasi e bicchieri",
         "descrizione": "Catalogo completo Onlylux 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE",
-        "immagine": "img/cataloghi/onlylux.jpg"
+        "immagine": "img/cataloghi/onlylux.jpg",
+        "items": [
+          "Bicchiere Vetro Soffiato 320ml",
+          "Vaso Minimal 30cm",
+          "Bicchiere Acqua Classico 250ml"
+        ]
       },
       {
         "titolo": "Pampa Bay Ceramiche",
         "descrizione": "Catalogo Pampa Bay.",
         "linkVisualizza": "https://drive.google.com/file/d/1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5/view?usp=sharing",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5",
-        "immagine": "img/cataloghi/pampabay.jpg"
+        "immagine": "img/cataloghi/pampabay.jpg",
+        "items": [
+          "Piatto Fondo 22cm",
+          "Set 4 Piatti Dessert",
+          "Piatto Piano 28cm"
+        ]
       },
       {
         "titolo": "Piatti Cottage",
@@ -131,47 +125,6 @@
     ]
   },
   {
-    "categoria": "Ceramiche",
-    "immagine": "img/categorie/ceramiche.jpg",
-    "cataloghi": [
-      {
-        "titolo": "Catalogo Excelsa Natale 2025",
-        "descrizione": "Catalogo Excelsa per il Natale 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1Wp27psr_ZrplMpZXmRaAyTNjJDsGXDPa/view?usp=drivesdk",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1Wp27psr_ZrplMpZXmRaAyTNjJDsGXDPa",
-        "immagine": "img/cataloghi/excelsa.jpg"
-      },
-      {
-        "titolo": "Catalogo Portmeirion",
-        "descrizione": "Catalogo ceramiche Portmeirion.",
-        "linkVisualizza": "https://drive.google.com/file/d/1cU-8UfiRtLb3zaG4MW2zZjDVeclmbOe4/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1cU-8UfiRtLb3zaG4MW2zZjDVeclmbOe4",
-        "immagine": "img/cataloghi/ceramica.jpg"
-      },
-      {
-        "titolo": "Excelsa Tendenze 2025",
-        "descrizione": "Catalogo Excelsa Tendenze per il 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1o9MjCHSi7HpGYyE06aKX1wbbyD16H7ML/view?usp=drivesdk",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1o9MjCHSi7HpGYyE06aKX1wbbyD16H7ML",
-        "immagine": "img/cataloghi/excelsatendenze.jpg"
-      },
-      {
-        "titolo": "Natale Portmeirion 2025",
-        "descrizione": "Catalogo natalizio Portmeirion per il 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1o4v6Cn3AH4Ps_jzvRXTVZ91LVhL23_qB/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1o4v6Cn3AH4Ps_jzvRXTVZ91LVhL23_qB",
-        "immagine": "img/cataloghi/christmas2025.jpg"
-      },
-      {
-        "titolo": "Excelsa Catalogo Tecnico",
-        "descrizione": "Catalogo tecnico Excelsa 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/144yQxrPreHVLZ-xJ1BShlpzcwtOi7AbY/view?usp=drivesdk",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=144yQxrPreHVLZ-xJ1BShlpzcwtOi7AbY",
-        "immagine": "img/cataloghi/excelsatecnico.jpg"
-      }
-    ]
-  },
-  {
     "categoria": "Food & Beverage",
     "immagine": "img/categorie/food.jpg",
     "cataloghi": [
@@ -216,20 +169,6 @@
     "categoria": "Oggettistica e Decorazioni",
     "immagine": "img/categorie/oggettistica.jpg",
     "cataloghi": [
-      {
-        "titolo": "Doing Goods Decorazioni",
-        "descrizione": "Catalogo Doing Goods Decorazioni.",
-        "linkVisualizza": "https://drive.google.com/file/d/13PYgIkb7TZRNf60UpOHho6kFzG59WdrR/view?usp=drivesdk",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=13PYgIkb7TZRNf60UpOHho6kFzG59WdrR",
-        "immagine": "img/cataloghi/doingdec.jpg"
-      },
-      {
-        "titolo": "Doing Goods Lampade",
-        "descrizione": "Catalogo Doing Goods Lampade.",
-        "linkVisualizza": "https://drive.google.com/file/d/133JMp85NORHp7JErUX7CCKJFuDcKjhgi/view?usp=drivesdk",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=133JMp85NORHp7JErUX7CCKJFuDcKjhgi",
-        "immagine": "img/cataloghi/doinglam.jpg"
-      },
       {
         "titolo": "Elephant Parade Design",
         "descrizione": "Catalogo Elephant Parade italian design.",

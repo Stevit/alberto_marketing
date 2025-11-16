@@ -91,14 +91,28 @@ document.addEventListener("DOMContentLoaded", () => {
       });
   }
 
-  // Carica sia cataloghi.json che catalog_index.json
-  Promise.all([
-    fetch("cataloghi.json").then((r) => r.json()),
-    fetch("catalog_index.json")
-      .then((r) => r.json())
-      .catch(() => []),
-  ])
-    .then(([cataloghiData, indexData]) => {
+  // Carica `cataloghi.json` e deriva un index interno (voci con `items`)
+  fetch("cataloghi.json")
+    .then((r) => r.json())
+    .then((cataloghiData) => {
+      // Deriva indexData dalle voci che hanno `items` presenti
+      const indexData = [];
+      cataloghiData.forEach((category) => {
+        category.cataloghi.forEach((c) => {
+          if (c.items && Array.isArray(c.items) && c.items.length > 0) {
+            indexData.push({
+              id: c.id || null,
+              categoria: category.categoria,
+              titolo: c.titolo,
+              linkVisualizza: c.linkVisualizza,
+              linkScarica: c.linkScarica,
+              immagine: c.immagine,
+              items: c.items,
+            });
+          }
+        });
+      });
+
       // Funzioni di supporto per ricerca avanzata
 
       // Calcola distanza Levenshtein per fuzzy matching
@@ -275,6 +289,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .map((item) => item.catalogo);
 
       displayResults(results);
+      // (resto del blocco rimane invariato)
     })
     .catch((error) => {
       console.error(
