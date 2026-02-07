@@ -119,24 +119,6 @@
     ]
   },
   {
-    "categoria": "Abbigliamento e tessuti",
-    "immagine": "img/categorie/abbigliamentoetessuti.jpg",
-    "cataloghi": [
-      {
-        "titolo": "Abbigliamento da lavoro Global Trading",
-        "descrizione": "Catalogo abbigliamento da lavoro Global Trading 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1Qk9wL7nbc8551K6DAIQk0XZn0zJgNkNo/view?usp=drivesdk",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1Qk9wL7nbc8551K6DAIQk0XZn0zJgNkNo",
-        "immagine": "img/cataloghi/globaltrading.jpg",
-        "items": [
-          "Tute da lavoro resistenti",
-          "Giacche alta visibilità",
-          "Scarpe antinfortunistiche"
-        ]
-      }
-    ]
-  },
-  {
     "categoria": "Food & Beverage",
     "immagine": "img/categorie/food.jpg",
     "cataloghi": [
@@ -153,18 +135,6 @@
         ]
       },
       {
-        "titolo": "Laboratorio di Cannavacciuolo",
-        "descrizione": "Catalogo del Laboratorio di Cannavacciuolo.",
-        "linkVisualizza": "https://drive.google.com/file/d/12yPDAfuCEJh9hyIV_S6vDfNIQJZQx1wq/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=12yPDAfuCEJh9hyIV_S6vDfNIQJZQx1wq",
-        "immagine": "img/cataloghi/cannavacciuolo.jpg",
-        "items": [
-          "Ricettari professionali",
-          "Attrezzature pasticceria",
-          "Stampi e utensili alimentari"
-        ]
-      },
-      {
         "titolo": "Mavolo alcolici e bevande",
         "descrizione": "Catalogo Anthology per il 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/183K8MwkM7wuxOvkViqVWaxD2_AiGzu6P/view?usp=sharing",
@@ -174,30 +144,6 @@
           "Selezione vini e spumanti",
           "Syrup e sciroppi per cocktail",
           "Bottiglie in edizione speciale"
-        ]
-      },
-      {
-        "titolo": "Nio Cocktails",
-        "descrizione": "Catalogo di Nio Cocktails.",
-        "linkVisualizza": "https://drive.google.com/file/d/13SdxanbFjgwM8MIKPgRNcywIlNbEU86v/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=13SdxanbFjgwM8MIKPgRNcywIlNbEU86v",
-        "immagine": "img/cataloghi/nio.jpg",
-        "items": [
-          "Ricette cocktail signature",
-          "Bicchieri speciali per mixology",
-          "Dosi e garnish consigliati"
-        ]
-      },
-      {
-        "titolo": "Passoladro Prodotti Bio",
-        "descrizione": "Catalogo di prodotti biologici.",
-        "linkVisualizza": "https://drive.google.com/file/d/12j4GEcODtXs7rkGEGPi2x-_qJaOXFcYv/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=12j4GEcODtXs7rkGEGPi2x-_qJaOXFcYv",
-        "immagine": "img/cataloghi/passoladro.jpg",
-        "items": [
-          "Conserve biologiche",
-          "Succhi e bevande bio",
-          "Snack integrali"
         ]
       },
       {
@@ -228,18 +174,6 @@
           "Statue da collezione",
           "Gadget artistici",
           "Certificati di autenticità"
-        ]
-      },
-      {
-        "titolo": "Juliarte Design",
-        "descrizione": "Catalogo Juliarte design",
-        "linkVisualizza": "https://drive.google.com/file/d/1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1D6jIvcjBBF-Wh9XJIlV3iuLqi62j8lUs",
-        "immagine": "img/cataloghi/juliarte.jpg",
-        "items": [
-          "Vasi decorativi",
-          "Stampe artistiche",
-          "Sculture in ceramica"
         ]
       },
       {
