@@ -125,29 +125,34 @@
 }
 
 .button-container {
-  display: flex;
-  justify-content: flex-start; /* Allinea i pulsanti a sinistra */
-  gap: 10px;
-  margin-top: 12px;
+  overflow: hidden;
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px var(--catalogo-shadow);
 }
 
 .btn-download,
-.btn-view {
-  display: inline-block;
-  padding: 8px 16px;
-  color: var(--link-color);
-  text-decoration: none;
+  position: relative;
+  height: 220px;
+  display: block;
   border-radius: 4px;
   font-weight: bold;
   letter-spacing: 0.5px;
-  text-transform: uppercase;
-  font-size: 13px;
-  text-align: center;
-  border: none;
-  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 260px;
+  height: 170px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 10px 18px rgba(0, 0, 0, 0.18);
+  transform: translate(-50%, -50%) scale(0.85);
+  opacity: 0;
   transition:
-    background-color 0.2s ease-in-out,
-    transform 0.2s ease-in-out;
+    transform 0.6s ease,
+    opacity 0.6s ease,
+    z-index 0.6s ease;
+  z-index: 1;
   white-space: nowrap;
   min-width: 140px; /* Imposta una larghezza minima fissa */
 }
@@ -334,22 +339,29 @@
 }
 
 .carousel {
-  display: flex;
-  width: calc(
-    200px * 10
-  ); /* Assumendo 5 novità, ripetute per scrolling continuo */
-  animation: scroll 20s linear infinite;
+  position: relative;
+  height: 240px;
+  display: block;
 }
 
 .novita-item {
-  position: relative;
-  width: 200px;
-  height: 150px;
-  margin-right: 10px;
-  flex-shrink: 0;
-  border-radius: 8px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 300px;
+  height: 190px;
+  border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 10px 18px rgba(0, 0, 0, 0.18);
+  transform: translate(-50%, -50%) scale(0.85);
+  opacity: 0;
+  transition:
+    transform 0.6s ease,
+    opacity 0.6s ease,
+    z-index 0.6s ease;
+  z-index: 1;
+  text-decoration: none;
+  color: inherit;
 }
 
 .novita-item img {
@@ -372,11 +384,46 @@
   text-transform: uppercase;
 }
 
-@keyframes scroll {
-  0% {
-    transform: translateX(0);
+.novita-item.is-active {
+  transform: translate(-50%, -50%) scale(1);
+  opacity: 1;
+  filter: none;
+  z-index: 4;
+}
+
+.novita-item.is-prev {
+  transform: translate(-85%, -50%) scale(0.9);
+  opacity: 0.8;
+  filter: blur(1.5px);
+  z-index: 3;
+}
+
+.novita-item.is-next {
+  transform: translate(-15%, -50%) scale(0.9);
+  opacity: 0.8;
+  filter: blur(1.5px);
+  z-index: 3;
+}
+
+
+@media (max-width: 600px) {
+  .carousel {
+    height: 200px;
   }
-  100% {
-    transform: translateX(-50%);
+
+  .novita-item {
+    width: 240px;
+    height: 160px;
+  }
+
+  .novita-overlay {
+    font-size: 12px;
+  }
+
+  .novita-item.is-prev,
+  .novita-item.is-next {
+    opacity: 0;
+    filter: none;
+    pointer-events: none;
   }
 }

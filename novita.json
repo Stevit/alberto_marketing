@@ -1,22 +1,27 @@
 [
   {
     "titolo": "Nuovo Catalogo Morini",
-    "immagine": "img/categorie/morinicategoria.jpg"
+    "immagine": "img/categorie/morinicategoria.jpg",
+    "link": "https://drive.google.com/file/d/1PRvqslHiYH0WzuUb_7F6NJpFI0l9TMlc/view?usp=drivesdk"
   },
   {
     "titolo": "Onlylux 2025",
-    "immagine": "img/cataloghi/onlylux.jpg"
+    "immagine": "img/cataloghi/onlylux.jpg",
+    "link": "https://drive.google.com/file/d/1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE/view?usp=sharing"
   },
   {
     "titolo": "Ceramiche Pampa Bay",
-    "immagine": "img/cataloghi/pampabay.jpg"
+    "immagine": "img/cataloghi/pampabay.jpg",
+    "link": "https://drive.google.com/file/d/1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5/view?usp=sharing"
   },
   {
     "titolo": "Arredamento Solaris",
-    "immagine": "img/cataloghi/solaris.jpg"
+    "immagine": "img/cataloghi/solaris.jpg",
+    "link": "https://drive.google.com/file/d/1tdOakJrQ-1gYSqSVyP-C0pkOFU0wlsuI/view?usp=drivesdk"
   },
   {
     "titolo": "Attrezzature Fitness",
-    "immagine": "img/cataloghi/waterrower.jpg"
+    "immagine": "img/cataloghi/waterrower.jpg",
+    "link": "https://drive.google.com/file/d/1_xna06zDq1ntndYhTHVtOq-lIq_RSJTM/view?usp=drivesdk"
   }
 ]

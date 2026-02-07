@@ -29,32 +29,59 @@ document.addEventListener("DOMContentLoaded", () => {
 fetch("cataloghi.json")
   .then((res) => res.json())
   .then((data) => {
-    // Carica le novità nel carosello
+    // Carica le novita nel carosello
     fetch("novita.json")
       .then((res) => res.json())
       .then((novitaData) => {
         const carousel = document.querySelector(".carousel");
-        if (carousel && novitaData) {
-          novitaData.forEach((novita) => {
-            const imgDiv = document.createElement("div");
-            imgDiv.className = "novita-item";
-            imgDiv.innerHTML = `
-              <img src="${novita.immagine}" alt="${novita.titolo}">
-              <div class="novita-overlay">${novita.titolo}</div>
-            `;
-            carousel.appendChild(imgDiv);
-          });
-          // Duplica per scrolling infinito
-          novitaData.forEach((novita) => {
-            const imgDiv = document.createElement("div");
-            imgDiv.className = "novita-item";
-            imgDiv.innerHTML = `
-              <img src="${novita.immagine}" alt="${novita.titolo}">
-              <div class="novita-overlay">${novita.titolo}</div>
-            `;
-            carousel.appendChild(imgDiv);
-          });
+        if (
+          !carousel ||
+          !Array.isArray(novitaData) ||
+          novitaData.length === 0
+        ) {
+          return;
         }
+
+        const items = novitaData.map((novita) => {
+          const link = document.createElement("a");
+          link.className = "novita-item";
+          link.href = novita.link || "#";
+          link.target = "_blank";
+          link.rel = "noopener";
+          link.innerHTML = `
+            <img src="${novita.immagine}" alt="${novita.titolo}">
+            <div class="novita-overlay">${novita.titolo}</div>
+          `;
+          carousel.appendChild(link);
+          return link;
+        });
+
+        let activeIndex = 0;
+        const positions = ["is-prev", "is-active", "is-next"];
+
+        const updatePositions = () => {
+          const total = items.length;
+          items.forEach((item) => {
+            positions.forEach((pos) => item.classList.remove(pos));
+          });
+
+          const used = new Set();
+          const offsets = [-1, 0, 1];
+          offsets.forEach((offset, index) => {
+            const idx = (activeIndex + offset + total) % total;
+            if (used.has(idx)) {
+              return;
+            }
+            used.add(idx);
+            items[idx].classList.add(positions[index]);
+          });
+        };
+
+        updatePositions();
+        setInterval(() => {
+          activeIndex = (activeIndex + 1) % items.length;
+          updatePositions();
+        }, 3000);
       })
       .catch((err) => console.error("Errore caricamento novita:", err));
 
