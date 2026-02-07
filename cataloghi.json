@@ -128,54 +128,6 @@
       "immagine": "img/categorie/abbigliamentoetessuti.jpg",
       "cataloghi": [
         {
-          "titolo": "Abbigliamento Chefline",
-          "descrizione": "Catalogo della linea di abbigliamento professionale CHEF LINE per l'anno 2025.",
-          "linkVisualizza": "https://drive.google.com/file/d/1FnjBaLeAg-slZv2kLoceo52qWTZ8pDcH/view?usp=sharing",
-          "linkScarica": "https://drive.google.com/uc?export=download&id=1FnjBaLeAg-slZv2kLoceo52qWTZ8pDcH",
-          "immagine": "img/cataloghi/chefline.jpg",
-          "items": [
-            "Giacca Chef a doppio petto",
-            "Pantaloni da cucina elasticizzati",
-            "Grembiule professionale regolabile"
-          ]
-        },
-        {
-          "titolo": "Abbigliamento Horeca",
-          "descrizione": "Catalogo HORECA per il 2025.",
-          "linkVisualizza": "https://drive.google.com/file/d/1pTS6SnF6k4hhPHFZSISP05HOrnmWWN_D/view?usp=sharing",
-          "linkScarica": "https://drive.google.com/uc?export=download&id=1pTS6SnF6k4hhPHFZSISP05HOrnmWWN_D",
-          "immagine": "img/cataloghi/horeca.jpg",
-          "items": [
-            "Grembiuli da servizio",
-            "Cappelli da cuoco",
-            "Divise per sala e bar"
-          ]
-        },
-        {
-          "titolo": "Abbigliamento One Size",
-          "descrizione": "Catalogo One Size per il 2025.",
-          "linkVisualizza": "https://drive.google.com/file/d/1HOtisVVjVJKCdVJCi-C5_DIOrWdIT3Ai/view?usp=sharing",
-          "linkScarica": "https://drive.google.com/uc?export=download&id=1HOtisVVjVJKCdVJCi-C5_DIOrWdIT3Ai",
-          "immagine": "img/cataloghi/onesize.jpg",
-          "items": [
-            "Casacca unisex taglia unica",
-            "Camicie funzionali",
-            "Cintura regolabile"
-          ]
-        },
-        {
-          "titolo": "Tovagliato",
-          "descrizione": "Catalogo del tovagliato per il 2025.",
-          "linkVisualizza": "https://drive.google.com/file/d/1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn/view?usp=sharing",
-          "linkScarica": "https://drive.google.com/uc?export=download&id=1nm_yrLpgAXMv3bVhaVJG2PsQG-qLDetn",
-          "immagine": "img/categorie/abbigliamentoetessuti.jpg",
-          "items": [
-            "Tovaglia rettangolare 150x250cm",
-            "Runner 40x140cm",
-            "Tovaglioli in lino 50x50cm"
-          ]
-        },
-        {
           "titolo": "Abbigliamento da lavoro Global Trading",
           "descrizione": "Catalogo abbigliamento da lavoro Global Trading 2025.",
           "linkVisualizza": "https://drive.google.com/file/d/1Qk9wL7nbc8551K6DAIQk0XZn0zJgNkNo/view?usp=drivesdk",
