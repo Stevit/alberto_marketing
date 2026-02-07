@@ -30,34 +30,39 @@ fetch("cataloghi.json")
   .then((res) => res.json())
   .then((data) => {
     // Carica le novità nel carosello
-    const carousel = document.querySelector(".carousel");
-    if (carousel && data.novita) {
-      data.novita.forEach((novita) => {
-        const imgDiv = document.createElement("div");
-        imgDiv.className = "novita-item";
-        imgDiv.innerHTML = `
-          <img src="${novita.immagine}" alt="${novita.titolo}">
-          <div class="novita-overlay">${novita.titolo}</div>
-        `;
-        carousel.appendChild(imgDiv);
-      });
-      // Duplica per scrolling infinito
-      data.novita.forEach((novita) => {
-        const imgDiv = document.createElement("div");
-        imgDiv.className = "novita-item";
-        imgDiv.innerHTML = `
-          <img src="${novita.immagine}" alt="${novita.titolo}">
-          <div class="novita-overlay">${novita.titolo}</div>
-        `;
-        carousel.appendChild(imgDiv);
-      });
-    }
+    fetch("novita.json")
+      .then((res) => res.json())
+      .then((novitaData) => {
+        const carousel = document.querySelector(".carousel");
+        if (carousel && novitaData) {
+          novitaData.forEach((novita) => {
+            const imgDiv = document.createElement("div");
+            imgDiv.className = "novita-item";
+            imgDiv.innerHTML = `
+              <img src="${novita.immagine}" alt="${novita.titolo}">
+              <div class="novita-overlay">${novita.titolo}</div>
+            `;
+            carousel.appendChild(imgDiv);
+          });
+          // Duplica per scrolling infinito
+          novitaData.forEach((novita) => {
+            const imgDiv = document.createElement("div");
+            imgDiv.className = "novita-item";
+            imgDiv.innerHTML = `
+              <img src="${novita.immagine}" alt="${novita.titolo}">
+              <div class="novita-overlay">${novita.titolo}</div>
+            `;
+            carousel.appendChild(imgDiv);
+          });
+        }
+      })
+      .catch((err) => console.error("Errore caricamento novita:", err));
 
     const container = document.querySelector(".cataloghi");
     const categoryImagePromises = [];
     const catalogImagesToLoad = [];
 
-    data.categorie.forEach((categoria) => {
+    data.forEach((categoria) => {
       const catBox = document.createElement("div");
       catBox.className = "categoria-box";
 

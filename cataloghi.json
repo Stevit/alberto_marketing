@@ -1,5 +1,4 @@
-{
-  "categorie": [
+[
     {
       "categoria": "Forniture Alberghi e ristoranti",
       "immagine": "img/categorie/morinicategoria.jpg",
@@ -356,28 +355,6 @@
           ]
         }
       ]
-    }
-  ],
-  "novita": [
-    {
-      "titolo": "Nuovo Catalogo Morini",
-      "immagine": "img/categorie/morinicategoria.jpg"
-    },
-    {
-      "titolo": "Onlylux 2025",
-      "immagine": "img/cataloghi/onlylux.jpg"
-    },
-    {
-      "titolo": "Ceramiche Pampa Bay",
-      "immagine": "img/cataloghi/pampabay.jpg"
-    },
-    {
-      "titolo": "Arredamento Solaris",
-      "immagine": "img/cataloghi/solaris.jpg"
-    },
-    {
-      "titolo": "Attrezzature Fitness",
-      "immagine": "img/cataloghi/waterrower.jpg"
     }
   ]
 }
