@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const inputValue = searchInputHome.value.trim();
       if (inputValue) {
         window.location.href = `search.html?query=${encodeURIComponent(
-          inputValue
+          inputValue,
         )}`;
       }
     });
@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const inputValue = searchInputHome.value.trim();
         if (inputValue) {
           window.location.href = `search.html?query=${encodeURIComponent(
-            inputValue
+            inputValue,
           )}`;
         }
       }
@@ -29,11 +29,35 @@ document.addEventListener("DOMContentLoaded", () => {
 fetch("cataloghi.json")
   .then((res) => res.json())
   .then((data) => {
+    // Carica le novità nel carosello
+    const carousel = document.querySelector(".carousel");
+    if (carousel && data.novita) {
+      data.novita.forEach((novita) => {
+        const imgDiv = document.createElement("div");
+        imgDiv.className = "novita-item";
+        imgDiv.innerHTML = `
+          <img src="${novita.immagine}" alt="${novita.titolo}">
+          <div class="novita-overlay">${novita.titolo}</div>
+        `;
+        carousel.appendChild(imgDiv);
+      });
+      // Duplica per scrolling infinito
+      data.novita.forEach((novita) => {
+        const imgDiv = document.createElement("div");
+        imgDiv.className = "novita-item";
+        imgDiv.innerHTML = `
+          <img src="${novita.immagine}" alt="${novita.titolo}">
+          <div class="novita-overlay">${novita.titolo}</div>
+        `;
+        carousel.appendChild(imgDiv);
+      });
+    }
+
     const container = document.querySelector(".cataloghi");
     const categoryImagePromises = [];
     const catalogImagesToLoad = [];
 
-    data.forEach((categoria) => {
+    data.categorie.forEach((categoria) => {
       const catBox = document.createElement("div");
       catBox.className = "categoria-box";
 
@@ -121,7 +145,7 @@ fetch("cataloghi.json")
                   cataloghiDiv.style.maxHeight = "";
                   cataloghiDiv.removeEventListener("transitionend", closeEnd);
                 }
-              }
+              },
             );
           }, delay);
         }
@@ -151,7 +175,7 @@ fetch("cataloghi.json")
     Promise.all(categoryImagePromises)
       .then(() => {
         console.log(
-          "Immagini delle categorie caricate. Inizio caricamento immagini cataloghi in background."
+          "Immagini delle categorie caricate. Inizio caricamento immagini cataloghi in background.",
         );
         // ...inizia a caricare le immagini dei cataloghi una alla volta
         catalogImagesToLoad.forEach((img, index) => {
@@ -165,7 +189,7 @@ fetch("cataloghi.json")
       .catch((error) => {
         console.error(
           "Errore nel caricamento di un'immagine di categoria.",
-          error
+          error,
         );
       });
   })
