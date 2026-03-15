@@ -1,27 +1,27 @@
 [
   {
-    "titolo": "Nuovo Catalogo Morini",
-    "immagine": "img/categorie/morinicategoria.jpg",
-    "link": "https://drive.google.com/file/d/1PRvqslHiYH0WzuUb_7F6NJpFI0l9TMlc/view?usp=drivesdk"
+    "titolo": "Faber",
+    "immagine": "img/Attrezzatura Fitness e Arredamento/Faber.jpeg",
+    "link": "https://drive.google.com/file/d/1tE-v9W8fl7_ZhlFjpYpmadW2Xxk3KNtz/view?usp=drive_link"
   },
   {
-    "titolo": "Onlylux 2025",
-    "immagine": "img/cataloghi/onlylux.jpg",
-    "link": "https://drive.google.com/file/d/1Pp7_B18AR7IXSQLY4WHE5dN9G2WaZlrE/view?usp=sharing"
+    "titolo": "Mavolo alcolici e bevande",
+    "immagine": "img/Food & Beverage/Mavolo.jpeg",
+    "link": "https://drive.google.com/file/d/1Ja1mppaFVVMODHat2tM8TqH6g60qFJ6l/view?usp=drive_link"
   },
   {
-    "titolo": "Ceramiche Pampa Bay",
-    "immagine": "img/cataloghi/pampabay.jpg",
-    "link": "https://drive.google.com/file/d/1JD1Pf4qVy9eD8wA183VBrnQOd3CJ7tm5/view?usp=sharing"
+    "titolo": "Piatti Cottage",
+    "immagine": "img/Forniture Alberghi e Ristoranti/Cottage.jpg",
+    "link": "https://drive.google.com/file/d/1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot/view?usp=drive_link"
   },
   {
-    "titolo": "Arredamento Solaris",
-    "immagine": "img/cataloghi/solaris.jpg",
-    "link": "https://drive.google.com/file/d/1tdOakJrQ-1gYSqSVyP-C0pkOFU0wlsuI/view?usp=drivesdk"
+    "titolo": "Lumian",
+    "immagine": "img/Forniture Alberghi e Ristoranti/Lumian.jpeg",
+    "link": "https://drive.google.com/file/d/13_kydNAuOJWlcmMt--XkRjbPDKTU46Yp/view?usp=drive_link"
   },
   {
-    "titolo": "Attrezzature Fitness",
-    "immagine": "img/cataloghi/waterrower.jpg",
-    "link": "https://drive.google.com/file/d/1_xna06zDq1ntndYhTHVtOq-lIq_RSJTM/view?usp=drivesdk"
+    "titolo": "Tisane Bio",
+    "immagine": "img/Food & Beverage/Tisane.jpg",
+    "link": "https://drive.google.com/file/d/15im5ov2jpxiUsgPzScnznqEpfiGIYMsB/view?usp=drive_link"
   }
 ]

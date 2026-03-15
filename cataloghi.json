@@ -26,7 +26,7 @@
       },
       {
         "titolo": "Piatti Cottage",
-        "descrizione": "Catalogo piatti linea Cottage 2025.",
+        "descrizione": "Catalogo piatti linea Cottage.",
         "linkVisualizza": "https://drive.google.com/file/d/1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot",
         "immagine": "img/Forniture Alberghi e Ristoranti/Cottage.jpg",
@@ -50,7 +50,7 @@
       },
       {
         "titolo": "Metalcarrelli",
-        "descrizione": "Catalogo Metalcarrelli 2025.",
+        "descrizione": "Catalogo Metalcarrelli.",
         "linkVisualizza": "https://drive.google.com/file/d/1r3N6LivfFAv7SBdQhuF5aiIxResqu-2I/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1r3N6LivfFAv7SBdQhuF5aiIxResqu-2I",
         "immagine": "img/Forniture Alberghi e Ristoranti/Metalcarrelli.jpg",
@@ -61,8 +61,8 @@
         ]
       },
       {
-        "titolo": "Goldplast",
-        "descrizione": "Catalogo Goldplast forniture per ristorazione.",
+        "titolo": "Bicchieri Goldplast",
+        "descrizione": "Catalogo Goldplast bicchieri riutilizzabili.",
         "linkVisualizza": "https://drive.google.com/file/d/1PrlB893APaTxix83f-Qkyu4JQ5n8rj-2/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1PrlB893APaTxix83f-Qkyu4JQ5n8rj-2",
         "immagine": "img/Forniture Alberghi e Ristoranti/Goldplast.jpeg",
@@ -73,8 +73,8 @@
         ]
       },
       {
-        "titolo": "Lumian",
-        "descrizione": "Catalogo Lumian per soluzioni di illuminazione.",
+        "titolo": "Lumian Luxury Bar Tools",
+        "descrizione": "Catalogo Lumian Luxury Bar Tools.",
         "linkVisualizza": "https://drive.google.com/file/d/13_kydNAuOJWlcmMt--XkRjbPDKTU46Yp/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=13_kydNAuOJWlcmMt--XkRjbPDKTU46Yp",
         "immagine": "img/Forniture Alberghi e Ristoranti/Lumian.jpeg",
@@ -85,8 +85,8 @@
         ]
       },
       {
-        "titolo": "Tovagliati",
-        "descrizione": "Catalogo tovagliati professionali.",
+        "titolo": "Packservice tovagliati",
+        "descrizione": "Catalogo tovagliati coordinati.",
         "linkVisualizza": "https://drive.google.com/file/d/1c6fYPTRBVvMy3XpXSAm5XL8fwLY0JmCj/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1c6fYPTRBVvMy3XpXSAm5XL8fwLY0JmCj",
         "immagine": "img/Forniture Alberghi e Ristoranti/Tovagliati.jpeg",
@@ -104,7 +104,7 @@
     "cataloghi": [
       {
         "titolo": "Mavolo alcolici e bevande",
-        "descrizione": "Catalogo Anthology per il 2025.",
+        "descrizione": "Catalogo Anthology per il 2026.",
         "linkVisualizza": "https://drive.google.com/file/d/1Ja1mppaFVVMODHat2tM8TqH6g60qFJ6l/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1Ja1mppaFVVMODHat2tM8TqH6g60qFJ6l",
         "immagine": "img/Food & Beverage/Mavolo.jpeg",
@@ -129,11 +129,11 @@
     ]
   },
   {
-    "categoria": "Abbigliamento",
+    "categoria": "Isacco abbigliamento",
     "immagine": "img/Abbigliamento/Categoria.jpeg",
     "cataloghi": [
       {
-        "titolo": "Abbigliamento professionale",
+        "titolo": "Abbigliamento Professionale",
         "descrizione": "Catalogo abbigliamento e tessuti per hotel e ristorazione.",
         "linkVisualizza": "https://drive.google.com/file/d/1AOKyXkpDWBfJDNMLKanHUIoaKxnq79f5/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1AOKyXkpDWBfJDNMLKanHUIoaKxnq79f5",
@@ -141,15 +141,15 @@
         "items": ["Uniformi e divise", "Tovagliato", "Tessuti tecnici"]
       },
       {
-        "titolo": "Chefline",
+        "titolo": "Abigliamento Chefline",
         "descrizione": "Linee di abbigliamento professionale Chefline.",
-        "linkVisualizza": "#",
-        "linkScarica": "#",
+        "linkVisualizza": "https://drive.google.com/file/d/1RX1k4jvFingL5epoexjm4bEOxUkPwn_A/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1RX1k4jvFingL5epoexjm4bEOxUkPwn_A",
         "immagine": "img/Abbigliamento/Chefline.jpeg",
         "items": ["Giacche chef", "Pantaloni cucina", "Grembiuli"]
       },
       {
-        "titolo": "Horeca",
+        "titolo": "Abbigliamento Horeca",
         "descrizione": "Abbigliamento e tessuti per il settore Horeca.",
         "linkVisualizza": "https://drive.google.com/file/d/1RYuvbqGui1vh9lxf-t9Kjdvi3Klt0vol/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1RYuvbqGui1vh9lxf-t9Kjdvi3Klt0vol",
@@ -157,8 +157,8 @@
         "items": ["Giubbotti", "Camicie", "Accessori"]
       },
       {
-        "titolo": "Wellness",
-        "descrizione": "Linee tessili e abbigliamento per wellness e spa.",
+        "titolo": "Abbigliamento Wellness e Beauty",
+        "descrizione": "Linee tessili e abbigliamento per wellness e beauty.",
         "linkVisualizza": "https://drive.google.com/file/d/1UFP-5d4TGscPXPv3WL8pGbsrOMfsi06g/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1UFP-5d4TGscPXPv3WL8pGbsrOMfsi06g",
         "immagine": "img/Abbigliamento/Wellness.jpeg",
@@ -287,8 +287,8 @@
         ]
       },
       {
-        "titolo": "Faber",
-        "descrizione": "Soluzioni per fitness e arredo moderno.",
+        "titolo": "Faber arredamento",
+        "descrizione": "Arredamento luxury per ristorazione e hotel.",
         "linkVisualizza": "https://drive.google.com/file/d/1tE-v9W8fl7_ZhlFjpYpmadW2Xxk3KNtz/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1tE-v9W8fl7_ZhlFjpYpmadW2Xxk3KNtz",
         "immagine": "img/Attrezzatura Fitness e Arredamento/Faber.jpeg",
