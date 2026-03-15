@@ -6,7 +6,7 @@
       {
         "titolo": "Morini Forniture Alberghiere",
         "descrizione": "Catalogo generale completo.",
-        "linkVisualizza": "https://drive.google.com/file/d/1PRvqslHiYH0WzuUb_7F6NJpFI0l9TMlc/view?usp=drivesdk",
+        "linkVisualizza": "https://drive.google.com/file/d/1PRvqslHiYH0WzuUb_7F6NJpFI0l9TMlc/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1PRvqslHiYH0WzuUb_7F6NJpFI0l9TMlc",
         "immagine": "img/Forniture Alberghi e Ristoranti/Morini.jpeg",
         "items": [
@@ -27,7 +27,7 @@
       {
         "titolo": "Piatti Cottage",
         "descrizione": "Catalogo piatti linea Cottage 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot/view?usp=drivesdk",
+        "linkVisualizza": "https://drive.google.com/file/d/1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot",
         "immagine": "img/Forniture Alberghi e Ristoranti/Cottage.jpg",
         "items": [
@@ -39,7 +39,7 @@
       {
         "titolo": "Ecolab Macchine da Cucina",
         "descrizione": "Catalogo Ecolab per macchine da cucina.",
-        "linkVisualizza": "https://drive.google.com/file/d/1Jze5jGbqcI3GNisEEjz5UrNZ-OD_cQ22/view?usp=drivesdk",
+        "linkVisualizza": "https://drive.google.com/file/d/1Jze5jGbqcI3GNisEEjz5UrNZ-OD_cQ22/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1Jze5jGbqcI3GNisEEjz5UrNZ-OD_cQ22",
         "immagine": "img/Forniture Alberghi e Ristoranti/Ecolab.jpg",
         "items": [
@@ -51,13 +51,49 @@
       {
         "titolo": "Metalcarrelli",
         "descrizione": "Catalogo Metalcarrelli 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1r3N6LivfFAv7SBdQhuF5aiIxResqu-2I/view?usp=drivesdk",
+        "linkVisualizza": "https://drive.google.com/file/d/1r3N6LivfFAv7SBdQhuF5aiIxResqu-2I/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1r3N6LivfFAv7SBdQhuF5aiIxResqu-2I",
         "immagine": "img/Forniture Alberghi e Ristoranti/Metalcarrelli.jpg",
         "items": [
           "Carrello servizio 3 ripiani",
           "Carrello portavivande",
           "Accessori per montaggio"
+        ]
+      },
+      {
+        "titolo": "Goldplast",
+        "descrizione": "Catalogo Goldplast forniture per ristorazione.",
+        "linkVisualizza": "https://drive.google.com/file/d/1PrlB893APaTxix83f-Qkyu4JQ5n8rj-2/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1PrlB893APaTxix83f-Qkyu4JQ5n8rj-2",
+        "immagine": "img/Forniture Alberghi e Ristoranti/Goldplast.jpeg",
+        "items": [
+          "Piatti e servizi plastica",
+          "Bicchieri usa e getta",
+          "Accessori monouso"
+        ]
+      },
+      {
+        "titolo": "Lumian",
+        "descrizione": "Catalogo Lumian per soluzioni di illuminazione.",
+        "linkVisualizza": "https://drive.google.com/file/d/13_kydNAuOJWlcmMt--XkRjbPDKTU46Yp/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=13_kydNAuOJWlcmMt--XkRjbPDKTU46Yp",
+        "immagine": "img/Forniture Alberghi e Ristoranti/Lumian.jpeg",
+        "items": [
+          "Lampade per tavolo",
+          "Faretti da incasso",
+          "Lampade decorative"
+        ]
+      },
+      {
+        "titolo": "Tovagliati",
+        "descrizione": "Catalogo tovagliati professionali.",
+        "linkVisualizza": "https://drive.google.com/file/d/1c6fYPTRBVvMy3XpXSAm5XL8fwLY0JmCj/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1c6fYPTRBVvMy3XpXSAm5XL8fwLY0JmCj",
+        "immagine": "img/Forniture Alberghi e Ristoranti/Tovagliati.jpeg",
+        "items": [
+          "Tovaglie in cotone",
+          "Tovaglioli assortiti",
+          "Runner da tavola"
         ]
       }
     ]
@@ -69,8 +105,8 @@
       {
         "titolo": "Mavolo alcolici e bevande",
         "descrizione": "Catalogo Anthology per il 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/183K8MwkM7wuxOvkViqVWaxD2_AiGzu6P/view?usp=sharing",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=183K8MwkM7wuxOvkViqVWaxD2_AiGzu6P",
+        "linkVisualizza": "https://drive.google.com/file/d/1Ja1mppaFVVMODHat2tM8TqH6g60qFJ6l/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1Ja1mppaFVVMODHat2tM8TqH6g60qFJ6l",
         "immagine": "img/Food & Beverage/Mavolo.jpeg",
         "items": [
           "Selezione vini e spumanti",
@@ -81,7 +117,7 @@
       {
         "titolo": "Tisane Bio",
         "descrizione": "Catalogo di tisane biologiche.",
-        "linkVisualizza": "https://drive.google.com/file/d/15im5ov2jpxiUsgPzScnznqEpfiGIYMsB/view?usp=drivesdk",
+        "linkVisualizza": "https://drive.google.com/file/d/15im5ov2jpxiUsgPzScnznqEpfiGIYMsB/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=15im5ov2jpxiUsgPzScnznqEpfiGIYMsB",
         "immagine": "img/Food & Beverage/Tisane.jpg",
         "items": [
@@ -99,8 +135,8 @@
       {
         "titolo": "Abbigliamento professionale",
         "descrizione": "Catalogo abbigliamento e tessuti per hotel e ristorazione.",
-        "linkVisualizza": "#",
-        "linkScarica": "#",
+        "linkVisualizza": "https://drive.google.com/file/d/1AOKyXkpDWBfJDNMLKanHUIoaKxnq79f5/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1AOKyXkpDWBfJDNMLKanHUIoaKxnq79f5",
         "immagine": "img/Abbigliamento/Professionale.jpeg",
         "items": ["Uniformi e divise", "Tovagliato", "Tessuti tecnici"]
       },
@@ -115,16 +151,16 @@
       {
         "titolo": "Horeca",
         "descrizione": "Abbigliamento e tessuti per il settore Horeca.",
-        "linkVisualizza": "#",
-        "linkScarica": "#",
+        "linkVisualizza": "https://drive.google.com/file/d/1RYuvbqGui1vh9lxf-t9Kjdvi3Klt0vol/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1RYuvbqGui1vh9lxf-t9Kjdvi3Klt0vol",
         "immagine": "img/Abbigliamento/Horeca.jpeg",
         "items": ["Giubbotti", "Camicie", "Accessori"]
       },
       {
         "titolo": "Wellness",
         "descrizione": "Linee tessili e abbigliamento per wellness e spa.",
-        "linkVisualizza": "#",
-        "linkScarica": "#",
+        "linkVisualizza": "https://drive.google.com/file/d/1UFP-5d4TGscPXPv3WL8pGbsrOMfsi06g/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1UFP-5d4TGscPXPv3WL8pGbsrOMfsi06g",
         "immagine": "img/Abbigliamento/Wellness.jpeg",
         "items": ["Accappatoi", "Teli spa", "Slippers"]
       }
@@ -137,7 +173,7 @@
       {
         "titolo": "Elephant Parade Design",
         "descrizione": "Catalogo Elephant Parade italian design.",
-        "linkVisualizza": "https://drive.google.com/file/d/1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6/view?usp=sharing",
+        "linkVisualizza": "https://drive.google.com/file/d/1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6",
         "immagine": "img/Oggettistica e Decorazioni/Elephant Parade.jpg",
         "items": [
@@ -149,8 +185,8 @@
       {
         "titolo": "Nature Candle",
         "descrizione": "Catalogo Nature Candle.",
-        "linkVisualizza": "https://drive.google.com/file/d/1DTaBx0flirsEvHxzRklz8QkN8biIt0q5/view?usp=drivesdk",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1DTaBx0flirsEvHxzRklz8QkN8biIt0q5",
+        "linkVisualizza": "https://drive.google.com/file/d/1Oa5arnxltehVZpQsYazh2Dl9gi0MuGc5/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1Oa5arnxltehVZpQsYazh2Dl9gi0MuGc5",
         "immagine": "img/Oggettistica e Decorazioni/Naturecandle.jpg",
         "items": [
           "Candele profumate in vari formati",
@@ -167,7 +203,7 @@
       {
         "titolo": "Brhema Igiene",
         "descrizione": "Catalogo Brhema Igiene 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1_5Pn6bLWRVXy7fihwfl4xhfaP2N-1bK5/view?usp=drivesdk",
+        "linkVisualizza": "https://drive.google.com/file/d/1_5Pn6bLWRVXy7fihwfl4xhfaP2N-1bK5/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1_5Pn6bLWRVXy7fihwfl4xhfaP2N-1bK5",
         "immagine": "img/Cataloghi Brhema/Igiene.jpg",
         "items": [
@@ -179,7 +215,7 @@
       {
         "titolo": "Brhema Industria",
         "descrizione": "Catalogo Brhema Industria 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6/view?usp=drivesdk",
+        "linkVisualizza": "https://drive.google.com/file/d/1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6",
         "immagine": "img/Cataloghi Brhema/Industria.jpg",
         "items": [
@@ -191,7 +227,7 @@
       {
         "titolo": "Brhema Office",
         "descrizione": "Catalogo Brhema Office 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1_0-j99N-pPbh7sV3inToic8rbZs5VZME/view?usp=drivesdk",
+        "linkVisualizza": "https://drive.google.com/file/d/1_0-j99N-pPbh7sV3inToic8rbZs5VZME/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1_0-j99N-pPbh7sV3inToic8rbZs5VZME",
         "immagine": "img/Cataloghi Brhema/Office.jpg",
         "items": [
@@ -203,7 +239,7 @@
       {
         "titolo": "Brhema Sicurezza",
         "descrizione": "Catalogo Brhema Sicurezza 2025.",
-        "linkVisualizza": "https://drive.google.com/file/d/1ZtVyPxCzkpk2BNAx07NH25nnPtZtp_sT/view?usp=drivesdk",
+        "linkVisualizza": "https://drive.google.com/file/d/1ZtVyPxCzkpk2BNAx07NH25nnPtZtp_sT/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1ZtVyPxCzkpk2BNAx07NH25nnPtZtp_sT",
         "immagine": "img/Cataloghi Brhema/Sicurezza.jpg",
         "items": [
@@ -221,7 +257,7 @@
       {
         "titolo": "Water Rower",
         "descrizione": "Catalogo attrezzature fitness di design.",
-        "linkVisualizza": "https://drive.google.com/file/d/1_xna06zDq1ntndYhTHVtOq-lIq_RSJTM/view?usp=drivesdk",
+        "linkVisualizza": "https://drive.google.com/file/d/1_xna06zDq1ntndYhTHVtOq-lIq_RSJTM/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1_xna06zDq1ntndYhTHVtOq-lIq_RSJTM",
         "immagine": "img/Attrezzatura Fitness e Arredamento/Waterrower.jpg",
         "items": ["Remi ergonomici", "Monitor performance", "Panca regolabile"]
@@ -229,7 +265,7 @@
       {
         "titolo": "Bolla da esterno",
         "descrizione": "Struttura trasparente da esterno.",
-        "linkVisualizza": "https://drive.google.com/file/d/1TQVpkcbTGH_agCS593xryrc42uboXBJ4/view?usp=drivesdk",
+        "linkVisualizza": "https://drive.google.com/file/d/1TQVpkcbTGH_agCS593xryrc42uboXBJ4/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1TQVpkcbTGH_agCS593xryrc42uboXBJ4",
         "immagine": "img/Attrezzatura Fitness e Arredamento/Bolla.jpg",
         "items": [
@@ -241,7 +277,7 @@
       {
         "titolo": "Solaris arredamento per esterni",
         "descrizione": "Arredamenti e strutture per esterni.",
-        "linkVisualizza": "https://drive.google.com/file/d/1tdOakJrQ-1gYSqSVyP-C0pkOFU0wlsuI/view?usp=drivesdk",
+        "linkVisualizza": "https://drive.google.com/file/d/1tdOakJrQ-1gYSqSVyP-C0pkOFU0wlsuI/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1tdOakJrQ-1gYSqSVyP-C0pkOFU0wlsuI",
         "immagine": "img/Attrezzatura Fitness e Arredamento/Solaris.jpg",
         "items": [
@@ -253,8 +289,8 @@
       {
         "titolo": "Faber",
         "descrizione": "Soluzioni per fitness e arredo moderno.",
-        "linkVisualizza": "#",
-        "linkScarica": "#",
+        "linkVisualizza": "https://drive.google.com/file/d/1tE-v9W8fl7_ZhlFjpYpmadW2Xxk3KNtz/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1tE-v9W8fl7_ZhlFjpYpmadW2Xxk3KNtz",
         "immagine": "img/Attrezzatura Fitness e Arredamento/Faber.jpeg",
         "items": ["Attrezzature modulari", "Sistema manubri", "Accessori"]
       }
