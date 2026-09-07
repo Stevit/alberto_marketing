@@ -5,16 +5,6 @@
     "link": "https://drive.google.com/file/d/1tE-v9W8fl7_ZhlFjpYpmadW2Xxk3KNtz/view?usp=drive_link"
   },
   {
-    "titolo": "Mavolo alcolici e bevande",
-    "immagine": "img/Food & Beverage/Mavolo.jpeg",
-    "link": "https://drive.google.com/file/d/1Ja1mppaFVVMODHat2tM8TqH6g60qFJ6l/view?usp=drive_link"
-  },
-  {
-    "titolo": "Lumian",
-    "immagine": "img/Forniture Alberghi e Ristoranti/Lumian.jpeg",
-    "link": "https://drive.google.com/file/d/13_kydNAuOJWlcmMt--XkRjbPDKTU46Yp/view?usp=drive_link"
-  },
-  {
     "titolo": "Tisane Bio",
     "immagine": "img/Food & Beverage/Tisane.jpg",
     "link": "https://drive.google.com/file/d/15im5ov2jpxiUsgPzScnznqEpfiGIYMsB/view?usp=drive_link"
@@ -23,5 +13,10 @@
     "titolo": "Erika Ice",
     "immagine": "img/Food & Beverage/ErikaIce.jpg",
     "link": "https://drive.google.com/file/d/17fECiOXCaL9JvFbppXhJi8LL5SB4s6Z_/view?usp=drive_link"
+  },
+  {
+    "titolo": "Dalmonego Surgelati",
+    "immagine": "img/Food & Beverage/Dalmonego.jpg",
+    "link": "https://drive.google.com/file/d/1tgwGq1cRFaVhnoosag6ZcwjpSr0fV8g3/view?usp=drive_link"
   }
 ]
