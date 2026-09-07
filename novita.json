@@ -10,11 +10,6 @@
     "link": "https://drive.google.com/file/d/1Ja1mppaFVVMODHat2tM8TqH6g60qFJ6l/view?usp=drive_link"
   },
   {
-    "titolo": "Piatti Cottage",
-    "immagine": "img/Forniture Alberghi e Ristoranti/Cottage.jpg",
-    "link": "https://drive.google.com/file/d/1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot/view?usp=drive_link"
-  },
-  {
     "titolo": "Lumian",
     "immagine": "img/Forniture Alberghi e Ristoranti/Lumian.jpeg",
     "link": "https://drive.google.com/file/d/13_kydNAuOJWlcmMt--XkRjbPDKTU46Yp/view?usp=drive_link"
@@ -23,5 +18,10 @@
     "titolo": "Tisane Bio",
     "immagine": "img/Food & Beverage/Tisane.jpg",
     "link": "https://drive.google.com/file/d/15im5ov2jpxiUsgPzScnznqEpfiGIYMsB/view?usp=drive_link"
+  },
+  {
+    "titolo": "Erika Ice",
+    "immagine": "img/Food & Beverage/ErikaIce.jpg",
+    "link": "https://drive.google.com/file/d/17fECiOXCaL9JvFbppXhJi8LL5SB4s6Z_/view?usp=drive_link"
   }
 ]

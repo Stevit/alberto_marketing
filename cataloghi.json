@@ -4,36 +4,15 @@
     "immagine": "img/Forniture Alberghi e Ristoranti/Categoria.jpeg",
     "cataloghi": [
       {
-        "titolo": "Morini Forniture Alberghiere",
-        "descrizione": "Catalogo generale completo.",
-        "linkVisualizza": "https://drive.google.com/file/d/1PRvqslHiYH0WzuUb_7F6NJpFI0l9TMlc/view?usp=drive_link",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1PRvqslHiYH0WzuUb_7F6NJpFI0l9TMlc",
-        "immagine": "img/Forniture Alberghi e Ristoranti/Morini.jpeg",
+        "titolo": "Attrezzature Toninelli",
+        "descrizione": "Catalogo attrezzature Toninelli.",
+        "linkVisualizza": "https://drive.google.com/file/d/1N_0_mf4hyw_I6XqI9WkVdV47lMAxZC0o/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1N_0_mf4hyw_I6XqI9WkVdV47lMAxZC0o",
+        "immagine": "img/Forniture Alberghi e Ristoranti/Toninelli.jpg",
         "items": [
-          "piatti",
-          "bicchieri",
-          "posate",
-          "porcellane",
-          "buffet",
-          "taglieri",
-          "coppette",
-          "piastre referigerate",
-          "distributori",
-          "vasssoi",
-          "tazzine",
-          "bar"
-        ]
-      },
-      {
-        "titolo": "Piatti Cottage",
-        "descrizione": "Catalogo piatti linea Cottage.",
-        "linkVisualizza": "https://drive.google.com/file/d/1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot/view?usp=drive_link",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1BkNFYPLhlIjpEyqMdcdPeg-Fvb7tvvot",
-        "immagine": "img/Forniture Alberghi e Ristoranti/Cottage.jpg",
-        "items": [
-          "Piatto Piano 26cm",
-          "Piatto Fondo 20cm",
-          "Set 6 Piatti Dessert"
+          "Attrezzature da cucina",
+          "Forniture alberghiere",
+          "Accessori sala e bar"
         ]
       },
       {
@@ -124,6 +103,30 @@
           "Infusi depurativi",
           "Tisane digestione",
           "Bustine aromatizzate 20pz"
+        ]
+      },
+      {
+        "titolo": "Erika Ice",
+        "descrizione": "Catalogo Erika Ice.",
+        "linkVisualizza": "https://drive.google.com/file/d/17fECiOXCaL9JvFbppXhJi8LL5SB4s6Z_/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=17fECiOXCaL9JvFbppXhJi8LL5SB4s6Z_",
+        "immagine": "img/Food & Beverage/ErikaIce.jpg",
+        "items": [
+          "Ghiaccio alimentare",
+          "Ghiaccio per cocktail",
+          "Cubetti di ghiaccio"
+        ]
+      },
+      {
+        "titolo": "Dalmonego Surgelati",
+        "descrizione": "Catalogo Dalmonego surgelati.",
+        "linkVisualizza": "https://drive.google.com/file/d/1tgwGq1cRFaVhnoosag6ZcwjpSr0fV8g3/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1tgwGq1cRFaVhnoosag6ZcwjpSr0fV8g3",
+        "immagine": "img/Food & Beverage/Dalmonego.jpg",
+        "items": [
+          "Prodotti surgelati",
+          "Alimenti surgelati",
+          "Specialità surgelate"
         ]
       }
     ]
@@ -254,14 +257,6 @@
     "categoria": "Attrezzature Fitness e Arredamento",
     "immagine": "img/Attrezzatura Fitness e Arredamento/Categoria.jpeg",
     "cataloghi": [
-      {
-        "titolo": "Water Rower",
-        "descrizione": "Catalogo attrezzature fitness di design.",
-        "linkVisualizza": "https://drive.google.com/file/d/1_xna06zDq1ntndYhTHVtOq-lIq_RSJTM/view?usp=drive_link",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1_xna06zDq1ntndYhTHVtOq-lIq_RSJTM",
-        "immagine": "img/Attrezzatura Fitness e Arredamento/Waterrower.jpg",
-        "items": ["Remi ergonomici", "Monitor performance", "Panca regolabile"]
-      },
       {
         "titolo": "Bolla da esterno",
         "descrizione": "Struttura trasparente da esterno.",
