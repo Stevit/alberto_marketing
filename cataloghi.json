@@ -8,7 +8,7 @@
         "descrizione": "Catalogo attrezzature Toninelli.",
         "linkVisualizza": "https://drive.google.com/file/d/1N_0_mf4hyw_I6XqI9WkVdV47lMAxZC0o/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1N_0_mf4hyw_I6XqI9WkVdV47lMAxZC0o",
-        "immagine": "img/Forniture Alberghi e Ristoranti/Toninelli.jpg",
+        "immagine": "img/Forniture Alberghi e Ristoranti/Toninelli.jpeg",
         "items": [
           "Attrezzature da cucina",
           "Forniture alberghiere",
@@ -20,7 +20,7 @@
         "descrizione": "Catalogo Ecolab per macchine da cucina.",
         "linkVisualizza": "https://drive.google.com/file/d/1Jze5jGbqcI3GNisEEjz5UrNZ-OD_cQ22/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1Jze5jGbqcI3GNisEEjz5UrNZ-OD_cQ22",
-        "immagine": "img/Forniture Alberghi e Ristoranti/Ecolab.jpg",
+        "immagine": "img/Forniture Alberghi e Ristoranti/Ecolab.jpeg",
         "items": [
           "Dosatori detergente",
           "Programmi lavaggio per lavastoviglie",
@@ -32,7 +32,7 @@
         "descrizione": "Catalogo Metalcarrelli.",
         "linkVisualizza": "https://drive.google.com/file/d/1r3N6LivfFAv7SBdQhuF5aiIxResqu-2I/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1r3N6LivfFAv7SBdQhuF5aiIxResqu-2I",
-        "immagine": "img/Forniture Alberghi e Ristoranti/Metalcarrelli.jpg",
+        "immagine": "img/Forniture Alberghi e Ristoranti/Metalcarrelli.jpeg",
         "items": [
           "Carrello servizio 3 ripiani",
           "Carrello portavivande",
@@ -74,6 +74,30 @@
           "Tovaglioli assortiti",
           "Runner da tavola"
         ]
+      },
+      {
+        "titolo": "Vista Alegre Trade",
+        "descrizione": "Catalogo Vista Alegre Trade - Hotelware.",
+        "linkVisualizza": "https://drive.google.com/file/d/10ARmP7KELsq4Vu6FLnGZENTcAVi0oowy/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=10ARmP7KELsq4Vu6FLnGZENTcAVi0oowy",
+        "immagine": "img/Forniture Alberghi e Ristoranti/Trade.jpeg",
+        "items": [
+          "Porcellane hotelware",
+          "Piatti e stoviglie di design",
+          "Accessori tavola luxury"
+        ]
+      },
+      {
+        "titolo": "Vista Alegre New Products 2025",
+        "descrizione": "Catalogo novità Vista Alegre Hotelware 2025.",
+        "linkVisualizza": "https://drive.google.com/file/d/1iS1PvqtKsMHdDINfFLOpJnfs5DzyIqxc/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1iS1PvqtKsMHdDINfFLOpJnfs5DzyIqxc",
+        "immagine": "img/Forniture Alberghi e Ristoranti/Vistallegre.jpeg",
+        "items": [
+          "Nuove collezioni 2025",
+          "Piatti gourmet e presentazione",
+          "Porcellana professionale"
+        ]
       }
     ]
   },
@@ -82,15 +106,75 @@
     "immagine": "img/Food & Beverage/Categoria.jpeg",
     "cataloghi": [
       {
-        "titolo": "Mavolo alcolici e bevande",
-        "descrizione": "Catalogo Anthology per il 2026.",
-        "linkVisualizza": "https://drive.google.com/file/d/1Ja1mppaFVVMODHat2tM8TqH6g60qFJ6l/view?usp=drive_link",
-        "linkScarica": "https://drive.google.com/uc?export=download&id=1Ja1mppaFVVMODHat2tM8TqH6g60qFJ6l",
-        "immagine": "img/Food & Beverage/Mavolo.jpeg",
+        "titolo": "Spirits & Colori",
+        "descrizione": "Catalogo Spirits & Colori - Top spirits and fine wines.",
+        "linkVisualizza": "https://drive.google.com/file/d/1Ti-oeUM9XOdV1qnAAcAdXFC2uwgOm4RU/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1Ti-oeUM9XOdV1qnAAcAdXFC2uwgOm4RU",
+        "immagine": "img/Food & Beverage/Spirits.jpeg",
         "items": [
-          "Selezione vini e spumanti",
-          "Syrup e sciroppi per cocktail",
-          "Bottiglie in edizione speciale"
+          "Spirits e distillati",
+          "Vini selezionati",
+          "Specialità beverage"
+        ]
+      },
+      {
+        "titolo": "Birra Baladin",
+        "descrizione": "Catalogo birre artigianali Baladin.",
+        "linkVisualizza": "https://drive.google.com/file/d/1GUv5aEKIB5wF2a49ktZsIgs6FvUl-n2O/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1GUv5aEKIB5wF2a49ktZsIgs6FvUl-n2O",
+        "immagine": "img/Food & Beverage/Baladin.jpeg",
+        "items": [
+          "Birre artigianali",
+          "Bibite artigianali",
+          "Specialità Baladin"
+        ]
+      },
+      {
+        "titolo": "Vinovi",
+        "descrizione": "Catalogo Vinovi - Open your spirits!",
+        "linkVisualizza": "https://drive.google.com/file/d/1ZXdy0ZoaPcGOET4fikt3SpqgFVG5xCtr/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1ZXdy0ZoaPcGOET4fikt3SpqgFVG5xCtr",
+        "immagine": "img/Food & Beverage/Vinovi.jpeg",
+        "items": [
+          "Selezione vini e liquori",
+          "Distillati premium",
+          "Spirits di tendenza"
+        ]
+      },
+      {
+        "titolo": "Vino Vincit",
+        "descrizione": "Catalogo Vino Vincit.",
+        "linkVisualizza": "https://drive.google.com/file/d/1THZMVpESsxyWtFsPEY-YKCf9SnasU3wl/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1THZMVpESsxyWtFsPEY-YKCf9SnasU3wl",
+        "immagine": "img/Food & Beverage/Vinovincit.jpeg",
+        "items": [
+          "Vini pregiati",
+          "Selezione cantine",
+          "Etichette esclusive"
+        ]
+      },
+      {
+        "titolo": "Spirits Liber",
+        "descrizione": "Catalogo Spirits Liber.",
+        "linkVisualizza": "https://drive.google.com/file/d/1MTAaK7Q-iTSPZRQoXYwa0gc0oogq-xbX/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1MTAaK7Q-iTSPZRQoXYwa0gc0oogq-xbX",
+        "immagine": "img/Food & Beverage/Liber.jpeg",
+        "items": [
+          "Spirits di eccellenza",
+          "Distillati e liquori",
+          "Selezione Liber"
+        ]
+      },
+      {
+        "titolo": "Wine & Spirits Liber",
+        "descrizione": "Catalogo Wine & Spirits Liber.",
+        "linkVisualizza": "https://drive.google.com/file/d/1IFCuXif6OU5QVr2Qz8I8Wq_CqS_6Z__d/view?usp=drive_link",
+        "linkScarica": "https://drive.google.com/uc?export=download&id=1IFCuXif6OU5QVr2Qz8I8Wq_CqS_6Z__d",
+        "immagine": "img/Food & Beverage/Winespirit.jpeg",
+        "items": [
+          "Vini e spumanti",
+          "Spirits e distillati",
+          "Selezione Wine & Spirits"
         ]
       },
       {
@@ -98,7 +182,7 @@
         "descrizione": "Catalogo di tisane biologiche.",
         "linkVisualizza": "https://drive.google.com/file/d/15im5ov2jpxiUsgPzScnznqEpfiGIYMsB/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=15im5ov2jpxiUsgPzScnznqEpfiGIYMsB",
-        "immagine": "img/Food & Beverage/Tisane.jpg",
+        "immagine": "img/Food & Beverage/Tisane.jpeg",
         "items": [
           "Infusi depurativi",
           "Tisane digestione",
@@ -110,7 +194,7 @@
         "descrizione": "Catalogo Erika Ice.",
         "linkVisualizza": "https://drive.google.com/file/d/17fECiOXCaL9JvFbppXhJi8LL5SB4s6Z_/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=17fECiOXCaL9JvFbppXhJi8LL5SB4s6Z_",
-        "immagine": "img/Food & Beverage/ErikaIce.jpg",
+        "immagine": "img/Food & Beverage/ErikaIce.jpeg",
         "items": [
           "Ghiaccio alimentare",
           "Ghiaccio per cocktail",
@@ -122,7 +206,7 @@
         "descrizione": "Catalogo Dalmonego surgelati.",
         "linkVisualizza": "https://drive.google.com/file/d/1tgwGq1cRFaVhnoosag6ZcwjpSr0fV8g3/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1tgwGq1cRFaVhnoosag6ZcwjpSr0fV8g3",
-        "immagine": "img/Food & Beverage/Dalmonego.jpg",
+        "immagine": "img/Food & Beverage/Dalmonego.jpeg",
         "items": [
           "Prodotti surgelati",
           "Alimenti surgelati",
@@ -141,7 +225,11 @@
         "linkVisualizza": "https://drive.google.com/file/d/1AOKyXkpDWBfJDNMLKanHUIoaKxnq79f5/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1AOKyXkpDWBfJDNMLKanHUIoaKxnq79f5",
         "immagine": "img/Abbigliamento/Professionale.jpeg",
-        "items": ["Uniformi e divise", "Tovagliato", "Tessuti tecnici"]
+        "items": [
+          "Uniformi e divise",
+          "Tovagliato",
+          "Tessuti tecnici"
+        ]
       },
       {
         "titolo": "Abigliamento Chefline",
@@ -149,7 +237,11 @@
         "linkVisualizza": "https://drive.google.com/file/d/1RX1k4jvFingL5epoexjm4bEOxUkPwn_A/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1RX1k4jvFingL5epoexjm4bEOxUkPwn_A",
         "immagine": "img/Abbigliamento/Chefline.jpeg",
-        "items": ["Giacche chef", "Pantaloni cucina", "Grembiuli"]
+        "items": [
+          "Giacche chef",
+          "Pantaloni cucina",
+          "Grembiuli"
+        ]
       },
       {
         "titolo": "Abbigliamento Horeca",
@@ -157,7 +249,11 @@
         "linkVisualizza": "https://drive.google.com/file/d/1RYuvbqGui1vh9lxf-t9Kjdvi3Klt0vol/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1RYuvbqGui1vh9lxf-t9Kjdvi3Klt0vol",
         "immagine": "img/Abbigliamento/Horeca.jpeg",
-        "items": ["Giubbotti", "Camicie", "Accessori"]
+        "items": [
+          "Giubbotti",
+          "Camicie",
+          "Accessori"
+        ]
       },
       {
         "titolo": "Abbigliamento Wellness e Beauty",
@@ -165,20 +261,24 @@
         "linkVisualizza": "https://drive.google.com/file/d/1UFP-5d4TGscPXPv3WL8pGbsrOMfsi06g/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1UFP-5d4TGscPXPv3WL8pGbsrOMfsi06g",
         "immagine": "img/Abbigliamento/Wellness.jpeg",
-        "items": ["Accappatoi", "Teli spa", "Slippers"]
+        "items": [
+          "Accappatoi",
+          "Teli spa",
+          "Slippers"
+        ]
       }
     ]
   },
   {
     "categoria": "Oggettistica e Decorazioni",
-    "immagine": "img/Oggettistica e Decorazioni/Categoria.jpg",
+    "immagine": "img/Oggettistica e Decorazioni/Categoria.jpeg",
     "cataloghi": [
       {
         "titolo": "Elephant Parade Design",
         "descrizione": "Catalogo Elephant Parade italian design.",
         "linkVisualizza": "https://drive.google.com/file/d/1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1DlG_HCBKWbVHByFlT8i3lKuxvSW03Yn6",
-        "immagine": "img/Oggettistica e Decorazioni/Elephant Parade.jpg",
+        "immagine": "img/Oggettistica e Decorazioni/Elephant Parade.jpeg",
         "items": [
           "Statue da collezione",
           "Gadget artistici",
@@ -190,7 +290,7 @@
         "descrizione": "Catalogo Nature Candle.",
         "linkVisualizza": "https://drive.google.com/file/d/1Oa5arnxltehVZpQsYazh2Dl9gi0MuGc5/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1Oa5arnxltehVZpQsYazh2Dl9gi0MuGc5",
-        "immagine": "img/Oggettistica e Decorazioni/Naturecandle.jpg",
+        "immagine": "img/Oggettistica e Decorazioni/Naturecandle.jpeg",
         "items": [
           "Candele profumate in vari formati",
           "Portacandele in vetro",
@@ -201,14 +301,14 @@
   },
   {
     "categoria": "Cataloghi Brhema",
-    "immagine": "img/Cataloghi Brhema/Categoria.jpg",
+    "immagine": "img/Cataloghi Brhema/Categoria.jpeg",
     "cataloghi": [
       {
         "titolo": "Brhema Igiene",
         "descrizione": "Catalogo Brhema Igiene 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1_5Pn6bLWRVXy7fihwfl4xhfaP2N-1bK5/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1_5Pn6bLWRVXy7fihwfl4xhfaP2N-1bK5",
-        "immagine": "img/Cataloghi Brhema/Igiene.jpg",
+        "immagine": "img/Cataloghi Brhema/Igiene.jpeg",
         "items": [
           "Detergenti concentrati",
           "Guanti monouso",
@@ -220,7 +320,7 @@
         "descrizione": "Catalogo Brhema Industria 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1Yu3AZzSXZ735xJCgLmHeE4Ig12j5GER6",
-        "immagine": "img/Cataloghi Brhema/Industria.jpg",
+        "immagine": "img/Cataloghi Brhema/Industria.jpeg",
         "items": [
           "Lubrificanti industriali",
           "Ricambi meccanici",
@@ -232,7 +332,7 @@
         "descrizione": "Catalogo Brhema Office 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1_0-j99N-pPbh7sV3inToic8rbZs5VZME/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1_0-j99N-pPbh7sV3inToic8rbZs5VZME",
-        "immagine": "img/Cataloghi Brhema/Office.jpg",
+        "immagine": "img/Cataloghi Brhema/Office.jpeg",
         "items": [
           "Carta per ufficio A4",
           "Cartucce toner",
@@ -244,7 +344,7 @@
         "descrizione": "Catalogo Brhema Sicurezza 2025.",
         "linkVisualizza": "https://drive.google.com/file/d/1ZtVyPxCzkpk2BNAx07NH25nnPtZtp_sT/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1ZtVyPxCzkpk2BNAx07NH25nnPtZtp_sT",
-        "immagine": "img/Cataloghi Brhema/Sicurezza.jpg",
+        "immagine": "img/Cataloghi Brhema/Sicurezza.jpeg",
         "items": [
           "Estintori e accessori",
           "Segnaletica di sicurezza",
@@ -262,7 +362,7 @@
         "descrizione": "Struttura trasparente da esterno.",
         "linkVisualizza": "https://drive.google.com/file/d/1TQVpkcbTGH_agCS593xryrc42uboXBJ4/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1TQVpkcbTGH_agCS593xryrc42uboXBJ4",
-        "immagine": "img/Attrezzatura Fitness e Arredamento/Bolla.jpg",
+        "immagine": "img/Attrezzatura Fitness e Arredamento/Bolla.jpeg",
         "items": [
           "Cupola trasparente 3m",
           "Sistema di ventilazione",
@@ -274,7 +374,7 @@
         "descrizione": "Arredamenti e strutture per esterni.",
         "linkVisualizza": "https://drive.google.com/file/d/1tdOakJrQ-1gYSqSVyP-C0pkOFU0wlsuI/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1tdOakJrQ-1gYSqSVyP-C0pkOFU0wlsuI",
-        "immagine": "img/Attrezzatura Fitness e Arredamento/Solaris.jpg",
+        "immagine": "img/Attrezzatura Fitness e Arredamento/Solaris.jpeg",
         "items": [
           "Gazebo pieghevole",
           "Tavoli esterni resistenti",
@@ -287,7 +387,11 @@
         "linkVisualizza": "https://drive.google.com/file/d/1tE-v9W8fl7_ZhlFjpYpmadW2Xxk3KNtz/view?usp=drive_link",
         "linkScarica": "https://drive.google.com/uc?export=download&id=1tE-v9W8fl7_ZhlFjpYpmadW2Xxk3KNtz",
         "immagine": "img/Attrezzatura Fitness e Arredamento/Faber.jpeg",
-        "items": ["Attrezzature modulari", "Sistema manubri", "Accessori"]
+        "items": [
+          "Attrezzature modulari",
+          "Sistema manubri",
+          "Accessori"
+        ]
       }
     ]
   }
